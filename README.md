@@ -20,7 +20,7 @@ Este mes la convocatoria es para cuentos cortos de **FANTASÍA** en todos sus su
 7. Los mejores relatos se incluirán en la compilación que se publicará como un libro de formato ePub de descarga gratuita en la principales librerías en línea (aunque en Amazon sólo estará gratuito los primeros días del mes, por las exigencias de "*Kindle Direct Publishing*").
 8. Los seleccionados deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación.
 
-Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, por favor déjanos un comentario en nuestro perfil de redes sociales o escríbenos a <**kannonical_contacto@proton.me**> y te responderemos a la brevedad posible.
+Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, por favor déjanos un comentario en nuestro perfil de redes sociales o escríbenos a **<kannonical_contacto@proton.me>** y te responderemos a la brevedad posible.
 
 
 ## Sobre nuestras antologías publicadas
