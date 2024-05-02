@@ -66,11 +66,8 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 ## Sobre nuestras redes sociales:
 Visita nuestro perfil de Facebook y nuestro Instagram
-* [**Facebook /Kannonical**](https://faceboo.com/Kannonical)
+* [**Facebook /Kannonical**](https://facebook.com/Kannonical)
 * [**Instagram/editorial_kannonical**](https://instagram.com/editorial_kannonical)
-
-## Si quieres saber más sobre nuestros autores:
-Puedes visitar los perfiles de los autores que han participado en nuestras antologías en [nuestro antiguo sitio](https://kannonical.wixsite.com/editores)
 
 ## Si quieres saber más sobre por qué hacemos esto:
 Como ya explicamos arriba somos un *colectivo literario/editorial*, lo que implica que quienes trabajamos en ***Kannonical Editores*** donamos nuestro tiempo para hacer posibles las antologías, sin afán de lucro y de manera altruísta. No cobramos por la edición de nuestras antologías digitales, no cobramos para que los cuentos entren en las antologías, y en la medida de lo posible, no cobramos por los libros resultantes (por favor, bajen nuestras antologías de Amazon sólo cuando estén gratis, les avisaremos en qué momento ocurre esto aquí y en nuestras redes sociales).
@@ -84,5 +81,5 @@ A un autor novel puede parecerle imposible el publicar un libro pues no tiene lo
 La forma más sencilla de ayudarnos es compartiendo nuestras publicaciones y comentarios en tus redes sociales, y si quieres ayudarnos con alguna tarea particular (corrección de estilo; ilustración para portada o para imágenes interiores; ilustración de la imagen para volver al índice de contenidos, plecas, ex-libris y divisores de página; limpieza de texto para subirlo al ePub, etc.) tu ayuda es más que bienvenida. Sólo recuerda que no tenemos los recursos para pagarte y que estarías donando tu tiempo y trabajo para hacer posible una antología. Eso sí, en todos nuestros libros damos crédito a quienes nos ayudaron y apoyaron, así que tu nombre (o pseudónimo) pasaría a la historia en una de nuestras publicaciones digitales. Además ofrecemos recomendar tus servicios a nuestros seguidores y amigos.
 
 Recuerda, **<kannonical_contacto@proton.me>** es nuestro correo electrónico de contacto y estas son nuestras redes sociales:
-* [**Facebook /Kannonical**](https://faceboo.com/Kannonical)
+* [**Facebook /Kannonical**](https://facebook.com/Kannonical)
 * [**Instagram/editorial_kannonical**](https://instagram.com/editorial_kannonical)
