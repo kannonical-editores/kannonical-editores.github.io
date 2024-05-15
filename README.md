@@ -1,3 +1,5 @@
+#### Menú:
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-mes-de-mayo-cuento-corto-de-fantas%C3%ADa) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 # Kannonical Editores
   ![Kannonical Editores](https://avatars.githubusercontent.com/u/166889025?s=400&u=13803cccc7516e3c48b27669e7b3246bca209761&v=4)
 
@@ -6,6 +8,7 @@ Nuestra página está en construcción, pero aquí está lo básico sobre nosotr
 Somos un colectivo literario/editorial que publica convocatorias de cuento para hacer antologías digitales y dar a conocer a escritores noveles🤩 Lo que significa que somos un grupo de personas que dona su tiempo para hacer las antologías (lo que implica hacer las convocatorias, revisar los cuentos, seleccionar los relatos, editar las historias, hacer corrección de estilo a los relatos, maquetar el libro electrónico, planear la portada y las ilustraciones internas, hacer ilustraciones y/o sacar fotografías para la portada, hacer el diseño gráfico de libro, hacer el archivo ePub, y finalmente subir el archivo a librerías en línea) y mantener las redes sociales vivas (responder mensajes, colocar historias, subir los avisos sobre publicaciones y convocatorias, moderar nuestro grupo).
 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
+
 
 ## Sobre la convocatoria del mes de mayo (cuento corto de **fantasía**):
 Este mes la convocatoria es para cuentos cortos de **FANTASÍA** en todos sus subgéneros. Puede ser de *fantasía oscura*, *viajes en el tiempo*, *cuento de hadas*, *fantasía épica*, *fantasía heróica*, *alta fantasía*, *fantasía urbana*, *lit RPG*, *retelling*, *basada en mitología*, etc., incluso el *realismo mágico* entra entre sus subgéneros.  
@@ -22,10 +25,13 @@ Este mes la convocatoria es para cuentos cortos de **FANTASÍA** en todos sus su
 
 Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, por favor déjanos un comentario en nuestro perfil de redes sociales o escríbenos a **<kannonical_contacto@proton.me>** y te responderemos a la brevedad posible.
 
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 ## Sobre nuestras antologías publicadas
-Tenemos tres antologías publicadas en formato digital en las principales librerías en línea:
+Tenemos tres antologías publicadas en formato digital en las principales librerías en línea:  
 ### ***Memorias de la oscuridad***
+![Memorias de la obscuridad](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-amci-fantas-4.jpg)  
 Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y puedes descargarla aquí:
 
 **DESCARGA GRATUITA**
@@ -39,13 +45,19 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 * Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CLZVBZ9K/](https://www.amazon.com/dp/B0CLZVBZ9K/)
 * Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0CLZVBZ9K/](https://www.amazon.es/dp/B0CLZVBZ9K/)
 
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
 ### ***Cuéntamelo con lujuria de detalles***
+![Portada de "Cuéntamelo con lujuria de detalles"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-ccldd-ama01c.jpg)  
 Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles**, y puedes descargarla aquí (de momento sólo está en Amazon):
 * Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CVF2XBSV](https://www.amazon.com.mx/dp/B0CVF2XBSV)
 * Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0CVF2XBSV](https://www.amazon.es/dp/B0CVF2XBSV)
 * Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CVF2XBSV](https://www.amazon.com/dp/B0CVF2XBSV)
 
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
 ### ***Todas hieren, la última mata***
+![Portada de "Todas hieren, la última mata"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x400-thlum-ama02.jpg)  
 Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata** y puedes descargarla aquí:
 
 **DESCARGA GRATIS**
@@ -64,10 +76,16 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0D1V1HZH6](https://www.amazon.com/dp/B0D1V1HZH6)
 * 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0D1V1HZH6](https://www.amazon.es/dp/B0D1V1HZH6)
 
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
 ## Sobre nuestras redes sociales:
 Visita nuestro perfil de Facebook y nuestro Instagram
 * [**Facebook /Kannonical**](https://facebook.com/Kannonical)
 * [**Instagram/editorial_kannonical**](https://instagram.com/editorial_kannonical)
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 ## Si quieres saber más sobre por qué hacemos esto:
 Como ya explicamos arriba somos un *colectivo literario/editorial*, lo que implica que quienes trabajamos en ***Kannonical Editores*** donamos nuestro tiempo para hacer posibles las antologías, sin afán de lucro y de manera altruísta. No cobramos por la edición de nuestras antologías digitales, no cobramos para que los cuentos entren en las antologías, y en la medida de lo posible, no cobramos por los libros resultantes (por favor, bajen nuestras antologías de Amazon sólo cuando estén gratis, les avisaremos en qué momento ocurre esto aquí y en nuestras redes sociales).
@@ -83,3 +101,6 @@ La forma más sencilla de ayudarnos es compartiendo nuestras publicaciones y com
 Recuerda, **<kannonical_contacto@proton.me>** es nuestro correo electrónico de contacto y estas son nuestras redes sociales:
 * [**Facebook /Kannonical**](https://facebook.com/Kannonical)
 * [**Instagram/editorial_kannonical**](https://instagram.com/editorial_kannonical)
+
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
