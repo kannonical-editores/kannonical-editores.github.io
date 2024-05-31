@@ -1,5 +1,5 @@
 #### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-mes-de-mayo-cuento-corto-de-fantas%C3%ADa) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-junio-julio-de-relato-corto-de-vampiros-%EF%B8%8F) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
   ![Kannonical Editores](https://avatars.githubusercontent.com/u/166889025?s=400&u=13803cccc7516e3c48b27669e7b3246bca209761&v=4)
 
@@ -10,18 +10,20 @@ Somos un colectivo literario/editorial que publica convocatorias de cuento para 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 
 
-## Sobre la convocatoria del mes de mayo (cuento corto de **fantasía**):
-Este mes la convocatoria es para cuentos cortos de **FANTASÍA** en todos sus subgéneros. Puede ser de *fantasía oscura*, *viajes en el tiempo*, *cuento de hadas*, *fantasía épica*, *fantasía heróica*, *alta fantasía*, *fantasía urbana*, *lit RPG*, *retelling*, *basada en mitología*, etc., incluso el *realismo mágico* entra entre sus subgéneros.  
+![1000x1000 Convocat Vampiros FB 01b](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/0a045fc5-2f2b-4f09-ae88-47cf0f51b1a5)
+
+## Sobre la convocatoria del bimestre de junio-julio de relato corto de **VAMPIROS** 🧛‍♀️:
+Este bimestre la convocatoria es para relatos cortos de **VAMPIROS** en todas sus acepciones y posibles géneros. Mientras haya un vampiro (de cualquier tipo) en tu relato, la historia puede ser de *fantasía oscura*, *viajes en el tiempo*, *ciencia ficción*, *misterio*, *aventura espacial*, *terror*, *fantasía urbana*, *romance*, *ficción apocalíptica*, *basada en mitología*, *thriller*, etc.  
 
 ### BASES
-1. El relato debe tener una extensión mínima de 700 palabras y una máxima de 4500 palabras (aproximadamente entre una y cinco cuartillas).
+1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
 2. La historia debe tener la estructura de “**inicio - nudo - desenlace**”.
-3. Deberá ser un cuento **original**, **inédito** y tratar sobre el tema de escritura de este mes, es decir “***FANTASÍA***” en cualquiera de sus subgéneros.
+3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre el tema de escritura de este bimestre, es decir “***VAMPIROS***” en cualquiera de sus acepciones.
 4. **No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
-5. La **fecha límite** de entrega del relato es el día **sábado 25 de mayo del 2024**. Puedes entregar tu relato a partir del día de hoy y hasta las 23:59 del 25 de mayo (hora de la Ciudad de México).
+5. La **fecha límite** de entrega del relato es el día **jueves 25 de julio del 2024**. Puedes entregar tu relato a partir del **1° de junio del 2024** y hasta las 23:59 del 25 de julio del 2024 (hora de la Ciudad de México, es decir, UTC -6).
 6. Escribe tu relato en un editor de texto cualquiera y manda el archivo tipo *.doc*, *.docx* u *.odt* a **<kannonical_contacto@proton.me>**
 7. Los mejores relatos se incluirán en la compilación que se publicará como un libro de formato ePub de descarga gratuita en la principales librerías en línea (aunque en Amazon sólo estará gratuito los primeros días del mes, por las exigencias de "*Kindle Direct Publishing*").
-8. Los seleccionados deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación.
+8. Los autores de los relatos seleccionados deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación.
 
 Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, por favor déjanos un comentario en nuestro perfil de redes sociales o escríbenos a **<kannonical_contacto@proton.me>** y te responderemos a la brevedad posible.
 
@@ -75,6 +77,24 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0D1V1HZH6](https://www.amazon.com.mx/dp/B0D1V1HZH6)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0D1V1HZH6](https://www.amazon.com/dp/B0D1V1HZH6)
 * 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0D1V1HZH6](https://www.amazon.es/dp/B0D1V1HZH6)
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+### ***Hasta la última gota***
+![400x640 HlUG](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/58f7cfc9-a470-4820-95d0-3229cfd7ce79)  
+Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemos mucho cariño por ser nuestra "*Antología Cero*". Esta es nuestra única antología que no es gratuita. Puedes descargarla aquí:
+
+**DESCARGA CON COSTO MÍNIMO**
+* 📕 Smashwords: [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
+* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932](https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932)
+* 📘 Kobo: [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
+* 📙 AppleBooks: [https://books.apple.com/book/id6484316887](https://books.apple.com/book/id6484316887)
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/b/38OBKa](https://books2read.com/b/38OBKa)
+* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CLZN58FY](https://www.amazon.com.mx/dp/B0CLZN58FY)
+* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CLZN58FY](https://www.amazon.com/dp/B0CLZN58FY)
+* 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
+
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
