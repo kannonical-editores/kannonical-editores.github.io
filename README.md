@@ -1,5 +1,5 @@
 #### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-junio-julio-de-relato-corto-de-vampiros-%EF%B8%8F) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-junio-julio-de-relato-corto-de-vampiros-%EF%B8%8F) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
   ![Kannonical Editores](https://avatars.githubusercontent.com/u/166889025?s=400&u=13803cccc7516e3c48b27669e7b3246bca209761&v=4)
 
@@ -31,7 +31,7 @@ Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, p
 
 
 ## Sobre nuestras antologías publicadas
-Tenemos tres antologías publicadas en formato digital en las principales librerías en línea:  
+Tenemos cuatro antologías publicadas en formato digital en las principales librerías en línea:  
 ### ***Memorias de la oscuridad***
 ![Memorias de la obscuridad](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-amci-fantas-4.jpg)  
 Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y puedes descargarla aquí:
@@ -77,6 +77,28 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0D1V1HZH6](https://www.amazon.com.mx/dp/B0D1V1HZH6)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0D1V1HZH6](https://www.amazon.com/dp/B0D1V1HZH6)
 * 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0D1V1HZH6](https://www.amazon.es/dp/B0D1V1HZH6)
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+### ***Premoniciones sintéticas***  
+![Premoniciones sintéticas](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/2b6ee982-82da-4849-b4d8-0eceb43dcc8b)  
+Nuestra cuarta antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de febrero 2024*. Se llama **Premoniciones sintéticas** y puedes descargarla aquí:
+
+**DESCARGA GRATIS**
+* 📕 Smashwords: [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
+* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247](https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247)
+* 📘 Kobo: [https://www.kobo.com/ebook/premoniciones-sinteticas](https://www.kobo.com/ebook/premoniciones-sinteticas)
+* 📙 AppleBooks: [https://books.apple.com/book/id6514281697](https://books.apple.com/book/id6514281697)
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145959295](https://www.barnesandnoble.com/w/1145959295)
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4jpDJk](https://books2read.com/u/4jpDJk)
+
+**Lectura por suscripción**
+* 💲 Everand / Scribd: [https://es.everand.com/book/748035905/Premoniciones-sinteticas](https://es.everand.com/book/748035905/Premoniciones-sinteticas)
+
+**Descarga con costo mínimo (Kindle)**
+* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0D8VGGBY7](https://www.amazon.com.mx/dp/B0D8VGGBY7)
+* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0D8VGGBY7](https://www.amazon.com/dp/B0D8VGGBY7)
+* 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
