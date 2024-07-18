@@ -34,7 +34,7 @@ Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, p
 Tenemos cuatro antologías publicadas en formato digital en las principales librerías en línea:  
 ### ***Memorias de la oscuridad***
 ![Memorias de la obscuridad](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-amci-fantas-4.jpg)  
-Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y puedes descargarla aquí:
+Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad**, es de cuentos de fantasmas y puedes descargarla aquí:
 
 **DESCARGA GRATUITA**
 * Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
@@ -52,6 +52,21 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 ### ***Cuéntamelo con lujuria de detalles***
 ![Portada de "Cuéntamelo con lujuria de detalles"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-ccldd-ama01c.jpg)  
 Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles**, y puedes descargarla aquí (de momento sólo está en Amazon):
+
+**DESCARGA GRATUITA**
+
+* 📕 Smashwords: https://www.smashwords.com/books/1590843
+* 📗 Lektu.com: https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277
+* 📙 AppleBooks: https://books.apple.com/book/id6547840648
+* 📒 Barnes&Noble: https://www.barnesandnoble.com/w/1146011678
+* 📚 Enlace agregador de Books2Read: https://books2read.com/u/mvz1dl
+
+**Lectura por suscripción**
+
+* 💲 Everand / Scribd: https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles
+
+**Por pago mínimo**
+
 * Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CVF2XBSV](https://www.amazon.com.mx/dp/B0CVF2XBSV)
 * Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0CVF2XBSV](https://www.amazon.es/dp/B0CVF2XBSV)
 * Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CVF2XBSV](https://www.amazon.com/dp/B0CVF2XBSV)
@@ -60,7 +75,7 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 ### ***Todas hieren, la última mata***
 ![Portada de "Todas hieren, la última mata"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x400-thlum-ama02.jpg)  
-Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata** y puedes descargarla aquí:
+Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata**, es de cuentos de terror y puedes descargarla aquí:
 
 **DESCARGA GRATIS**
 * 📕 Smashwords: [https://www.smashwords.com/books/view/1552200](https://www.smashwords.com/books/view/1552200)
@@ -82,7 +97,7 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 ### ***Premoniciones sintéticas***  
 ![Premoniciones sintéticas](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/2b6ee982-82da-4849-b4d8-0eceb43dcc8b)  
-Nuestra cuarta antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de febrero 2024*. Se llama **Premoniciones sintéticas** y puedes descargarla aquí:
+Nuestra cuarta antología contiene los cuentos ganadores de nuestra *Convocatoria de cuento de ciencia ficción de febrero 2024*. Se llama **Premoniciones sintéticas** y puedes descargarla aquí:
 
 **DESCARGA GRATIS**
 * 📕 Smashwords: [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
