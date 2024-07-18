@@ -51,19 +51,19 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 ### ***Cuéntamelo con lujuria de detalles***
 ![Portada de "Cuéntamelo con lujuria de detalles"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-ccldd-ama01c.jpg)  
-Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles**, y puedes descargarla aquí (de momento sólo está en Amazon):
+Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles**, y puedes descargarla aquí:
 
 **DESCARGA GRATUITA**
 
-* 📕 Smashwords: https://www.smashwords.com/books/1590843
-* 📗 Lektu.com: https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277
-* 📙 AppleBooks: https://books.apple.com/book/id6547840648
-* 📒 Barnes&Noble: https://www.barnesandnoble.com/w/1146011678
-* 📚 Enlace agregador de Books2Read: https://books2read.com/u/mvz1dl
+* 📕 Smashwords: [https://www.smashwords.com/books/1590843](https://www.smashwords.com/books/1590843)
+* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277](https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277)
+* 📙 AppleBooks: [https://books.apple.com/book/id6547840648](https://books.apple.com/book/id6547840648)
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146011678](https://www.barnesandnoble.com/w/1146011678)
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/mvz1dl](https://books2read.com/u/mvz1dl)
 
 **Lectura por suscripción**
 
-* 💲 Everand / Scribd: https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles
+* 💲 Everand / Scribd: [https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles](https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles)
 
 **Por pago mínimo**
 
