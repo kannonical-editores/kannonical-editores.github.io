@@ -1,5 +1,5 @@
 #### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-junio-julio-de-relato-corto-de-vampiros-%EF%B8%8F) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-corto-de-terror-navide%C3%B1o-) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
   ![Kannonical Editores](https://avatars.githubusercontent.com/u/166889025?s=400&u=13803cccc7516e3c48b27669e7b3246bca209761&v=4)
 
@@ -10,20 +10,36 @@ Somos un colectivo literario/editorial que publica convocatorias de cuento para 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 
 
-![1000x1000 Convocat Vampiros FB 01b](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/0a045fc5-2f2b-4f09-ae88-47cf0f51b1a5)
+![Convocatoria para la Antología de relato de Terror Navideño](https://github.com/user-attachments/assets/f18a2895-1752-4430-b68d-cd78623be921)
 
-## Sobre la convocatoria del bimestre de junio-julio de relato corto de **VAMPIROS** 🧛‍♀️:
-Este bimestre la convocatoria es para relatos cortos de **VAMPIROS** en todas sus acepciones y posibles géneros. Mientras haya un vampiro (de cualquier tipo) en tu relato, la historia puede ser de *fantasía oscura*, *viajes en el tiempo*, *ciencia ficción*, *misterio*, *aventura espacial*, *terror*, *fantasía urbana*, *romance*, *ficción apocalíptica*, *basada en mitología*, *thriller*, etc.  
+## Sobre la convocatoria del bimestre de agosto-septiembre de relato corto de **TERROR NAVIDEÑO** 🎄🪒:
+Este bimestre la convocatoria es para relatos cortos de **TERROR NAVIDEÑO** en todas sus acepciones. Mientras tu relato trate sobre algo terrorífico que ocurra durante la temporada navideña, podrá ser del subgénero que quieras: parodia, ciencia ficción, fantasía oscura, misterio, fantasmas, "slasher", sátira, etc.
 
 ### BASES
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
-2. La historia debe tener la estructura de “**inicio - nudo - desenlace**”.
-3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre el tema de escritura de este bimestre, es decir “***VAMPIROS***” en cualquiera de sus acepciones.
-4. **No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
-5. La **fecha límite** de entrega del relato es el día **jueves 25 de julio del 2024**. Puedes entregar tu relato a partir del **1° de junio del 2024** y hasta las 23:59 del 25 de julio del 2024 (hora de la Ciudad de México, es decir, UTC -6).
-6. Escribe tu relato en un editor de texto cualquiera y manda el archivo tipo *.doc*, *.docx* u *.odt* a **<kannonical_contacto@proton.me>**
-7. Los mejores relatos se incluirán en la compilación que se publicará como un libro de formato ePub de descarga gratuita en la principales librerías en línea (aunque en Amazon sólo estará gratuito los primeros días del mes, por las exigencias de "*Kindle Direct Publishing*").
-8. Los autores de los relatos seleccionados deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación.
+2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
+3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre el tema de escritura de este bimestre, es decir “***TERROR NAVIDEÑO***” en cualquiera de sus acepciones.
+4. La primera línea del relato debe comenzar con el **título del cuento**; en el siguiente renglón debe aparecer el **nombre del autor**.
+5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
+6. **El archivo de texto del relato debe llamarse como tu cuento** y ser de formato "*.docx*" o "*.odt*".
+7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
+10. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: "***[Título del relato], [Nombre del autor]***".
+11. Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica con los siguientes datos:
+    - Nombre completo del autor
+    - Pseudónimo
+    - Nacionalidad
+    - Redes sociales
+    - e-mail
+    - Número de teléfono ó celular
+    - Breve semblanza del autor (no más de 100 palabras). 
+12. **No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
+13. **No se aceptarán cuentos infantiles**.
+14. **Nos se aceptarán obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
+15. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
+16. La **fecha límite** de entrega del relato es el día **miércoles 25 de septiembre del 2024**. Puedes enviar tu relato a partir del **1° de agosto del 2024** y hasta las 23:59 del 25 de septiembre del 2024 (hora de la Ciudad de México, es decir, UTC -6).
+17. Los relatos elegidos se incluirán en la antología que se publicará en diciembre del 2024 como un libro digital de formato *ePub* de descarga gratuita en la principales librerías en línea (aunque en Amazon tendrá un precio módico, pues no permite los libros gratuitos).
+18. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores** para prepararlo para su publicación.
+19. **Enviar un relato a la convocatoria implica que nos otorgas tu permiso para publicarlo**, pues sigues conservando todos los derechos sobre tu cuento.
 
 Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, por favor déjanos un comentario en nuestro perfil de redes sociales o escríbenos a **<kannonical_contacto@proton.me>** y te responderemos a la brevedad posible.
 
@@ -137,9 +153,10 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 
 
 ## Sobre nuestras redes sociales:
-Visita nuestro perfil de Facebook y nuestro Instagram
+Visita nuestro perfil de Facebook, nuestro Instagram y nuestro canal de YouTube:
 * [**Facebook /Kannonical**](https://facebook.com/Kannonical)
 * [**Instagram/editorial_kannonical**](https://instagram.com/editorial_kannonical)
+* [**Youtube @Kannonical**](https://www.youtube.com/@Kannonical)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
@@ -158,6 +175,7 @@ La forma más sencilla de ayudarnos es compartiendo nuestras publicaciones y com
 Recuerda, **<kannonical_contacto@proton.me>** es nuestro correo electrónico de contacto y estas son nuestras redes sociales:
 * [**Facebook /Kannonical**](https://facebook.com/Kannonical)
 * [**Instagram/editorial_kannonical**](https://instagram.com/editorial_kannonical)
+* [**Youtube @Kannonical**](https://www.youtube.com/@Kannonical)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
