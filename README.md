@@ -138,7 +138,7 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria antología de relato de fantasía* de mayo 2024. Se llama **Bordado en el viento** y puedes descargarla aquí:
 
 **DESCARGA GRATIS**
-* 📕 Smashwords: 
+* 📕 Smashwords: [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
 * 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)
 * 📘 Kobo: 
 * 📙 AppleBooks: 
