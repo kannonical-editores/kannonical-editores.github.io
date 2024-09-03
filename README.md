@@ -139,14 +139,14 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 
 **DESCARGA GRATIS**
 * 📕 Smashwords: [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
-* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)
+* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)  
 * 📘 Kobo: 
-* 📙 AppleBooks: 
-* 📒 Barnes&Noble: 
-* 📚 Enlace agregador de Books2Read: 
+* 📙 AppleBooks: [https://books.apple.com/book/id6670410196](https://books.apple.com/book/id6670410196)
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146243379](https://www.barnesandnoble.com/w/1146243379)
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4Eg55A](https://books2read.com/u/4Eg55A)
 
 **Lectura por suscripción**
-* 💲 Everand / Scribd: 
+* 💲 Everand / Scribd: [https://es.everand.com/book/765198023/Bordado-en-el-viento](https://es.everand.com/book/765198023/Bordado-en-el-viento)
 
 **Descarga con costo mínimo (Kindle)**
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DFXFV4MR](https://www.amazon.com.mx/dp/B0DFXFV4MR)
