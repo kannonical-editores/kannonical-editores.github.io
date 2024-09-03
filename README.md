@@ -1,5 +1,5 @@
 #### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-corto-de-terror-navide%C3%B1o-) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-corto-de-terror-navide%C3%B1o-) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
   ![Kannonical Editores](https://avatars.githubusercontent.com/u/166889025?s=400&u=13803cccc7516e3c48b27669e7b3246bca209761&v=4)
 
@@ -61,7 +61,7 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 *Por pago mínimo*
 * Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CLZVBZ9K/](https://www.amazon.com.mx/dp/B0CLZVBZ9K/)
 * Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CLZVBZ9K/](https://www.amazon.com/dp/B0CLZVBZ9K/)
-* Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0CLZVBZ9K/](https://www.amazon.es/dp/B0CLZVBZ9K/)
+* Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0CLZVBZ9K/](https://www.amazon.es/dp/B0CLZVBZ9K/)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
@@ -84,7 +84,7 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 **Por pago mínimo**
 
 * Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CVF2XBSV](https://www.amazon.com.mx/dp/B0CVF2XBSV)
-* Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0CVF2XBSV](https://www.amazon.es/dp/B0CVF2XBSV)
+* Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0CVF2XBSV](https://www.amazon.es/dp/B0CVF2XBSV)
 * Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CVF2XBSV](https://www.amazon.com/dp/B0CVF2XBSV)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
@@ -107,13 +107,13 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 **Descarga con costo mínimo (Kindle)**
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0D1V1HZH6](https://www.amazon.com.mx/dp/B0D1V1HZH6)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0D1V1HZH6](https://www.amazon.com/dp/B0D1V1HZH6)
-* 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0D1V1HZH6](https://www.amazon.es/dp/B0D1V1HZH6)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0D1V1HZH6](https://www.amazon.es/dp/B0D1V1HZH6)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
 ### ***Premoniciones sintéticas***  
 ![Premoniciones sintéticas](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/2b6ee982-82da-4849-b4d8-0eceb43dcc8b)  
-Nuestra cuarta antología contiene los cuentos ganadores de nuestra *Convocatoria de cuento de ciencia ficción de febrero 2024*. Se llama **Premoniciones sintéticas** y puedes descargarla aquí:
+Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convocatoria de cuento de ciencia ficción de febrero 2024*. Se llama **Premoniciones sintéticas** y puedes descargarla aquí:
 
 **DESCARGA GRATIS**
 * 📕 Smashwords: [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
@@ -129,7 +129,29 @@ Nuestra cuarta antología contiene los cuentos ganadores de nuestra *Convocatori
 **Descarga con costo mínimo (Kindle)**
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0D8VGGBY7](https://www.amazon.com.mx/dp/B0D8VGGBY7)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0D8VGGBY7](https://www.amazon.com/dp/B0D8VGGBY7)
-* 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+### ***Bordado en el viento***
+![480x640 BeeV Kobo](https://github.com/user-attachments/assets/2463c79d-305a-4fe4-82dd-5b136ff49f06)  
+Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria antología de relato de fantasía* de mayo 2024. Se llama **Bordado en el viento** y puedes descargarla aquí:
+
+**DESCARGA GRATIS**
+* 📕 Smashwords: 
+* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)
+* 📘 Kobo: 
+* 📙 AppleBooks: 
+* 📒 Barnes&Noble: 
+* 📚 Enlace agregador de Books2Read: 
+
+**Lectura por suscripción**
+* 💲 Everand / Scribd: 
+
+**Descarga con costo mínimo (Kindle)**
+* 💸 Amazon México ($12.00 MXN): 
+* 💵 Amazon US ($0.99 USD): 
+* 💶 Amazon España (0,89 Euros): 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
