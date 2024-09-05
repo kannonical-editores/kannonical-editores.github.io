@@ -140,7 +140,7 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 **DESCARGA GRATIS**
 * 📕 Smashwords: [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
 * 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)  
-* 📘 Kobo: 
+* 📘 Kobo: [https://www.kobo.com/mx/es/ebook/bordado-en-el-viento](https://www.kobo.com/mx/es/ebook/bordado-en-el-viento)
 * 📙 AppleBooks: [https://books.apple.com/book/id6670410196](https://books.apple.com/book/id6670410196)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146243379](https://www.barnesandnoble.com/w/1146243379)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4Eg55A](https://books2read.com/u/4Eg55A)
