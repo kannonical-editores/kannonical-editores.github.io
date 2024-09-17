@@ -1,7 +1,8 @@
 #### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-corto-de-terror-navide%C3%B1o-) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-corto-de-terror-navide%C3%B1o-) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
-  ![Kannonical Editores](https://avatars.githubusercontent.com/u/166889025?s=400&u=13803cccc7516e3c48b27669e7b3246bca209761&v=4)
+  
+![Banner Facebook V Kannonical 1064x395](https://github.com/user-attachments/assets/98845069-033d-488f-9673-cec3a6cd951a)
 
 Nuestra página está en construcción, pero aquí está lo básico sobre nosotros.
 ## Sobre Kannonical:  
@@ -47,10 +48,28 @@ Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, p
 
 
 ## Sobre nuestras antologías publicadas
-Tenemos cuatro antologías publicadas en formato digital en las principales librerías en línea:  
+Tenemos **seis** antologías publicadas en formato digital en las principales librerías en línea:  
 ### ***Memorias de la oscuridad***
 ![Memorias de la obscuridad](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-amci-fantas-4.jpg)  
-Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad**, es de cuentos de fantasmas y puedes descargarla aquí:
+Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y es de ***cuentos de fantasmas***. Contiene ocho relatos de cuatro excelentes autores:
+* **Materia oscura** de Malena Papagna Lioi.
+    * En la monotonía tediosa de un viaje intergaláctico más, las cosas cambian de pronto para la comandante. Este documento clasificado nos lo revela.
+* **Por una cabeza** de Angelique H. Saviñón.
+    * Metzi tiene un encuentro sobrenatural en la Ciudad de México. Como una Intuitiva, ese es su trabajo después de todo. Un tropiezo fortuito la llevará a hacer algo que se prometió no hacer nunca: trabajar gratis.
+* **El susurro del tiempo** de Andrés de Zamacona.
+    * Quizás cuando ya no estemos y hayamos muerto, algo de nosotros aún persista.
+* **Nocturno** de Angelique H. Saviñón.
+    * De noche en un bar todo puede suceder. A veces internarse en la noche no es como lo imaginamos.
+* **Las cinco llamadas** de Andrés de Zamacona.
+    * El horror de una pérdida irreparable y un teléfono que no deja de llamar.
+* **No pierdas las llaves** de B.D. Aguayo.
+    * Una casa de campo en medio de un bosque, la lluvia que no cesa y ella se encuentra sola… ¿Está realmente sola?
+* **Ciudad Fantasma** de Malena Papagna Lioi.
+    * La noche más extraña que un par de amigas viven cuando acampan en un pueblo pequeño.
+* **Donde hubo fuego…** de B.D. Aguayo.
+    * ¿Qué es peor: el horror de lo inesperado o su ausencia?
+
+#### Enlaces de descarga:
 
 **DESCARGA GRATUITA**
 * Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
@@ -67,7 +86,23 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 ### ***Cuéntamelo con lujuria de detalles***
 ![Portada de "Cuéntamelo con lujuria de detalles"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-ccldd-ama01c.jpg)  
-Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles**, y puedes descargarla aquí:
+Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles** y contiene siete relatos eróticos escritos por cinco talentosos escritores:
+* **Sarcasmo y temblores** de Dita V. Delapluma.
+    * Un camping lleno de jóvenes a la orilla de un bosque, una bruja y un sátiro en un duelo mágico para conseguir un preciado ingrediente. ¿Quién ganará?
+* **Hadaly** de Angelique H. Saviñón.
+    * El oficio más viejo del mundo no puede ofrecer nada nuevo, o quizás sí... En este mundo moderno todo tiene un precio.
+* **Ancianas haciendo ganchillo** de Iker Beltz.
+    * Un viaje corto en avión, un hombre excitado piensa en… Ancianas haciendo ganchillo.
+* **Siemprevivas** de Angelique H. Saviñón.
+    * En el juego de la seducción aquel con mayor experiencia puede guiar al otro hasta el placer más absoluto; aunque las motivaciones del seductor pueden no siempre ser del todo claras.
+* **Anticipación** de Casandra X.
+    * En la obscuridad la mente vuela. El deseo, el placer y los goces más obscuros se unen detrás de una venda sobre los ojos.
+* **Terciopelo negro** de B.D. Aguayo.
+    * Dentro del placer hay lugar para más de un pecado capital.
+* **Complicidad** de Casandra X.
+    * En un acuerdo secreto hay muchas formas de placer, incluso el violento y transgresor.
+
+#### Enlaces de descarga:
 
 **DESCARGA GRATUITA**
 
@@ -91,7 +126,23 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 ### ***Todas hieren, la última mata***
 ![Portada de "Todas hieren, la última mata"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x400-thlum-ama02.jpg)  
-Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata**, es de cuentos de terror y puedes descargarla aquí:
+Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata** y es de ***cuentos de terror***. Contiene siete cuentos escritos por cuatro aterradores escritores:
+* **Mi hogar** por Angelique H. Saviñón.
+    * Una familia es un hogar, ¿o es al revés? Los secretos se esconden en la obscuridad del antiguo sótano de esta casona familiar.
+* **El problema son los jóvenes de hoy en día** por B.D. Aguayo.
+    * Dicen que "juventud, divino tesoro", aunque en ocasiones esto no es una bendición.
+* **Hotel de mala muerte** por Malena Papagna Lioi.
+    * Una ciudad como cualquiera con un hotel como cualquiera, o casi. Bienvenidos a este hotel de mala muerte, ¡un lugar tan agradable!
+* **Tan solo una víctima más** por Angelique H. Saviñón.
+    * Una mujer demasiado avanzada y atrevida para su época mantiene un encuentro casual que podría tener consecuencias definitivas para el futuro.
+* **Bienvenido a HomeBuy** por Andrés de Zamacona.
+    * Una joven pareja se encuentra con que no todo es tan simple como esperaban cuando entran a su nueva y moderna casa.
+* **El perfume de las flores muertas** por Angelique H. Saviñón.
+    * Una excavación arqueológica encuentra algo que definitivamente no se esperaba.
+* **Tantas otras y ninguna y todas nosotras** por Malena Papagna Lioi.
+    * El terror de una certeza que se quiere borra de la mente pero esta no te lo permite. Una realidad que muchos experimentan a diario sin que el resto lo comprenda hasta que lo viven. Así es para tantas otras y todas nosotras.
+
+#### Enlaces de descarga:
 
 **DESCARGA GRATIS**
 * 📕 Smashwords: [https://www.smashwords.com/books/view/1552200](https://www.smashwords.com/books/view/1552200)
@@ -113,7 +164,27 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 ### ***Premoniciones sintéticas***  
 ![Premoniciones sintéticas](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/2b6ee982-82da-4849-b4d8-0eceb43dcc8b)  
-Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convocatoria de cuento de ciencia ficción de febrero 2024*. Se llama **Premoniciones sintéticas** y puedes descargarla aquí:
+Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convocatoria de cuento de ciencia ficción de febrero 2024*. Se llama **Premoniciones sintéticas**. Contiene nueve relatos escritos por siete excepcionales autores:
+* **La nave que nos dejó tirados**  de Marcos Bruzzoni.
+    * Los extraterrestres son reales y han llegado a nuestro planeta. ¿Qué maravillas traerán consigo?
+* **La máquina** de Giraldo Aice.
+    * Una extraña con ideas provocadoras llega a un pequeño pueblo latinoamericano y recibe un recibimiento del mismo tipo.
+* **Las ocho reinas** de B.D. Aguayo.
+    * Uno de los problemas matemáticos más famosos toma forma de verso en un cuento casi infantil.
+* **Clitemnestra 6.0** de Angelique H. Saviñón.
+    * Quince minutos en el futuro, el amor ha cambiado de cara. Sobre todo cuando ya no hay límites y todo es posible dentro de una aplicación.
+* **Los** ***Homo machina*** de Andrés de Zamacona.
+    * En un futuro lejano, el hombre trata de llegar a las estrellas, aunque eso tal vez le cueste su humanidad.
+* **El descubrimiento secreto** de Ulises Luján
+    * En el futuro los alimentos escasean, lo que impulsa la colonización de planetas más allá del sistema solar. Un inspector planetario se encuentra con mucho más de lo esperado en un viaje supuestamente de rutina.
+* **In memoriam** de B.D. Aguayo.
+    * Un grupo de científicos consigue el primer viaje en el tiempo para encontrarse con una paradoja futura.
+* **Sin pena ni Gloria** de Malena Papagna Lioi.
+    * En un futuro cercano, todas nuestras necesidades estarán cubiertas por asistentes cibernéticos. Lo que no nos garantiza una vida de paz y tranquilidad.
+* **Perro de Dios** de Angelique H.a Saviñón.
+    * En la Región MX, antes denominada "México", un agente de la Congregación para la Doctrina de la Fe, mejor conocida como la Santa Inquisición, investiga el asesinato/muerte accidental de uno de los suyos.
+
+#### Enlaces de descarga:
 
 **DESCARGA GRATIS**
 * 📕 Smashwords: [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
@@ -135,7 +206,25 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 
 ### ***Bordado en el viento***
 ![480x640 BeeV Kobo](https://github.com/user-attachments/assets/2463c79d-305a-4fe4-82dd-5b136ff49f06)  
-Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria antología de relato de fantasía* de mayo 2024. Se llama **Bordado en el viento** y puedes descargarla aquí:
+Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria antología de relato de fantasía* de mayo 2024. Se llama **Bordado en el viento** y contiene ocho cuentos escritos por siete maravillosos autores:
+* **El artilugio de la bruja**, Ulises Luján.
+    * En un bosque, un encuentro fortuito modifica el destino de un joven. Si tan solo todo fuera tan simple.
+* **Opus Magnum**, Angelique H. Saviñón.
+    * En un mundo que muere, solo las artes ocultas podrán salvarlo.
+* **Sacrificio**, Carla Rosales.
+    * Un paso hacia la adultez que es peligroso y terrible, pero necesario.
+* **Los tres destinos**, Jorge Cappa.
+    * Todos tenemos una elección que hacer y quizás más de un destino como resultado.
+* **Tejedora de sombras**, Angelique H. Saviñón.
+    * El deseo y la necesidad de poder, guían los pasos de esta tejedora de sombras.
+* **El asunto del basilisco**, Iván Aragón Muñiz.
+    * Un error, un accidente y un encubrimiento que terminan siendo un asunto cíclico.
+* **Embolia**, Andrés de Zamacona.
+    * La ciencia ficción toca a la fantasía en este cuento sobre un acelerador de partículas.
+* **Creciente**, Daniel Alberto Brassesco.
+    * Un momento en la vida común y corriente de un pobre pescador latinoamericano, si el mundo fuera como en los libros de fantasía épica.
+
+#### Enlaces de descarga:
 
 **DESCARGA GRATIS**
 * 📕 Smashwords: [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
@@ -157,7 +246,29 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 
 ### ***Hasta la última gota***
 ![400x640 HlUG](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/58f7cfc9-a470-4820-95d0-3229cfd7ce79)  
-Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemos mucho cariño por ser nuestra "*Antología Cero*". Esta es nuestra única antología que no es gratuita. Puedes descargarla aquí:
+Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemos mucho cariño por ser nuestra "*Antología Cero*". Esta es nuestra única antología que no es gratuita. Es de **cuentos de vampiros** escritos por dos excelentes autoras:
+* **El conde endemoniado** por B.D. Aguayo.
+    * Una leyenda de tiempos remotos devela a una criatura vil, a un verdadero monstruo.
+* **La moneda en el aire** por Angelique H. Saviñón.
+    * Somos siempre el objeto del interés de los demás. Quizás quien nos observa no sea siempre tan inocuo como creemos.
+* **Eclipse** por Angelique H. Saviñón.
+    * Los niños de la noche huyen de la luz del sol. Quizás sea solamente por que la noche es más sensual.
+* **El tesoro de la casona** por Angelique H. Saviñón.
+    * La vida de Raúl cambia por completo, sobre todo después de un encuentro fantasmal.
+* **Hasta la última gota** por Angelique H. Saviñón.
+    * Los supuestos de nuestra vida cotidiana esconden nuestros verdaderos deseos, aun los que no sabemos que están ahí.
+* **Matando muerte, en vida la has trocado** por Angelique H. Saviñón.
+    * Una vocación y un llamado, un giro del destino que lleva a un joven a cambiar de bando.
+* **Mi vecina es un vampiro** por B.D. Aguayo.
+    * En la noche no todos los vampiros son pardos. Algunos son inmigrantes de orígenes inciertos.
+* **La noche obscura del alma** por Angelique H. Saviñón.
+    * La fe perdida puede re-encontrar una pasión en el seno de la Iglesia, muy distante de la religiosa.
+* **Los páramos de Wilton Hall** por B.D. Aguayo.
+    * Una casona obscura y helada, un demonio de la noche que hace su aparición y una joven institutriz en la incertidumbre del terror.
+* **La semana del Infierno** por Angelique H. Saviñón.
+    * En la Ciudad de México la fauna nocturna tiene de todo, vampiros, hombres lobo, gouls e Intuitivos. Metzi se gana la vida con sus capacidades paranormales y no trabaja gratis. Pero esta mañana se encuentra con algo, lo que la obliga a enredarse con más de lo que esperaba.
+
+#### Enlaces de descarga:
 
 **DESCARGA CON COSTO MÍNIMO**
 * 📕 Smashwords: [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
