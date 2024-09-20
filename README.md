@@ -72,10 +72,12 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 #### Enlaces de descarga:
 
 **DESCARGA GRATUITA**
-* Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
-* Smashwords: [https://www.smashwords.com/books/view/1557692](https://www.smashwords.com/books/view/1557692)
-* lektu.com: [https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995](https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995)
+* 📕 lektu.com: [https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995](https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995)
+* 📗Smashwords: [https://www.smashwords.com/books/view/1557692](https://www.smashwords.com/books/view/1557692)
 * kobo: [https://www.kobo.com/ebook/memorias-de-la-obscuridad](https://www.kobo.com/ebook/memorias-de-la-obscuridad)
+* 📙 AppleBooks: [https://books.apple.com/book/id6499493975](https://books.apple.com/book/id6499493975)
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145544015](https://www.barnesandnoble.com/w/1145544015)
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
 
 *Por pago mínimo*
 * Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CLZVBZ9K/](https://www.amazon.com.mx/dp/B0CLZVBZ9K/)
@@ -106,8 +108,8 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 **DESCARGA GRATUITA**
 
-* 📕 Smashwords: [https://www.smashwords.com/books/1590843](https://www.smashwords.com/books/1590843)
-* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277](https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277)
+* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277](https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277)
+* 📗 Smashwords: [https://www.smashwords.com/books/1590843](https://www.smashwords.com/books/1590843)
 * 📙 AppleBooks: [https://books.apple.com/book/id6547840648](https://books.apple.com/book/id6547840648)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146011678](https://www.barnesandnoble.com/w/1146011678)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/mvz1dl](https://books2read.com/u/mvz1dl)
@@ -145,8 +147,8 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 #### Enlaces de descarga:
 
 **DESCARGA GRATIS**
-* 📕 Smashwords: [https://www.smashwords.com/books/view/1552200](https://www.smashwords.com/books/view/1552200)
-* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983](https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983)
+* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983](https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983)
+* 📗 Smashwords: [https://www.smashwords.com/books/view/1552200](https://www.smashwords.com/books/view/1552200)
 * 📘 Kobo: [https://www.kobo.com/ebook/todas-hieren-la-ultima-mata](https://www.kobo.com/ebook/todas-hieren-la-ultima-mata)
 * 📙 AppleBooks: [https://books.apple.com/mx/book/todas-hieren-la-%C3%BAltima-mata/id6497715475](https://books.apple.com/mx/book/todas-hieren-la-%C3%BAltima-mata/id6497715475)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145419051](https://www.barnesandnoble.com/w/1145419051)
@@ -187,8 +189,8 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 #### Enlaces de descarga:
 
 **DESCARGA GRATIS**
-* 📕 Smashwords: [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
-* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247](https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247)
+* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247](https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247)
+* 📗 Smashwords: [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
 * 📘 Kobo: [https://www.kobo.com/ebook/premoniciones-sinteticas](https://www.kobo.com/ebook/premoniciones-sinteticas)
 * 📙 AppleBooks: [https://books.apple.com/book/id6514281697](https://books.apple.com/book/id6514281697)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145959295](https://www.barnesandnoble.com/w/1145959295)
@@ -207,28 +209,26 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 ### ***Bordado en el viento***
 ![480x640 BeeV Kobo](https://github.com/user-attachments/assets/2463c79d-305a-4fe4-82dd-5b136ff49f06)  
 Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria antología de relato de fantasía* de mayo 2024. Se llama **Bordado en el viento** y contiene ocho cuentos escritos por siete maravillosos autores:
-* **El artilugio de la bruja**, Ulises Luján.
-    * En un bosque, un encuentro fortuito modifica el destino de un joven. Si tan solo todo fuera tan simple.
-* **Opus Magnum**, Angelique H. Saviñón.
-    * En un mundo que muere, solo las artes ocultas podrán salvarlo.
+* **El asunto del basilisco**, Iván Aragón Muñiz.
+    * Un error, un accidente y un encubrimiento que terminan siendo un asunto cíclico.
 * **Sacrificio**, Carla Rosales.
     * Un paso hacia la adultez que es peligroso y terrible, pero necesario.
 * **Los tres destinos**, Jorge Cappa.
     * Todos tenemos una elección que hacer y quizás más de un destino como resultado.
 * **Tejedora de sombras**, Angelique H. Saviñón.
     * El deseo y la necesidad de poder, guían los pasos de esta tejedora de sombras.
-* **El asunto del basilisco**, Iván Aragón Muñiz.
-    * Un error, un accidente y un encubrimiento que terminan siendo un asunto cíclico.
 * **Embolia**, Andrés de Zamacona.
     * La ciencia ficción toca a la fantasía en este cuento sobre un acelerador de partículas.
-* **Creciente**, Daniel Alberto Brassesco.
-    * Un momento en la vida común y corriente de un pobre pescador latinoamericano, si el mundo fuera como en los libros de fantasía épica.
+* **El artilugio de la bruja**, Ulises Luján.
+    * En un bosque, un encuentro fortuito modifica el destino de un joven. Si tan solo todo fuera tan simple.
+* **Opus Magnum**, Angelique H. Saviñón.
+    * En un mundo que muere, solo las artes ocultas podrán salvarlo.
 
 #### Enlaces de descarga:
 
 **DESCARGA GRATIS**
-* 📕 Smashwords: [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
-* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)  
+* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)  
+* 📗 Smashwords: [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
 * 📘 Kobo: [https://www.kobo.com/mx/es/ebook/bordado-en-el-viento](https://www.kobo.com/mx/es/ebook/bordado-en-el-viento)
 * 📙 AppleBooks: [https://books.apple.com/book/id6670410196](https://books.apple.com/book/id6670410196)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146243379](https://www.barnesandnoble.com/w/1146243379)
@@ -271,8 +271,8 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 #### Enlaces de descarga:
 
 **DESCARGA CON COSTO MÍNIMO**
-* 📕 Smashwords: [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
-* 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932](https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932)
+* 📕 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932](https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932)
+* Smashwords: [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
 * 📘 Kobo: [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
 * 📙 AppleBooks: [https://books.apple.com/book/id6484316887](https://books.apple.com/book/id6484316887)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
