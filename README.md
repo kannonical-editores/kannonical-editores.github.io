@@ -19,13 +19,14 @@ Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CI
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
 2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
 3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre el tema de escritura de este bimestre, es decir, “**TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**”. 
-4. La primera línea del relato debe comenzar con el **título del cuento**; en el siguiente renglón debe aparecer el **nombre del autor**.
+4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”.
 5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
 6. **El archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato]-[Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
 7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
 10. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “***Perspectiva femenina - [Título del relato], [Nombre del autor]***”. 
 11. Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica con los siguientes datos:
     - Nombre completo del autor
+    - Nombre del relato
     - Pseudónimo
     - Nacionalidad
     - Redes sociales
@@ -41,7 +42,7 @@ Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CI
 18. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación**, es decir, deberán estar dispuestos a hacer las correcciones en el texto que los organizadores les indiquen.
 19. **Enviar un relato a la convocatoria implica que nos otorgas tu permiso para publicarlo**, pues sigues conservando todos los derechos sobre tu cuento.
 
-Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
+Si tienes cualquier duda o necesitas una aclaración con respecto a la convocatoria, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
