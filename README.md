@@ -26,7 +26,7 @@ Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CI
 10. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “***Perspectiva femenina - [Título del relato], [Nombre del autor]***”. 
 11. Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica con los siguientes datos:
     - Nombre completo del autor
-    - Nombre del relato
+    - Título del relato
     - Pseudónimo
     - Nacionalidad
     - Redes sociales
