@@ -10,39 +10,38 @@ Somos un colectivo literario/editorial que publica convocatorias de cuento para 
 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 
+![1000x1000 Convocat PerspFemenina FB 01](https://github.com/user-attachments/assets/990bfa66-daf9-4d03-b057-1ccc4801f2ea)
 
-![Convocatoria para la Antología de relato de Terror Navideño](https://github.com/user-attachments/assets/f18a2895-1752-4430-b68d-cd78623be921)
-
-## Sobre la convocatoria del bimestre de agosto-septiembre de relato corto de **TERROR NAVIDEÑO** 🎄🪒:
-Este bimestre la convocatoria es para relatos cortos de **TERROR NAVIDEÑO** en todas sus acepciones. Mientras tu relato trate sobre algo terrorífico que ocurra durante la temporada navideña, podrá ser del subgénero que quieras: parodia, ciencia ficción, fantasía oscura, misterio, fantasmas, "slasher", sátira, etc.
+## Sobre la convocatoria del bimestre de octubre-noviembre de relato corto de **TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**:
+Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**, es decir, relatos de estos géneros cuyos protagonistas sean femeninos, la historia esté contada desde el punto de vista de una mujer o estén escritos por mujeres. También aceptaremos relatos escritos por hombres mientras el escrito sea un ejercicio de introspección y empatía; de entender el "otro lado".
 
 ### BASES
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
 2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
-3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre el tema de escritura de este bimestre, es decir “***TERROR NAVIDEÑO***” en cualquiera de sus acepciones.
+3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre el tema de escritura de este bimestre, es decir, “**TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**”. 
 4. La primera línea del relato debe comenzar con el **título del cuento**; en el siguiente renglón debe aparecer el **nombre del autor**.
 5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
-6. **El archivo de texto del relato debe llamarse como tu cuento** y ser de formato "*.docx*" o "*.odt*".
+6. **El archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato]-[Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
 7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
-10. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: "***[Título del relato], [Nombre del autor]***".
+10. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “***Perspectiva femenina - [Título del relato], [Nombre del autor]***”. 
 11. Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica con los siguientes datos:
     - Nombre completo del autor
     - Pseudónimo
     - Nacionalidad
     - Redes sociales
     - e-mail
-    - Número de teléfono ó celular
+    - Número de teléfono ó celular (opcional).
     - Breve semblanza del autor (no más de 100 palabras). 
 12. **No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
 13. **No se aceptarán cuentos infantiles**.
 14. **Nos se aceptarán obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
 15. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
-16. La **fecha límite** de entrega del relato es el día **miércoles 25 de septiembre del 2024**. Puedes enviar tu relato a partir del **1° de agosto del 2024** y hasta las 23:59 del 25 de septiembre del 2024 (hora de la Ciudad de México, es decir, UTC -6).
-17. Los relatos elegidos se incluirán en la antología que se publicará en diciembre del 2024 como un libro digital de formato *ePub* de descarga gratuita en la principales librerías en línea (aunque en Amazon tendrá un precio módico, pues no permite los libros gratuitos).
-18. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores** para prepararlo para su publicación.
+16. La **fecha límite** de entrega del relato es el día **lunes 25 de noviembre del 2024**. Puedes enviar tu relato a partir del **1° de octubre del 2024** y hasta las **23:59 del 25 de noviembre del 2024** (hora de la Ciudad de México, UTC -6). 
+17.Los relatos elegidos se incluirán en la antología que se publicará en **marzo del 2025** como un libro digital de formato *ePub* de descarga gratuita en la principales librerías en línea (en Amazon tendrá un precio módico, pues no permite los libros gratuitos). 
+18. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación**, es decir, deberán estar dispuestos a hacer las correcciones en el texto que los organizadores les indiquen.
 19. **Enviar un relato a la convocatoria implica que nos otorgas tu permiso para publicarlo**, pues sigues conservando todos los derechos sobre tu cuento.
 
-Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, por favor déjanos un comentario en nuestro perfil de redes sociales o escríbenos a **<kannonical_contacto@proton.me>** y te responderemos a la brevedad posible.
+Si tienes cualquier duda o necesitas una aclaración con respecto al concurso, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
