@@ -23,8 +23,8 @@ Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CI
 5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
 6. **El archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato]-[Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
 7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
-10. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “***Perspectiva femenina - [Título del relato], [Nombre del autor]***”. 
-11. Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica con los siguientes datos:
+8.  El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “***Perspectiva femenina - [Título del relato], [Nombre del autor]***”.
+9.  Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica con los siguientes datos:
     - Nombre completo del autor
     - Título del relato
     - Pseudónimo
@@ -32,15 +32,15 @@ Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CI
     - Redes sociales
     - e-mail
     - Número de teléfono ó celular (opcional).
-    - Breve semblanza del autor (no más de 100 palabras). 
-12. **No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
-13. **No se aceptarán cuentos infantiles**.
-14. **Nos se aceptarán obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
-15. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
-16. La **fecha límite** de entrega del relato es el día **lunes 25 de noviembre del 2024**. Puedes enviar tu relato a partir del **1° de octubre del 2024** y hasta las **23:59 del 25 de noviembre del 2024** (hora de la Ciudad de México, UTC -6). 
-17.Los relatos elegidos se incluirán en la antología que se publicará en **marzo del 2025** como un libro digital de formato *ePub* de descarga gratuita en la principales librerías en línea (en Amazon tendrá un precio módico, pues no permite los libros gratuitos). 
-18. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación**, es decir, deberán estar dispuestos a hacer las correcciones en el texto que los organizadores les indiquen.
-19. **Enviar un relato a la convocatoria implica que nos otorgas tu permiso para publicarlo**, pues sigues conservando todos los derechos sobre tu cuento.
+    - Breve semblanza del autor (no más de 100 palabras).
+10. *No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
+11. **No se aceptarán cuentos infantiles**.
+12. **Nos se aceptarán obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
+13. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
+14. La **fecha límite** de entrega del relato es el día **lunes 25 de noviembre del 2024**. Puedes enviar tu relato a partir del **1° de octubre del 2024** y hasta las **23:59 del 25 de noviembre del 2024** (hora de la Ciudad de México, UTC -6).
+15. Los relatos elegidos se incluirán en la antología que se publicará en **marzo del 2025** como un libro digital de formato *ePub* de descarga gratuita en la principales librerías en línea (en Amazon tendrá un precio módico, pues no permite los libros gratuitos).
+16. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación**, es decir, deberán estar dispuestos a hacer las correcciones en el texto que los organizadores les indiquen.
+17. **Enviar un relato a la convocatoria implica que nos otorgas tu permiso para publicarlo**, pues sigues conservando todos los derechos sobre tu cuento.
 
 Si tienes cualquier duda o necesitas una aclaración con respecto a la convocatoria, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
 
