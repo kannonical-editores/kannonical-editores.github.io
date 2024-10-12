@@ -127,8 +127,11 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
 ### ***Todas hieren, la última mata***
-![Portada de "Todas hieren, la última mata"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x400-thlum-ama02.jpg)  
-Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata** y es de ***cuentos de terror***. Contiene siete cuentos escritos por cuatro aterradores escritores:
+  ![480x640 ThlUM rojo](https://github.com/user-attachments/assets/a8ac2ef6-67a8-4f7a-aa23-c7718e62d18d)  
+#### ¡Nuestra antología de terror ahora tiene **8 cuentos**! ¡A partir de octubre del 2024, "**Todas hieren, la última mata**" tiene un escalofriante cuanto más!
+Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata** y es de ***cuentos de terror***. Contiene ocho cuentos escritos por cinco aterradores escritores:
+* **Inmisericorde** por Carla Rosales.
+    * Al cruzar el último umbral, ¿qué nos espera? **Inmisericorde**, nos ofrece una ominosa mirada al otro lado.
 * **Mi hogar** por Angelique H. Saviñón.
     * Una familia es un hogar, ¿o es al revés? Los secretos se esconden en la obscuridad del antiguo sótano de esta casona familiar.
 * **El problema son los jóvenes de hoy en día** por B.D. Aguayo.
