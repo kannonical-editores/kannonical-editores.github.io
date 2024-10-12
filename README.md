@@ -1,4 +1,4 @@
-#### Menú:
+###### Menú:
 | [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-octubre-noviembre-de-relato-corto-de-terror-fantas%C3%ADa-y-ciencia-ficci%C3%B3n-con-perspectiva-femenina) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
   
@@ -128,7 +128,7 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 ### ***Todas hieren, la última mata***
   ![480x640 ThlUM rojo](https://github.com/user-attachments/assets/a8ac2ef6-67a8-4f7a-aa23-c7718e62d18d)  
-#### ¡Nuestra antología de terror ahora tiene **8 cuentos**! ¡A partir de octubre del 2024, "**Todas hieren, la última mata**" tiene un escalofriante cuanto más!
+#### ¡Nuestra antología de terror ahora tiene **8 cuentos**! ¡A partir de octubre del 2024, "**Todas hieren, la última mata**" tiene un escalofriante cuento más!
 Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata** y es de ***cuentos de terror***. Contiene ocho cuentos escritos por cinco aterradores escritores:
 * **Inmisericorde** por Carla Rosales.
     * Al cruzar el último umbral, ¿qué nos espera? **Inmisericorde**, nos ofrece una ominosa mirada al otro lado.
