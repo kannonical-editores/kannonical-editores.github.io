@@ -128,7 +128,7 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 ### ***Todas hieren, la última mata***
   ![480x640 ThlUM rojo](https://github.com/user-attachments/assets/a8ac2ef6-67a8-4f7a-aa23-c7718e62d18d)  
-#### ¡Nuestra antología de terror ahora tiene **8 cuentos**! ¡A partir de octubre del 2024, "**Todas hieren, la última mata**" tiene un escalofriante cuento más!
+#### ¡Nuestra antología de terror ahora tiene *8 cuentos*! ¡A partir de octubre del 2024, "**Todas hieren, la última mata**" tiene un escalofriante cuento más!
 Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de enero 2024*. Se llama **Todas hieren, la última mata** y es de ***cuentos de terror***. Contiene ocho cuentos escritos por cinco aterradores escritores:
 * **Inmisericorde** por Carla Rosales.
     * Al cruzar el último umbral, ¿qué nos espera? **Inmisericorde**, nos ofrece una ominosa mirada al otro lado.
@@ -148,6 +148,9 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
     * El terror de una certeza que se quiere borra de la mente pero esta no te lo permite. Una realidad que muchos experimentan a diario sin que el resto lo comprenda hasta que lo viven. Así es para tantas otras y todas nosotras.
 
 #### Enlaces de descarga:
+
+**DESCARGA GRATIS PDF**
+* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983](https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983](https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983)
