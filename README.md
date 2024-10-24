@@ -1,5 +1,5 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-octubre-noviembre-de-relato-corto-de-terror-fantas%C3%ADa-y-ciencia-ficci%C3%B3n-con-perspectiva-femenina) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-octubre-noviembre-de-relato-corto-de-terror-fantas%C3%ADa-y-ciencia-ficci%C3%B3n-con-perspectiva-femenina) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
   
 ![Banner Facebook V Kannonical 1064x395](https://github.com/user-attachments/assets/98845069-033d-488f-9673-cec3a6cd951a)
@@ -247,6 +247,46 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DFXFV4MR](https://www.amazon.com.mx/dp/B0DFXFV4MR)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DFXFV4MR](https://www.amazon.com/dp/B0DFXFV4MR)
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DFXFV4MR](https://www.amazon.es/dp/B0DFXFV4MR)
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+### ***Promesas de sangre***
+![450x600 PortKobo PromesasdeSangre](https://github.com/user-attachments/assets/2dbf0e0f-009e-43cf-8708-b36f345d59db)  
+Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria Antología de relato de vampiros* de bimestre junio-julio 2024. Se llama **Promesas de sangre** y contiene ocho cuentos escritos por ocho aterradores autores:
+* **En el Bosque de la Media Noche**, por Carla Rosales.
+    * Un hombre se despoja de todo lo que le pertenece para adentrarse en el bosque y cambiar de rumbo. Pero lo que parece ser una huida simple se complica al internarse en los dominios de la obscuridad.
+* **Vanessa**, por Wyber.
+    * Una chica tímida que se une al equipo de un café cercano a una universidad, una clienta habitual con exigencias extraordinarias, y una relación inesperada.
+* **Criatura de la noche**, por Daniel Alberto Brassesco.
+    * La caza inexorable a un depredador nocturno.
+* **Asesino en las sombras**, por Angelique H. Saviñón.
+    * Un capítulo más en la serie de relatos sobre Metzi Agüero Bueno, una Intuitiva que vive en la Ciudad de México, donde la fauna urbana incluye vampiros y hombres lobo. Esta vez, los vampiros están desapareciendo y a nadie parece importarle. Metzi se verá involucrada en la búsqueda de una vampiresa desaparecida.
+* **Un romance obscuro**, por Iván Aragón Muñiz.
+    * Una enigmática mujer busca hombres en las salas de chat. En Internet todas las fantasías son permisibles y todos los deseos encuentran una comunidad, incluso los más obscuros y sedientos de sangre.
+* **El vampiro en el jardín**, por Ulises Luján.
+    * Un explorador regresa por fin a casa con un exótico regalo. Su vida y su supervivencia se verán entrelazadas a este extraño presente.
+* **Lecciones de caza**, por B.D. Aguayo.
+   * Cuando la presa es el depredador más exitoso sobre el planeta, se puede pasar de ser el cazador a ser cazado en un instante.
+* **El vagón de media noche**, por A.J. Roque.
+    * Un amor que trasciende estados superfluos en comparación, como la vida, llegando a extremos violentos pero necesarios para mantenerlo.
+
+#### Enlaces de descarga:
+
+**DESCARGA CON COSTO MÍNIMO**
+* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
+* 📗 Smashwords: 
+* 📘 Kobo: 
+* 📙 AppleBooks: 
+* 📒 Barnes&Noble: 
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/me1N1V](https://books2read.com/u/me1N1V)
+
+**Lectura por suscripción**
+* 💲 Everand / Scribd: 
+
+**Descarga con costo mínimo (Kindle)**
+* 💸 Amazon México ($12.00 MXN): 
+* 💵 Amazon US ($0.99 USD): 
+* 💶 Amazon España (0,89 Euros): 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
