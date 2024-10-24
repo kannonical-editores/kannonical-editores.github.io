@@ -279,7 +279,7 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1638508](https://www.smashwords.com/books/view/1638508)
 * 📘 Kobo: 
-* 📙 AppleBooks: 
+* 📙 AppleBooks: [https://books.apple.com/book/id6737296082](https://books.apple.com/book/id6737296082)
 * 📒 Barnes&Noble: 
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/me1N1V](https://books2read.com/u/me1N1V)
 
