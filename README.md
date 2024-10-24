@@ -275,7 +275,7 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 **DESCARGA GRATIS PDF**
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
 
-**DESCARGA CON COSTO MÍNIMO**
+**DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1638508](https://www.smashwords.com/books/view/1638508)
 * 📘 Kobo: 
