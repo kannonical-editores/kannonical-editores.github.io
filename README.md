@@ -274,7 +274,7 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 
 **DESCARGA CON COSTO MÍNIMO**
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
-* 📗 Smashwords: 
+* 📗 Smashwords: [https://www.smashwords.com/books/view/1638508](https://www.smashwords.com/books/view/1638508)
 * 📘 Kobo: 
 * 📙 AppleBooks: 
 * 📒 Barnes&Noble: 
@@ -284,9 +284,9 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 * 💲 Everand / Scribd: 
 
 **Descarga con costo mínimo (Kindle)**
-* 💸 Amazon México ($12.00 MXN): 
-* 💵 Amazon US ($0.99 USD): 
-* 💶 Amazon España (0,89 Euros): 
+* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DKRF9Q9T](https://www.amazon.com.mx/dp/B0DKRF9Q9T)
+* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DKRF9Q9T](https://www.amazon.com/dp/B0DKRF9Q9T)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DKRF9Q9T](https://www.amazon.es/dp/B0DKRF9Q9T)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
