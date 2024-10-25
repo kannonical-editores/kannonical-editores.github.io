@@ -280,11 +280,11 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1638508](https://www.smashwords.com/books/view/1638508)
 * 📘 Kobo: 
 * 📙 AppleBooks: [https://books.apple.com/book/id6737296082](https://books.apple.com/book/id6737296082)
-* 📒 Barnes&Noble: 
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146460819](https://www.barnesandnoble.com/w/1146460819)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/me1N1V](https://books2read.com/u/me1N1V)
 
 **Lectura por suscripción**
-* 💲 Everand / Scribd: 
+* 💲 Everand / Scribd: [https://es.everand.com/book/783638750/Promesas-de-sangre](https://es.everand.com/book/783638750/Promesas-de-sangre)
 
 **Descarga con costo mínimo (Kindle)**
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DKRF9Q9T](https://www.amazon.com.mx/dp/B0DKRF9Q9T)
