@@ -79,6 +79,10 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145544015](https://www.barnesandnoble.com/w/1145544015)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
 
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p](https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p)
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub)
+
 *Por pago mínimo*
 * Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CLZVBZ9K/](https://www.amazon.com.mx/dp/B0CLZVBZ9K/)
 * Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CLZVBZ9K/](https://www.amazon.com/dp/B0CLZVBZ9K/)
@@ -160,6 +164,10 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145419051](https://www.barnesandnoble.com/w/1145419051)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3kOLAN](https://books2read.com/u/3kOLAN)
 
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p](https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p)
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a10994892/Todas-hieren-la-ultima-mata#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10994892/Todas-hieren-la-ultima-mata#FORMAT=ePub)
+
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/723487724/Todas-hieren-la-ultima-mata](https://es.everand.com/book/723487724/Todas-hieren-la-ultima-mata)
 
@@ -202,6 +210,10 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145959295](https://www.barnesandnoble.com/w/1145959295)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4jpDJk](https://books2read.com/u/4jpDJk)
 
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p](https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p)
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11173436/Premoniciones-sinteticas#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11173436/Premoniciones-sinteticas#FORMAT=ePub)
+
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/748035905/Premoniciones-sinteticas](https://es.everand.com/book/748035905/Premoniciones-sinteticas)
 
@@ -239,6 +251,10 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 * 📙 AppleBooks: [https://books.apple.com/book/id6670410196](https://books.apple.com/book/id6670410196)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146243379](https://www.barnesandnoble.com/w/1146243379)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4Eg55A](https://books2read.com/u/4Eg55A)
+
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p](https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p)
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11292328/Bordado-en-el-viento#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11292328/Bordado-en-el-viento#FORMAT=ePub)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/765198023/Bordado-en-el-viento](https://es.everand.com/book/765198023/Bordado-en-el-viento)
@@ -283,6 +299,10 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146460819](https://www.barnesandnoble.com/w/1146460819)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/me1N1V](https://books2read.com/u/me1N1V)
 
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p](https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p)
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11400259/Promesas-de-sangre#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11400259/Promesas-de-sangre#FORMAT=ePub)
+
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/783638750/Promesas-de-sangre](https://es.everand.com/book/783638750/Promesas-de-sangre)
 
@@ -320,8 +340,8 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 #### Enlaces de descarga:
 
 **DESCARGA CON COSTO MÍNIMO**
-* 📕 📗 Lektu.com: [https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932](https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932)
-* Smashwords: [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
+* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932](https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932)
+* 📗 Smashwords: [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
 * 📘 Kobo: [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
 * 📙 AppleBooks: [https://books.apple.com/book/id6484316887](https://books.apple.com/book/id6484316887)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
@@ -329,6 +349,8 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CLZN58FY](https://www.amazon.com.mx/dp/B0CLZN58FY)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CLZN58FY](https://www.amazon.com/dp/B0CLZN58FY)
 * 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
+* Librerías Gandhi en línea: [https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p](https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p)
+* fnac.es: [https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
