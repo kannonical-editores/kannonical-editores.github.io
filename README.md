@@ -35,7 +35,7 @@ Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CI
     - e-mail
     - Número de teléfono ó celular (opcional).
     - Breve semblanza del autor (no más de 100 palabras).
-10. *No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
+10. **No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
 11. **No se aceptarán cuentos infantiles**.
 12. **Nos se aceptarán obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
 13. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
