@@ -23,7 +23,7 @@ Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CI
 3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre el tema de escritura de este bimestre, es decir, “**TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**”. 
 4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”.
 5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
-6. **El archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato]-[Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
+6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato]-[Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
 7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
 8.  El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “***Perspectiva femenina - [Título del relato], [Nombre del autor]***”.
 9.  Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica con los siguientes datos:
