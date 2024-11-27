@@ -12,7 +12,8 @@ Somos un colectivo literario/editorial que publica convocatorias de cuento para 
 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 
-![1000x1000 Convocat PerspFemenina FB 01](https://github.com/user-attachments/assets/990bfa66-daf9-4d03-b057-1ccc4801f2ea)
+
+![1000x1000 Convocat PerspFemenina 01 cerrada](https://github.com/user-attachments/assets/6c3fb25b-1a72-4bc0-8775-3445f7007f43)
 
 ## Sobre la convocatoria del bimestre de octubre-noviembre de relato corto de **TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**:
 Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**, es decir, relatos de estos géneros cuyos protagonistas sean femeninos, la historia esté contada desde el punto de vista de una mujer o estén escritos por mujeres. También aceptaremos relatos escritos por hombres mientras el escrito sea un ejercicio de introspección y empatía; de entender el "otro lado".
