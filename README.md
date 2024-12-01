@@ -1,5 +1,5 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-octubre-noviembre-de-relato-corto-de-terror-fantas%C3%ADa-y-ciencia-ficci%C3%B3n-con-perspectiva-femenina) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-octubre-noviembre-de-relato-corto-de-terror-fantas%C3%ADa-y-ciencia-ficci%C3%B3n-con-perspectiva-femenina) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
   
@@ -16,6 +16,8 @@ Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 ![1000x1000 Convocat PerspFemenina 01 cerrada](https://github.com/user-attachments/assets/6c3fb25b-1a72-4bc0-8775-3445f7007f43)
 
 ## Sobre la convocatoria del bimestre de octubre-noviembre de relato corto de **TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**:
+Esta convocatoria se cerró el 25 de noviembre del 2024. Nuestra siguiente convocatoria aparecerá el año próximo. 
+Dejamos las bases aquí para que te des una idea general de qué es lo que pediremos.
 Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**, es decir, relatos de estos géneros cuyos protagonistas sean femeninos, la historia esté contada desde el punto de vista de una mujer o estén escritos por mujeres. También aceptaremos relatos escritos por hombres mientras el escrito sea un ejercicio de introspección y empatía; de entender el "otro lado".
 
 ### BASES
@@ -51,7 +53,7 @@ Si tienes cualquier duda o necesitas una aclaración con respecto a la convocato
 
 
 ## Sobre nuestras antologías publicadas
-Tenemos **seis** antologías publicadas en formato digital en las principales librerías en línea:  
+Tenemos **siete** antologías publicadas en formato digital en las principales librerías en línea:  
 ### ***Memorias de la oscuridad***
 ![Memorias de la obscuridad](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-amci-fantas-4.jpg)  
 Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y es de ***cuentos de fantasmas***. Contiene ocho relatos de cuatro excelentes autores:
@@ -291,9 +293,6 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 
 #### Enlaces de descarga:
 
-**DESCARGA GRATIS PDF**
-* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
-
 **DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1638508](https://www.smashwords.com/books/view/1638508)
@@ -310,9 +309,53 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 * 💲 Everand / Scribd: [https://es.everand.com/book/783638750/Promesas-de-sangre](https://es.everand.com/book/783638750/Promesas-de-sangre)
 
 **Descarga con costo mínimo (Kindle)**
-* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DKRF9Q9T](https://www.amazon.com.mx/dp/B0DKRF9Q9T)
+* 💸 Amazon México ($0.00 MXN): [https://www.amazon.com.mx/dp/B0DKRF9Q9T](https://www.amazon.com.mx/dp/B0DKRF9Q9T)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DKRF9Q9T](https://www.amazon.com/dp/B0DKRF9Q9T)
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DKRF9Q9T](https://www.amazon.es/dp/B0DKRF9Q9T)
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+### ***Navidades siniestras***  
+![450x600 TerrorNav Kobo 03](https://github.com/user-attachments/assets/fa522774-6d1d-4a07-9c64-94eee58ea132)  
+Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocatoria Antología de cuentos de Terror Navideño* de bimestre agosto-septiembre 2024. Se llama **Navidades siniestras** y contiene ocho cuentos escritos por siete atemorizantes autores:
+- **Feliz Navidad, Miguel**, por M.A. Álvarez.
+    * Una Natividad más en la soledad de un encierro protector, traerá un encuentro poco usual para Miguel.
+- **La noche en que las luces no se apagaron**, por Victor D. Manzo Ozeda.
+    * Una celebración más, pero este año hay un cambio extraño y sutil. ¿Quién sobrevivirá a esta luminosa noche de paz?
+- **Yo te cuidaré**, por Carla Rosales.
+    * La seguridad de lo conocido y de lo familiar toma un cariz espeluznante cuando quien nos protege haría cualquier cosa por mantenernos seguros y en casa.
+- **Sé que va a ser una Navidad muy especial**, por Angelique H. Saviñón.
+    * Una mujer cuyo valor la ha llevado a sobrevivirlo todo, espera atenta. Nada será igual después de esta Navidad especial.
+- **La última fiesta de Nochebuena**, por Yolanda Fernández Benito.
+    * La Nochebuena es para los niños un momento especial. Y los niños tienen derecho a festejarla, incluso cuando la obscuridad se introduce en la celebración.
+- **Villancicos para el captor**, por Andrés de Zamacona.
+    * El tradicional festejo, la familia reunida, una Navidad emblemática: la celebración perfecta. La felicidad es interminable.
+- **La noche del solsticio**, por Angelique H. Saviñón.
+    * Una historia amor que no se olvida y persiste, en particular durante la noche más larga del año.
+- **En el Polo Norte nadie puede escuchar tus gritos**, por B.D. Aguayo.
+    * Una guerra sin cuartel con las armas menos adecuadas, pero muy dulces, para salvaguardar una celebración indispensable. En el espacio, nadie puede oír tus gritos; en el Polo Norte, tampoco.
+ 
+#### Enlaces de descarga:
+
+**DESCARGA GRATIS**
+* 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/navidades-siniestras/23741](https://lektu.com/l/kannonical-editores/navidades-siniestras/23741)
+* 📗 Smashwords (ePub): 
+* 📘 Kobo: 
+* 📙 AppleBooks: 
+* 📒 Barnes&Noble: 
+* 📚 Enlace agregador de Books2Read: 
+
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: 
+* 🏬 fnac.es: 
+
+**Lectura por suscripción**
+* 💲 Everand / Scribd: 
+
+**Descarga con costo mínimo (Kindle)**
+* 💸 Amazon México ($12.00 MXN): 
+* 💵 Amazon US ($0.99 USD): 
+* 💶 Amazon España (0,89 Euros): 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
