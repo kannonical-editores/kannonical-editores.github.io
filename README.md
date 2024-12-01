@@ -18,6 +18,7 @@ Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 ## Sobre la convocatoria del bimestre de octubre-noviembre de relato corto de **TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**:
 Esta convocatoria se cerró el 25 de noviembre del 2024. Nuestra siguiente convocatoria aparecerá el año próximo. 
 Dejamos las bases aquí para que te des una idea general de qué es lo que pediremos.
+
 Este bimestre la convocatoria es para relatos cortos de **TERROR, FANTASÍA Y CIENCIA FICCIÓN CON PERSPECTIVA FEMENINA**, es decir, relatos de estos géneros cuyos protagonistas sean femeninos, la historia esté contada desde el punto de vista de una mujer o estén escritos por mujeres. También aceptaremos relatos escritos por hombres mientras el escrito sea un ejercicio de introspección y empatía; de entender el "otro lado".
 
 ### BASES
@@ -157,9 +158,6 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
     * El terror de una certeza que se quiere borra de la mente pero esta no te lo permite. Una realidad que muchos experimentan a diario sin que el resto lo comprenda hasta que lo viven. Así es para tantas otras y todas nosotras.
 
 #### Enlaces de descarga:
-
-**DESCARGA GRATIS PDF**
-* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983](https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983](https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983)
@@ -339,11 +337,11 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/navidades-siniestras/23741](https://lektu.com/l/kannonical-editores/navidades-siniestras/23741)
-* 📗 Smashwords (ePub): 
+* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1656935](https://www.smashwords.com/books/view/1656935)
 * 📘 Kobo: 
 * 📙 AppleBooks: 
 * 📒 Barnes&Noble: 
-* 📚 Enlace agregador de Books2Read: 
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/38q00w](https://books2read.com/u/38q00w)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: 
