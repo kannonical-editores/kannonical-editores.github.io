@@ -339,7 +339,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/navidades-siniestras/23741](https://lektu.com/l/kannonical-editores/navidades-siniestras/23741)
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1656935](https://www.smashwords.com/books/view/1656935)
 * 📘 Kobo: 
-* 📙 AppleBooks: 
+* 📙 AppleBooks: [https://books.apple.com/book/id6738879464](https://books.apple.com/book/id6738879464)
 * 📒 Barnes&Noble: 
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/38q00w](https://books2read.com/u/38q00w)
 
