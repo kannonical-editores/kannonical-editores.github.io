@@ -351,9 +351,9 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 * 💲 Everand / Scribd: 
 
 **Descarga con costo mínimo (Kindle)**
-* 💸 Amazon México ($12.00 MXN): 
-* 💵 Amazon US ($0.99 USD): 
-* 💶 Amazon España (0,89 Euros): 
+* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DPD9MB8V](https://www.amazon.com.mx/dp/B0DPD9MB8V)
+* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DPD9MB8V](https://www.amazon.com/dp/B0DPD9MB8V)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DPD9MB8V](https://www.amazon.es/dp/B0DPD9MB8V)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
