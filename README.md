@@ -358,7 +358,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1656935](https://www.smashwords.com/books/view/1656935)
 * 📘 Kobo: 
 * 📙 AppleBooks: [https://books.apple.com/book/id6738879464](https://books.apple.com/book/id6738879464)
-* 📒 Barnes&Noble: 
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w//1146618800](https://www.barnesandnoble.com/w//1146618800)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/38q00w](https://books2read.com/u/38q00w)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
