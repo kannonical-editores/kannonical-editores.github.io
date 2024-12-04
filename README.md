@@ -356,13 +356,13 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 **DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/navidades-siniestras/23741](https://lektu.com/l/kannonical-editores/navidades-siniestras/23741)
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1656935](https://www.smashwords.com/books/view/1656935)
-* 📘 Kobo: 
+* 📘 Kobo: [https://www.kobo.com/ebook/navidades-siniestras](https://www.kobo.com/ebook/navidades-siniestras)
 * 📙 AppleBooks: [https://books.apple.com/book/id6738879464](https://books.apple.com/book/id6738879464)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w//1146618800](https://www.barnesandnoble.com/w//1146618800)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/38q00w](https://books2read.com/u/38q00w)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
-* 🏢 Librerías Gandhi: 
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p](https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p)
 * 🏬 fnac.es: 
 
 **Lectura por suscripción**
