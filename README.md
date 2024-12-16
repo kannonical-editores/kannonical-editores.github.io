@@ -363,7 +363,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p](https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p)
-* 🏬 fnac.es: 
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11486864/Navidades-siniestras#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11486864/Navidades-siniestras#FORMAT=ePub)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/799076400/Navidades-siniestras](https://es.everand.com/book/799076400/Navidades-siniestras)
