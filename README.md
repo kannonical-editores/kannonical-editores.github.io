@@ -2,7 +2,8 @@
 | [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-octubre-noviembre-de-relato-corto-de-terror-fantas%C3%ADa-y-ciencia-ficci%C3%B3n-con-perspectiva-femenina) - [*BASES*](https://kannonical-editores.github.io/#bases) - [*Autoras seleccionadas*](https://kannonical-editores.github.io/#autoras-seleccionadas) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
-![Banner Facebook V Kannonical 1064x395 Navidad](https://github.com/user-attachments/assets/cd63e785-36d3-4883-8524-04408043f272)
+![Banner Facebook V Kannonical AnioNuevo 2025 1064x395](https://github.com/user-attachments/assets/21ddd816-5f1e-4202-97ba-a5ced9a15760)
+
 
 
 
@@ -218,7 +219,7 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
     * Un grupo de científicos consigue el primer viaje en el tiempo para encontrarse con una paradoja futura.
 * **Sin pena ni Gloria** de Malena Papagna Lioi.
     * En un futuro cercano, todas nuestras necesidades estarán cubiertas por asistentes cibernéticos. Lo que no nos garantiza una vida de paz y tranquilidad.
-* **Perro de Dios** de Angelique H.a Saviñón.
+* **Perro de Dios** de Angelique H. Saviñón.
     * En la Región MX, antes denominada "México", un agente de la Congregación para la Doctrina de la Fe, mejor conocida como la Santa Inquisición, investiga el asesinato/muerte accidental de uno de los suyos.
 
 #### Enlaces de descarga:
