@@ -98,8 +98,8 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 **DESCARGA GRATUITA**
 * 📕 lektu.com: [https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995](https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995)
-* 📗Smashwords: [https://www.smashwords.com/books/view/1557692](https://www.smashwords.com/books/view/1557692)
-* kobo: [https://www.kobo.com/ebook/memorias-de-la-obscuridad](https://www.kobo.com/ebook/memorias-de-la-obscuridad)
+* 📗 Smashwords: [https://www.smashwords.com/books/view/1557692](https://www.smashwords.com/books/view/1557692)
+* 📘 Kobo: [https://www.kobo.com/ebook/memorias-de-la-obscuridad](https://www.kobo.com/ebook/memorias-de-la-obscuridad)
 * 📙 AppleBooks: [https://books.apple.com/book/id6499493975](https://books.apple.com/book/id6499493975)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145544015](https://www.barnesandnoble.com/w/1145544015)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
@@ -139,6 +139,7 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277](https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277)
 * 📗 Smashwords: [https://www.smashwords.com/books/1590843](https://www.smashwords.com/books/1590843)
+* 📘 Kobo: [https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles](https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles)
 * 📙 AppleBooks: [https://books.apple.com/book/id6547840648](https://books.apple.com/book/id6547840648)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146011678](https://www.barnesandnoble.com/w/1146011678)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/mvz1dl](https://books2read.com/u/mvz1dl)
