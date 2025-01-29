@@ -9,6 +9,7 @@
 
 Nuestra página está en construcción, pero aquí está lo básico sobre nosotros.
 ## Sobre Kannonical:  
+**Kannonical Editores, historias Interesantes para lectores Inteligentes.**  
 Somos un colectivo literario/editorial que publica convocatorias de cuento para hacer antologías digitales y dar a conocer a escritores noveles🤩 Lo que significa que somos un grupo de personas que dona su tiempo para hacer las antologías (lo que implica hacer las convocatorias, revisar los cuentos, seleccionar los relatos, editar las historias, hacer corrección de estilo a los relatos, maquetar el libro electrónico, planear la portada y las ilustraciones internas, hacer ilustraciones y/o sacar fotografías para la portada, hacer el diseño gráfico de libro, hacer el archivo ePub, y finalmente subir el archivo a librerías en línea) y mantener las redes sociales vivas (responder mensajes, colocar historias, subir los avisos sobre publicaciones y convocatorias, moderar nuestro grupo).
 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
