@@ -1,8 +1,9 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-febrero-marzo-de-relato-corto-de-ciencia-ficci%C3%B3n) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-febrero-marzo-de-relato-corto-de-ciencia-ficci%C3%B3n) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
-![Banner Facebook V Kannonical 1064x395](https://github.com/user-attachments/assets/6de990b3-429e-441e-af56-488c42999ffe)
+
+![Banner Facebook V Kannonical FebAmor 2025 1064x395](https://github.com/user-attachments/assets/e31e2e2a-54e1-4be1-b67c-a4a90144f6ad)
 
 
 
@@ -13,7 +14,6 @@ Nuestra página está en construcción, pero aquí está lo básico sobre nosotr
 Somos un colectivo literario/editorial que publica convocatorias de cuento para hacer antologías digitales y dar a conocer a escritores noveles🤩 Lo que significa que somos un grupo de personas que dona su tiempo para hacer las antologías (lo que implica hacer las convocatorias, revisar los cuentos, seleccionar los relatos, editar las historias, hacer corrección de estilo a los relatos, maquetar el libro electrónico, planear la portada y las ilustraciones internas, hacer ilustraciones y/o sacar fotografías para la portada, hacer el diseño gráfico de libro, hacer el archivo ePub, y finalmente subir el archivo a librerías en línea) y mantener las redes sociales vivas (responder mensajes, colocar historias, subir los avisos sobre publicaciones y convocatorias, moderar nuestro grupo).
 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
-
 
 ![1000x1000 Convocat 2025 SciFi 01](https://github.com/user-attachments/assets/33e7eadc-7c10-46d9-8b86-6fc413f4ba6f)
 
@@ -54,7 +54,7 @@ Si tienes cualquier duda o necesitas una aclaración con respecto a la convocato
 
 
 ## Sobre nuestras antologías publicadas
-Tenemos **siete** antologías publicadas en formato digital en las principales librerías en línea:  
+Tenemos **ocho** antologías publicadas en formato digital en las principales librerías en línea:  
 ### ***Memorias de la oscuridad***
 ![Memorias de la obscuridad](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-amci-fantas-4.jpg)  
 Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y es de ***cuentos de fantasmas***. Contiene ocho relatos de cuatro excelentes autores:
@@ -357,6 +357,48 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DPD9MB8V](https://www.amazon.es/dp/B0DPD9MB8V)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
+### ***El amor dura lo que dura dura***  
+![450x600 Erotica 2025](https://github.com/user-attachments/assets/247d5e22-b36d-4e4b-ae7f-554416b0329e)  
+Nuestra octava antología es de relatos eróticos, y sólo se participa por invitación. Se llama **El amor dura lo que dura dura** y contiene seis cuentos escritos por cinco excitantes autoras:
+- **Primera sesión**, por Madame Marieangel.
+    * Ante la sequía que domina su cama, Renata se atreverá a entrar en un edificio que le intriga, pero se encontrará con una sorpresa y más placer del que esperaba.
+- **No abras los ojos**, por Carla Rosales.
+    * El amante perfecto te espera, como siempre, una complicidad compartida entre las sábanas.
+- **El viaje de Zordak**, por Yolanda Fernández Benito.
+    * Todo guerrero tiene un destino, una batalla y una guerra que ganar. Pero a veces el destino nos juega una mala pasada y el itinerario cambia hacia escaramuzas más sensuales.
+- **Onírico**, por Sofía Serra.
+    * Los sueños húmedos se entrelazan en este relato de ilusión, que no es otra cosa que placer surrealista.
+- **El inicio**, por Madame Marieangel.
+    * El placer y el dolor están íntimamente ligados, unas veces como opuestos, otras como conspiradores de intensidad y goce.
+- **Encore**, por Demónica Fiamaio.
+    * Entran a escena el placer y la sexualidad, una puesta en escena erótica para el más selecto de los públicos: el privado.
+ 
+#### Enlaces de descarga:
+
+**DESCARGA GRATIS**
+* 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/el-amor-dura-lo-que-dura-dura/23934](https://lektu.com/l/kannonical-editores/el-amor-dura-lo-que-dura-dura/23934)
+* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1705983](https://www.smashwords.com/books/view/1705983)
+* 📘 Kobo: 
+* 📙 AppleBooks: [https://books.apple.com/book/id6741764036](https://books.apple.com/book/id6741764036)
+* 📒 Barnes&Noble: 
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3RkPOG](https://books2read.com/u/3RkPOG)
+
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: 
+* 🏬 fnac.es: 
+
+**Lectura por suscripción**
+* 💲 Everand / Scribd: [https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos](https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos)
+
+**Descarga con costo mínimo (Kindle)**
+* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DWKQQY3T](https://www.amazon.com.mx/dp/B0DWKQQY3T)
+* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DWKQQY3T](https://www.amazon.com/dp/B0DWKQQY3T)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DWKQQY3T](https://www.amazon.es/dp/B0DWKQQY3T)
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 ### ***Hasta la última gota***
 ![400x640 HlUG](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/58f7cfc9-a470-4820-95d0-3229cfd7ce79)  
