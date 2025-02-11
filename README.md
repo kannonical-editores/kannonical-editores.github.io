@@ -361,7 +361,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 
 ### ***El amor dura lo que dura dura***  
 ![450x600 Erotica 2025](https://github.com/user-attachments/assets/247d5e22-b36d-4e4b-ae7f-554416b0329e)  
-Nuestra octava antología es de relatos eróticos, y sólo se participa por invitación. Se llama **El amor dura lo que dura dura** y contiene seis cuentos escritos por cinco excitantes autoras:
+Nuestra octava antología es de relatos eróticos, y sólo se participa por invitación. Se llama **El amor dura lo que dura dura**. La ilustración de la portada es un cuadro de Gustav Courbet llamado "[**El origen del mundo**](https://www.musee-orsay.fr/es/obras/lorigine-du-monde-69330)" (puedes verlo sin censura en el [Museo D'Orsay](https://www.musee-orsay.fr/es/obras/lorigine-du-monde-69330) ). La antología contiene seis cuentos escritos por cinco excitantes autoras:
 - **Primera sesión**, por Madame Marieangel.
     * Ante la sequía que domina su cama, Renata se atreverá a entrar en un edificio que le intriga, pero se encontrará con una sorpresa y más placer del que esperaba.
 - **No abras los ojos**, por Carla Rosales.
