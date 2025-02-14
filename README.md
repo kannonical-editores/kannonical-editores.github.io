@@ -380,9 +380,9 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 **DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/el-amor-dura-lo-que-dura-dura/23934](https://lektu.com/l/kannonical-editores/el-amor-dura-lo-que-dura-dura/23934)
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1705983](https://www.smashwords.com/books/view/1705983)
-* 📘 Kobo: 
+* 📘 Kobo: [https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura](https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura)
 * 📙 AppleBooks: [https://books.apple.com/book/id6741764036](https://books.apple.com/book/id6741764036)
-* 📒 Barnes&Noble: 
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146968929](https://www.barnesandnoble.com/w/1146968929)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3RkPOG](https://books2read.com/u/3RkPOG)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
