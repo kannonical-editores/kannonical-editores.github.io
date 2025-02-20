@@ -315,12 +315,13 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
 ### ***Navidades siniestras***  
-![450x600 TerrorNav Kobo 03](https://github.com/user-attachments/assets/fa522774-6d1d-4a07-9c64-94eee58ea132)  
+![450x600 TerrorNav Kobo 04 sin Manzo](https://github.com/user-attachments/assets/12201693-1e11-4a14-bb66-f28503ec4e62)  
+  
 Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocatoria Antología de cuentos de Terror Navideño* de bimestre agosto-septiembre 2024. Se llama **Navidades siniestras** y contiene ocho cuentos escritos por siete atemorizantes autores:
 - **Feliz Navidad, Miguel**, por M.A. Álvarez.
     * Una Natividad más en la soledad de un encierro protector, traerá un encuentro poco usual para Miguel.
-- **La noche en que las luces no se apagaron**, por Victor D. Manzo Ozeda.
-    * Una celebración más, pero este año hay un cambio extraño y sutil. ¿Quién sobrevivirá a esta luminosa noche de paz?
+- **Reencuentro de sangre**, por Flor de asfalto.
+    * Una cena navideña familiar, pero con un padre ausente, una madre desolada y una hija menor que ya no soporta las aparentes ansias de su madre por olvidar a su padre.
 - **Yo te cuidaré**, por Carla Rosales.
     * La seguridad de lo conocido y de lo familiar toma un cariz espeluznante cuando quien nos protege haría cualquier cosa por mantenernos seguros y en casa.
 - **Sé que va a ser una Navidad muy especial**, por Angelique H. Saviñón.
