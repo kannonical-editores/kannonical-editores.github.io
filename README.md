@@ -353,7 +353,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 * 💲 Everand / Scribd: [https://es.everand.com/book/799076400/Navidades-siniestras](https://es.everand.com/book/799076400/Navidades-siniestras)
 
 **Descarga con costo mínimo (Kindle)**
-* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DPD9MB8V](https://www.amazon.com.mx/dp/B0DPD9MB8V)
+* 💸 Amazon México ($0.00 MXN): [https://www.amazon.com.mx/dp/B0DPD9MB8V](https://www.amazon.com.mx/dp/B0DPD9MB8V)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DPD9MB8V](https://www.amazon.com/dp/B0DPD9MB8V)
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DPD9MB8V](https://www.amazon.es/dp/B0DPD9MB8V)
 
