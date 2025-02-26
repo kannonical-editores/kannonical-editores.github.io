@@ -24,13 +24,13 @@ Este bimestre (febrero-marzo) la convocatoria es para relatos cortos de **CIENCI
 ### BASES
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
 2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
-3. El relato deberá ser un cuento **original**, **inédit**o y ser del género “**CIENCIA FICCIÓN**”. 
-4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”.
+3. El relato deberá ser un cuento **original**, **inédito** y ser del género “**CIENCIA FICCIÓN**”. 
+4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”. Ejemplo: **La última pregunta, por Isaac Asimov**
 5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
-6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato]-[Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
+6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato]-[Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. Ejemplo: **La última pregunta-Isaac Asimov.docx**
 7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
-8.  El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Ciencia ficción - [Título del relato], [Nombre del autor]*”.
-9.  Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica con los siguientes datos:
+8. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Ciencia ficción - [Título del relato], [Nombre del autor]*”. Ejemplo: **Ciencia ficción - La última pregunta, Isaac Asimov**
+9.  Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica (un documento aparte) con los siguientes datos:
     - Nombre completo del autor
     - Título del relato
     - Pseudónimo para publicación (si usas uno)
