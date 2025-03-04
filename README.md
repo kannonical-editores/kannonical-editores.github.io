@@ -1,5 +1,5 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-febrero-marzo-de-relato-corto-de-ciencia-ficci%C3%B3n) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-febrero-marzo-de-relato-corto-de-ciencia-ficci%C3%B3n) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-oscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
 
@@ -54,7 +54,8 @@ Si tienes cualquier duda o necesitas una aclaración con respecto a la convocato
 
 
 ## Sobre nuestras antologías publicadas
-Tenemos **ocho** antologías publicadas en formato digital en las principales librerías en línea:  
+Tenemos **nueve** antologías publicadas en formato digital en las principales librerías en línea:  
+
 ### ***Memorias de la oscuridad***
 ![Memorias de la obscuridad](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-amci-fantas-4.jpg)  
 Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y es de ***cuentos de fantasmas***. Contiene ocho relatos de cuatro excelentes autores:
@@ -397,6 +398,53 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 * 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DWKQQY3T](https://www.amazon.com.mx/dp/B0DWKQQY3T)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DWKQQY3T](https://www.amazon.com/dp/B0DWKQQY3T)
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DWKQQY3T](https://www.amazon.es/dp/B0DWKQQY3T)
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+### ***La sombra de la Luna***  
+![450x600 PersFem 01](https://github.com/user-attachments/assets/729f9d19-641c-42e0-b92a-b68afbda3736)  
+
+Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía con **perspectiva femenina**. Contiene los cuentos elegidos en nuestra *Convocatoria antología de relatos de terror, fantasía y ciencia ficción con perspectiva femenina* del bimestre octubre-noviembre 2024. Se llama **La sombra de la Luna**, y la ilustración de la portada es un cuadro de *Margaret MacDonald MacKintosh* llamado ["**Los tres perfumes**"](https://cranbrookartmuseum.org/artwork/margaret-macdonald-mackintosh-the-three-perfumes/). La antología fue pensada para publicarse en conmemoración del **Día internacional de la mujer (8M)** y contiene nueve cuentos escritos por siete excelentes autoras:
+- **El amor es un parásito con tus ojos**, por Ana B.
+    * En la libertad de la adolescencia, cuando la experimentación de todo lo sensual es permisible y es la norma, una consecuencia imprevista toma un cariz inesperado.
+- **Verónica, ¿quieres ser nuestra amiga?**, por Yolanda Fernández Benito.
+    * En épocas más inocentes, un grupo de amigas se reúne a leer revistas de cultura pop iniciando un juego prohibido que cambiará su suerte y sus vidas para siempre.
+- **Los michos**, por Angelique H. Saviñón.
+    * Doña Rosario mantiene su casa en orden con puño de hierro, y tanto sus hijos como su marido acatan sus órdenes, por no mencionar al pueblo entero.
+- **No duermas bocarriba**, por Nallely Alberto.
+    * Las enfermeras del turno nocturno tienen las mejores historias de fantasmas. Acompáñalas en uno de sus relatos más espeluznantes.
+- **Apartamento 205**, por Eni Y. Robledo Pacheco.
+    * En el aislamiento de la pandemia, una chica se queda sola en su complejo de apartamentos. ¿Está verdaderamente sola?
+- **La favorita, desear con fervor supremo**, por Angelique H. Saviñón.
+    * Inocencio VIII está al borde de la muerte. Su favorita hará hasta lo imposible para darle todos los cuidados que realmente necesitan su cuerpo y su alma.
+- **Se rompe el reflejo, más no la cadena**, por Carla Rosales.
+    * Una mujer del futuro busca encontrar la salida de un lugar lleno de imágenes idénticas a ella.
+- **Loop, loop**, por Sofía Serra.
+    * Mia trata de llegar bajo la lluvia hasta la esquina y cruzar la avenida, lo que resulta un viaje mucho más complicado de lo que parece.
+- **La Decisión**, por B.D. Aguayo.
+    * La raza humana está al borde de la extinción. ¿Qué seríamos capaces de hacer para que ésto no ocurra?
+ 
+#### Enlaces de descarga:
+
+**DESCARGA GRATIS**
+* 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/la-sombra-de-la-luna/23996](https://lektu.com/l/kannonical-editores/la-sombra-de-la-luna/23996)
+* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1720639](https://www.smashwords.com/books/view/1720639)
+* 📘 Kobo: 
+* 📙 AppleBooks: 
+* 📒 Barnes&Noble: 
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/310pB7](https://books2read.com/u/310pB7)
+
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: 
+* 🏬 fnac.es: 
+
+**Lectura por suscripción**
+* 💲 Everand / Scribd: [https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
+
+**Descarga con costo mínimo (Kindle)**
+* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0DZ3SRZ24](https://www.amazon.com.mx/dp/B0DZ3SRZ24)
+* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DZ3SRZ24](https://www.amazon.com/dp/B0DZ3SRZ24)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DZ3SRZ24](https://www.amazon.es/dp/B0DZ3SRZ24)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
