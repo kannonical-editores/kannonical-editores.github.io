@@ -431,8 +431,8 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/la-sombra-de-la-luna/23996](https://lektu.com/l/kannonical-editores/la-sombra-de-la-luna/23996)
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1720639](https://www.smashwords.com/books/view/1720639)
 * 📘 Kobo: 
-* 📙 AppleBooks: 
-* 📒 Barnes&Noble: 
+* 📙 AppleBooks: [https://books.apple.com/book/id6742753995](https://books.apple.com/book/id6742753995)
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1147080098](https://www.barnesandnoble.com/w/1147080098)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/310pB7](https://books2read.com/u/310pB7)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
