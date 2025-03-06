@@ -436,7 +436,7 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/310pB7](https://books2read.com/u/310pB7)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
-* 🏢 Librerías Gandhi: 
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p](https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p)
 * 🏬 fnac.es: 
 
 **Lectura por suscripción**
