@@ -390,7 +390,7 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: 
-* 🏬 fnac.es: 
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11695399/El-amor-dura-lo-que-dura-dura#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11695399/El-amor-dura-lo-que-dura-dura#FORMAT=ePub)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos](https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos)
