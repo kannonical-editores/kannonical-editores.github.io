@@ -57,8 +57,9 @@ Si tienes cualquier duda o necesitas una aclaración con respecto a la convocato
 ## Sobre nuestras antologías publicadas
 Tenemos **nueve** antologías publicadas en formato digital en las principales librerías en línea:  
 
-### ***Memorias de la oscuridad***
-![Memorias de la obscuridad](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-amci-fantas-4.jpg)  
+### ***Memorias de la obscuridad***
+![450x600 cover kobo Memorias 05](https://github.com/user-attachments/assets/21ead3fc-f1d3-4521-928a-ebd5280a782a)  
+
 Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y es de ***cuentos de fantasmas***. Contiene ocho relatos de cuatro excelentes autores:
 * **Materia oscura** de Malena Papagna Lioi.
     * En la monotonía tediosa de un viaje intergaláctico más, las cosas cambian de pronto para la comandante. Este documento clasificado nos lo revela.
