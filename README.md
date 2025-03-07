@@ -438,7 +438,7 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p](https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p)
-* 🏬 fnac.es: 
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
