@@ -82,7 +82,7 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATUITA**
 * 📕 lektu.com: [https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995](https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995)
@@ -124,7 +124,7 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATUITA**
 
@@ -170,7 +170,7 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983](https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983)
@@ -218,7 +218,7 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247](https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247)
@@ -262,7 +262,7 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)  
@@ -308,7 +308,7 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
@@ -355,7 +355,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
  
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/navidades-siniestras/23741](https://lektu.com/l/kannonical-editores/navidades-siniestras/23741)
@@ -398,7 +398,7 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
  
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/el-amor-dura-lo-que-dura-dura/23934](https://lektu.com/l/kannonical-editores/el-amor-dura-lo-que-dura-dura/23934)
@@ -447,7 +447,7 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
  
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 * 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/la-sombra-de-la-luna/23996](https://lektu.com/l/kannonical-editores/la-sombra-de-la-luna/23996)
@@ -498,7 +498,7 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA CON COSTO MÍNIMO**
 * 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932](https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932)
@@ -519,7 +519,7 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 
 ## Sobre nuestras redes sociales:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [kannonical_libros@proton.me](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 Visita nuestro perfil de Facebook, nuestro Instagram y nuestro canal de YouTube:
 * [**Facebook /Kannonical**](https://facebook.com/Kannonical)
