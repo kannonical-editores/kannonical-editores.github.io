@@ -99,8 +99,9 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
+
 ### ***Cuéntamelo con lujuria de detalles***
-![Portada de "Cuéntamelo con lujuria de detalles"](https://bdaguayoescritora.wordpress.com/wp-content/uploads/2024/05/300x480-ccldd-ama01c.jpg)  
+![450x600 Cuentamelo rojo kobo](https://github.com/user-attachments/assets/d08fcdc9-c267-4711-bc6f-28ac8ce61052)  
 Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles** y contiene siete relatos eróticos escritos por cinco talentosos escritores:
 * **Sarcasmo y temblores** de Dita V. Delapluma.
     * Un camping lleno de jóvenes a la orilla de un bosque, una bruja y un sátiro en un duelo mágico para conseguir un preciado ingrediente. ¿Quién ganará?
