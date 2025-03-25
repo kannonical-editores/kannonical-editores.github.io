@@ -18,7 +18,8 @@ Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 
 
 
-![1000x1000 Convocat 2025 SciFi 01](https://github.com/user-attachments/assets/33e7eadc-7c10-46d9-8b86-6fc413f4ba6f)
+![1000x1000 Convocat 2025 SciFi 24h](https://github.com/user-attachments/assets/482a2877-2ace-4e15-9afc-611c2649c96e)  
+
 
 ## Sobre la convocatoria del bimestre de **febrero-marzo** de relato corto de **CIENCIA FICCIÓN**:
 
