@@ -5,10 +5,6 @@
 ![Banner Facebook V Kannonical MarMujer 2025 1064x395](https://github.com/user-attachments/assets/17bd1d9d-15a9-48ef-855c-b45cee1f7d89)
 
 
-
-
-
-
 Nuestra página está en construcción, pero aquí está lo básico sobre nosotros.
 ## Sobre Kannonical:  
 **Kannonical Editores, historias Interesantes para lectores Inteligentes.**  
@@ -17,8 +13,9 @@ Somos un colectivo literario/editorial que publica convocatorias de cuento para 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 
 
+![1000x1000 Convocat 2025 SciFi cerrada gris](https://github.com/user-attachments/assets/b4bc847e-2dfc-4e3c-b82d-e0f6c711ae7f)  
 
-![1000x1000 Convocat 2025 SciFi 24h](https://github.com/user-attachments/assets/482a2877-2ace-4e15-9afc-611c2649c96e)  
+
 
 
 ## Sobre la convocatoria del bimestre de **febrero-marzo** de relato corto de **CIENCIA FICCIÓN**:
