@@ -2,7 +2,8 @@
 | [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-febrero-marzo-de-relato-corto-de-ciencia-ficci%C3%B3n) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
-![Banner Facebook V Kannonical MarMujer 2025 1064x395](https://github.com/user-attachments/assets/17bd1d9d-15a9-48ef-855c-b45cee1f7d89)
+
+![Banner Facebook V Kannonical 1064x395](https://github.com/user-attachments/assets/dce8a916-bacf-40c2-878c-e0f616778b19)
 
 
 Nuestra página está en construcción, pero aquí está lo básico sobre nosotros.
@@ -82,8 +83,8 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
-**DESCARGA GRATUITA**
-* 📕 lektu.com: [https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995](https://lektu.com/l/kannonical-editores/memorias-de-la-obscuridad/22995)
+**DESCARGA GRATUITA**  
+
 * 📗 Smashwords: [https://www.smashwords.com/books/view/1557692](https://www.smashwords.com/books/view/1557692)
 * 📘 Kobo: [https://www.kobo.com/ebook/memorias-de-la-obscuridad](https://www.kobo.com/ebook/memorias-de-la-obscuridad)
 * 📙 AppleBooks: [https://books.apple.com/book/id6499493975](https://books.apple.com/book/id6499493975)
@@ -126,7 +127,6 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 **DESCARGA GRATUITA**
 
-* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277](https://lektu.com/l/kannonical-editores/cuentamelo-con-lujuria-de-detalles/23277)
 * 📗 Smashwords: [https://www.smashwords.com/books/1590843](https://www.smashwords.com/books/1590843)
 * 📘 Kobo: [https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles](https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles)
 * 📙 AppleBooks: [https://books.apple.com/book/id6547840648](https://books.apple.com/book/id6547840648)
@@ -171,7 +171,7 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
-* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983](https://lektu.com/l/kannonical-editores/todas-hieren-la-ultima-mata/22983)
+
 * 📗 Smashwords: [https://www.smashwords.com/books/view/1552200](https://www.smashwords.com/books/view/1552200)
 * 📘 Kobo: [https://www.kobo.com/ebook/todas-hieren-la-ultima-mata](https://www.kobo.com/ebook/todas-hieren-la-ultima-mata)
 * 📙 AppleBooks: [https://books.apple.com/mx/book/todas-hieren-la-%C3%BAltima-mata/id6497715475](https://books.apple.com/mx/book/todas-hieren-la-%C3%BAltima-mata/id6497715475)
@@ -219,7 +219,7 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
-* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247](https://lektu.com/l/kannonical-editores/premoniciones-sinteticas/23247)
+
 * 📗 Smashwords: [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
 * 📘 Kobo: [https://www.kobo.com/ebook/premoniciones-sinteticas](https://www.kobo.com/ebook/premoniciones-sinteticas)
 * 📙 AppleBooks: [https://books.apple.com/book/id6514281697](https://books.apple.com/book/id6514281697)
@@ -263,7 +263,7 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
-* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458](https://lektu.com/l/kannonical-editores/bordado-en-el-viento/23458)  
+
 * 📗 Smashwords: [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
 * 📘 Kobo: [https://www.kobo.com/mx/es/ebook/bordado-en-el-viento](https://www.kobo.com/mx/es/ebook/bordado-en-el-viento)
 * 📙 AppleBooks: [https://books.apple.com/book/id6670410196](https://books.apple.com/book/id6670410196)
@@ -309,7 +309,7 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
-* 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602](https://lektu.com/l/kannonical-editores/promesas-de-sangre/23602)
+
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1638508](https://www.smashwords.com/books/view/1638508)
 * 📘 Kobo: [https://www.kobo.com/ebook/promesas-de-sangre](https://www.kobo.com/ebook/promesas-de-sangre)
 * 📙 AppleBooks: [https://books.apple.com/book/id6737296082](https://books.apple.com/book/id6737296082)
@@ -356,7 +356,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
-* 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/navidades-siniestras/23741](https://lektu.com/l/kannonical-editores/navidades-siniestras/23741)
+
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1656935](https://www.smashwords.com/books/view/1656935)
 * 📘 Kobo: [https://www.kobo.com/ebook/navidades-siniestras](https://www.kobo.com/ebook/navidades-siniestras)
 * 📙 AppleBooks: [https://books.apple.com/book/id6738879464](https://books.apple.com/book/id6738879464)
@@ -399,7 +399,7 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
-* 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/el-amor-dura-lo-que-dura-dura/23934](https://lektu.com/l/kannonical-editores/el-amor-dura-lo-que-dura-dura/23934)
+
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1705983](https://www.smashwords.com/books/view/1705983)
 * 📘 Kobo: [https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura](https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura)
 * 📙 AppleBooks: [https://books.apple.com/book/id6741764036](https://books.apple.com/book/id6741764036)
@@ -448,7 +448,7 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
-* 📕 Lektu.com (ePub): [https://lektu.com/l/kannonical-editores/la-sombra-de-la-luna/23996](https://lektu.com/l/kannonical-editores/la-sombra-de-la-luna/23996)
+
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1720639](https://www.smashwords.com/books/view/1720639)
 * 📘 Kobo: [https://www.kobo.com/mx/es/ebook/la-sombra-de-la-luna-2](https://www.kobo.com/mx/es/ebook/la-sombra-de-la-luna-2)
 * 📙 AppleBooks: [https://books.apple.com/book/id6742753995](https://books.apple.com/book/id6742753995)
@@ -499,7 +499,7 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA CON COSTO MÍNIMO**
-* 📕 Lektu.com: [https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932](https://lektu.com/l/kannonical-editores/hasta-la-ultima-gota/22932)
+
 * 📗 Smashwords: [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
 * 📘 Kobo: [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
 * 📙 AppleBooks: [https://books.apple.com/book/id6484316887](https://books.apple.com/book/id6484316887)
