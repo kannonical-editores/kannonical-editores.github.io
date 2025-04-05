@@ -1,5 +1,5 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-febrero-marzo-de-relato-corto-de-ciencia-ficci%C3%B3n) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-abril-mayo-de-relato-corto-de-fantas%C3%ADa) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
 
@@ -14,39 +14,41 @@ Somos un colectivo literario/editorial que publica convocatorias de cuento para 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
 
 
-![1000x1000 Convocat 2025 SciFi cerrada gris](https://github.com/user-attachments/assets/b4bc847e-2dfc-4e3c-b82d-e0f6c711ae7f)  
+  
 
 
+![1000x1000 Convocat 2025 Fantasia 01](https://github.com/user-attachments/assets/c7489ac7-5c63-4d2e-8069-a9d6b17acae0)  
 
 
-## Sobre la convocatoria del bimestre de **febrero-marzo** de relato corto de **CIENCIA FICCIÓN**:
+## Sobre la convocatoria del bimestre de **abril-mayo** de relato corto de **FANTASÍA**:
 
-Este bimestre (febrero-marzo) la convocatoria es para relatos cortos de **CIENCIA FICCIÓN**, en cualquiera de sus acepciones y mezclas con otros géneros y subgéneros.
+Este bimestre (abril-mayo) la convocatoria es para relatos cortos de **FANTASÍA**, en cualquiera de sus acepciones y mezclas con otros géneros y subgéneros.
 
 ### BASES
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
 2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
-3. El relato deberá ser un cuento **original**, **inédito** y ser del género “**CIENCIA FICCIÓN**”. 
-4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”. Ejemplo: **La última pregunta, por Isaac Asimov**
+3. El relato deberá ser un cuento **original**, **inédito** y ser del género “**FANTASÍA**”. 
+4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”. Ejemplo: **El puente del troll, por Terry Pratchett**
 5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
-6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato]-[Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. Ejemplo: **La última pregunta-Isaac Asimov.docx**
+6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato] - [Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. Ejemplo: **El puente del troll - Terry Pratchett.docx**
 7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
-8. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Ciencia ficción - [Título del relato], [Nombre del autor]*”. Ejemplo: **Ciencia ficción - La última pregunta, Isaac Asimov**
+8. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Fantasía - [Título del relato], [Nombre del autor]*”. Ejemplo: **Fantasía - El puente del troll, Terry Pratchett**
 9.  Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica (un documento aparte) con los siguientes datos:
     - Nombre completo del autor
     - Título del relato
     - Pseudónimo para publicación (si usas uno)
     - Nacionalidad
     - Redes sociales
-    - e-mail
+    - Dirección de correo electrónico (e-mail)
     - Número de teléfono ó celular (opcional).
     - Breve semblanza del autor (no más de 100 palabras).
+    - ¿Cómo te enteraste de la convocatoria?
 10. **No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
 11. **No se aceptarán cuentos infantiles**.
 12. **Nos se aceptarán obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
 13. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
-14. Puedes enviar tu relato a partir del **1° de febrero del 2025** y hasta las **23:59** del **25 de marzo del 2025** (hora de la Ciudad de México, UTC -6).
-15. Los relatos elegidos se incluirán en la antología que se publicará en **mayo del 2025** como un libro digital de formato *ePub* de descarga gratuita en la principales librerías en línea.
+14. Puedes enviar tu relato a partir del **5 de abril del 2025** y hasta las **23:59** del **25 de mayo del 2025** (hora de la Ciudad de México, UTC-6).
+15. Los relatos elegidos se incluirán en la antología que se publicará en **julio del 2025** como un libro digital de formato *ePub* de descarga gratuita en la principales librerías en línea.
 16. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación**, es decir, deberán estar dispuestos a hacer las correcciones en el texto que los organizadores les indiquen.
 17. **Enviar un relato a la convocatoria implica que nos otorgas tu permiso para publicarlo**, pues sigues conservando todos los derechos sobre tu cuento.
 
