@@ -231,7 +231,7 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4jpDJk](https://books2read.com/u/4jpDJk)
 * 💸 Amazon México: [https://www.amazon.com.mx/dp/B0D8VGGBY7](https://www.amazon.com.mx/dp/B0D8VGGBY7)
 * 💵 Amazon US: [https://www.amazon.com/dp/B0D8VGGBY7](https://www.amazon.com/dp/B0D8VGGBY7)
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
+* 💶 Amazon España: [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p](https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p)
