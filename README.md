@@ -12,8 +12,6 @@ Nuestra página está en construcción, pero aquí está lo básico sobre nosotr
 Somos un colectivo literario/editorial que publica convocatorias de cuento para hacer antologías digitales y dar a conocer a escritores noveles🤩 Lo que significa que somos un grupo de personas que dona su tiempo para hacer las antologías (lo que implica hacer las convocatorias, revisar los cuentos, seleccionar los relatos, editar las historias, hacer corrección de estilo a los relatos, maquetar el libro electrónico, planear la portada y las ilustraciones internas, hacer ilustraciones y/o sacar fotografías para la portada, hacer el diseño gráfico de libro, hacer el archivo ePub, y finalmente subir el archivo a librerías en línea) y mantener las redes sociales vivas (responder mensajes, colocar historias, subir los avisos sobre publicaciones y convocatorias, moderar nuestro grupo).
 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
-
-
   
 
 
@@ -94,13 +92,13 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
 * Amazon México: [https://www.amazon.com.mx/dp/B0CLZVBZ9K/](https://www.amazon.com.mx/dp/B0CLZVBZ9K/)
 * Amazon US: [https://www.amazon.com/dp/B0CLZVBZ9K/](https://www.amazon.com/dp/B0CLZVBZ9K/)
+* Amazon España: [https://www.amazon.es/dp/B0CLZVBZ9K/](https://www.amazon.es/dp/B0CLZVBZ9K/)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p](https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub)
 
-*Por pago mínimo*  
-* Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0CLZVBZ9K/](https://www.amazon.es/dp/B0CLZVBZ9K/)
+
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
@@ -146,7 +144,6 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 * 💲 Everand / Scribd: [https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles](https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles)
 
 **Por pago mínimo**
-
 * Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0CVF2XBSV](https://www.amazon.es/dp/B0CVF2XBSV)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
@@ -232,8 +229,9 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 * 📙 AppleBooks: [https://books.apple.com/book/id6514281697](https://books.apple.com/book/id6514281697)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145959295](https://www.barnesandnoble.com/w/1145959295)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4jpDJk](https://books2read.com/u/4jpDJk)
-*  💸 Amazon México: [https://www.amazon.com.mx/dp/B0D8VGGBY7](https://www.amazon.com.mx/dp/B0D8VGGBY7)
+* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0D8VGGBY7](https://www.amazon.com.mx/dp/B0D8VGGBY7)
 * 💵 Amazon US: [https://www.amazon.com/dp/B0D8VGGBY7](https://www.amazon.com/dp/B0D8VGGBY7)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p](https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p)
@@ -242,8 +240,6 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/748035905/Premoniciones-sinteticas](https://es.everand.com/book/748035905/Premoniciones-sinteticas)
 
-**Descarga con costo mínimo (Kindle)**  
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
@@ -414,6 +410,7 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146968929](https://www.barnesandnoble.com/w/1146968929)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3RkPOG](https://books2read.com/u/3RkPOG)
 * 💸 Amazon México: [https://www.amazon.com.mx/dp/B0DWKQQY3T](https://www.amazon.com.mx/dp/B0DWKQQY3T)
+* 💵 Amazon US: [https://www.amazon.com/dp/B0DWKQQY3T](https://www.amazon.com/dp/B0DWKQQY3T)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: 
@@ -423,10 +420,10 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 * 💲 Everand / Scribd: [https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos](https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos)
 
 **Descarga con costo mínimo (Kindle)**
-* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DWKQQY3T](https://www.amazon.com/dp/B0DWKQQY3T)
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DWKQQY3T](https://www.amazon.es/dp/B0DWKQQY3T)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 ### ***La sombra de la Luna***  
 ![450x600 PersFem 01](https://github.com/user-attachments/assets/729f9d19-641c-42e0-b92a-b68afbda3736)  
@@ -464,6 +461,7 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/310pB7](https://books2read.com/u/310pB7)
 * 💸 Amazon México: [https://www.amazon.com.mx/dp/B0DZ3SRZ24](https://www.amazon.com.mx/dp/B0DZ3SRZ24)
 * 💵 Amazon US: [https://www.amazon.com/dp/B0DZ3SRZ24](https://www.amazon.com/dp/B0DZ3SRZ24)
+* 💶 Amazon España: [https://www.amazon.es/dp/B0DZ3SRZ24](https://www.amazon.es/dp/B0DZ3SRZ24)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p](https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p)
@@ -472,8 +470,6 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
 
-**Descarga con costo mínimo (Kindle)**
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DZ3SRZ24](https://www.amazon.es/dp/B0DZ3SRZ24)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
