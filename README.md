@@ -475,7 +475,8 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 
 
 ### ***Hasta la última gota***
-![400x640 HlUG](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/58f7cfc9-a470-4820-95d0-3229cfd7ce79)  
+![450x600 HlUG rojo 01](https://github.com/user-attachments/assets/a31e433f-6b65-446b-a5d8-f8ac3e00accb)  
+
 Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemos mucho cariño por ser nuestra "*Antología Cero*". Esta es nuestra única antología que no es gratuita. Es de **cuentos de vampiros** escritos por dos excelentes autoras:
 * **El conde endemoniado** por B.D. Aguayo.
     * Una leyenda de tiempos remotos devela a una criatura vil, a un verdadero monstruo.
