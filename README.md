@@ -505,16 +505,16 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 
 **DESCARGA CON COSTO MÍNIMO**
 
-* 📗 Smashwords: [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
-* 📘 Kobo: [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
-* 📙 AppleBooks: [https://books.apple.com/book/id6484316887](https://books.apple.com/book/id6484316887)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
+* 📗 Smashwords ($2.55 USD): [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
+* 📘 Kobo ($50.00 MXN, $2.56 USD, 2,54 Euros): [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
+* 📙 AppleBooks ($2.99 USD): [https://books.apple.com/book/id6484316887](https://books.apple.com/book/id6484316887)
+* 📒 Barnes&Noble ($2.55 USD): [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/b/38OBKa](https://books2read.com/b/38OBKa)
-* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0CLZN58FY](https://www.amazon.com.mx/dp/B0CLZN58FY)
-* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0CLZN58FY](https://www.amazon.com/dp/B0CLZN58FY)
-* 💶 Amazon España (0.89 Euros): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
-* Librerías Gandhi en línea: [https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p](https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p)
-* fnac.es: [https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub)
+* 💸 Amazon México ($50.00 MXN): [https://www.amazon.com.mx/dp/B0CLZN58FY](https://www.amazon.com.mx/dp/B0CLZN58FY)
+* 💵 Amazon US ($2.55 USD): [https://www.amazon.com/dp/B0CLZN58FY](https://www.amazon.com/dp/B0CLZN58FY)
+* 💶 Amazon España (2,26 Euros): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
+* Librerías Gandhi en línea ($50.00 MXN): [https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p](https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p)
+* fnac.es (2,54 Euros): [https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
@@ -547,7 +547,7 @@ Recuerda, **<kannonical_contacto@proton.me>** es nuestro correo electrónico de 
 * [**Facebook /Kannonical**](https://facebook.com/Kannonical)
 * [**Instagram/editorial_kannonical**](https://instagram.com/editorial_kannonical)
 * [**Youtube @Kannonical**](https://www.youtube.com/@Kannonical)
-* Suscríbete a nuestro [**boletín de noticias en kannonical_libros@proton.me**](mailto:kannonical_libros%40proton.me?bcc=kannonical_boletin%40proton.me&subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+* Suscríbete a nuestro [**boletín de noticias en kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
