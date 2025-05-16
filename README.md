@@ -56,7 +56,7 @@ Si tienes cualquier duda o necesitas una aclaración con respecto a la convocato
 
 
 ## Sobre nuestras antologías publicadas
-Tenemos **nueve** antologías publicadas en formato digital en las principales librerías en línea:  
+Tenemos **diez** antologías publicadas en formato digital en las principales librerías en línea:  
 
 ### ***Memorias de la obscuridad***
 ![450x600 cover kobo Memorias 05](https://github.com/user-attachments/assets/21ead3fc-f1d3-4521-928a-ebd5280a782a)  
@@ -511,6 +511,8 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 * 📙 AppleBooks: 
 * 📒 Barnes&Noble: 
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/bozYdV](https://books2read.com/u/bozYdV)
+
+**Descarga con precio módico**
 * 💸 Amazon México: [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
 * 💵 Amazon US: [https://www.amazon.com/dp/B0F8TNCDX5](https://www.amazon.com/dp/B0F8TNCDX5)
 * 💶 Amazon España: [https://www.amazon.es/dp/B0F8TNCDX5](https://www.amazon.es/dp/B0F8TNCDX5)
