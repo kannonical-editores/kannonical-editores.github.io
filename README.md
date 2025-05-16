@@ -1,5 +1,5 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-abril-mayo-de-relato-corto-de-fantas%C3%ADa) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-abril-mayo-de-relato-corto-de-fantas%C3%ADa) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
 
@@ -472,6 +472,59 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
+
+
+### ***Espejismos cibernéricos***  
+![450x600 SciFi 2025 01Bloq](https://github.com/user-attachments/assets/55937854-0c82-4a5d-91b4-94f4f31017c1)
+
+
+Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los cuentos elegidos en nuestra *Convocatoria antología de ciencia ficción* del bimestre febrero-marzo 2025. Se llama **Espejismos cibernéticos**, y la ilustración de la portada está basada en un cuadro de *Edouard Manet* llamado ["**Olympia**"](https://www.musee-orsay.fr/en/artworks/olympia-712). La antología contiene nueve cuentos escritos por ocho excelentes autores:
+- **El Mariscal**, por Jesús Durán y Libertad García-Villada.
+    * Se dice que el poder corrompe y el poder absoluto corrompe absolutamente, pero ¿que sucede cuando quien lo adquiere ya estaba corrompido desde un inicio?
+- **Juntos por siempre**, por Andrés de Zamacona.
+    * Una pregunta aparentemente simple, pero fundamental, formulada desde la inocencia de la infancia, encuentra una respuesta compleja y profunda que trasciende tiempo, materia y espacio.
+- **Planetoide SB60**, por Angelique H. Saviñón.
+    * Una llamada de auxilio y Olympia, una ginoide regida por las leyes Asimov, no tiene más remedio que atenderla. Lo que la llevará a encontrar mucho más de lo que la androide podía computar.
+- **Información encapsulada**, por Andrés de Zamacona.
+    * En un futuro cercano, la humanidad ha avanzado tanto que la solución de todo puede ser encontrada con tan sólo tomar una píldora.
+- **Nuestra Señora de Arquetipa, por Julio Ortiz Manzo.
+    * Un nuevo orden mundial requiere de la dominación absoluta, sobre todo de los recursos naturales y energéticos. Por esta razón han enviado un destacamento especial para destruir una imagen religiosa.
+- **Rejilla de Cárdano o el huevo de pascua**, por Angelique H. Saviñón.
+    * El mundo de los códigos y los algoritmos se mezcla con la precisión mecánica y un secreto encriptado en este cuento.
+- **Soy metálico en el jardín botánico**, por Carla Rosales.
+    * Una investigadora científica aprende lecciones de vida de un brazo mecánico.
+- **El soporte de imágenes**, por Sofía Serra.
+    * La realidad concreta es simple e inmutable, todo lo que nuestros sentidos perciben la compone. Pero quizás nos han estado mintiendo.
+- **Una idea**, por B.D. Aguayo.
+    * En un futuro donde la Inteligencia Artificial ha logrado resolverlo todo, el bien más preciado, y nuestra razón principal para seguir adelante, es la creatividad.
+ 
+#### Enlaces de descarga:
+
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+
+**DESCARGA GRATIS**
+
+* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1770036](https://www.smashwords.com/books/view/1770036)
+* 📘 Kobo: 
+* 📙 AppleBooks: 
+* 📒 Barnes&Noble: 
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/bozYdV](https://books2read.com/u/bozYdV)
+* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
+* 💵 Amazon US: [https://www.amazon.com/dp/B0F8TNCDX5](https://www.amazon.com/dp/B0F8TNCDX5)
+* 💶 Amazon España: [https://www.amazon.es/dp/B0F8TNCDX5](https://www.amazon.es/dp/B0F8TNCDX5)
+
+**DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: 
+* 🏬 fnac.es: 
+
+**Lectura por suscripción**
+* 💲 Everand / Scribd: [https://es.everand.com/book/861843166/Espejismos-ciberneticos-Antologia-de-relatos-de-ciencia-ficcion](https://es.everand.com/book/861843166/Espejismos-ciberneticos-Antologia-de-relatos-de-ciencia-ficcion)
+
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 
 ### ***Hasta la última gota***
