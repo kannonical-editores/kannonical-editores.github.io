@@ -489,7 +489,7 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
     * Una llamada de auxilio y Olympia, una ginoide regida por las leyes Asimov, no tiene más remedio que atenderla. Lo que la llevará a encontrar mucho más de lo que la androide podía computar.
 - **Información encapsulada**, por Andrés de Zamacona.
     * En un futuro cercano, la humanidad ha avanzado tanto que la solución de todo puede ser encontrada con tan sólo tomar una píldora.
-- **Nuestra Señora de Arquetipa, por Julio Ortiz Manzo.
+- **Nuestra Señora de Arquetipa**, por Julio Ortiz Manzo.
     * Un nuevo orden mundial requiere de la dominación absoluta, sobre todo de los recursos naturales y energéticos. Por esta razón han enviado un destacamento especial para destruir una imagen religiosa.
 - **Rejilla de Cárdano o el huevo de pascua**, por Angelique H. Saviñón.
     * El mundo de los códigos y los algoritmos se mezcla con la precisión mecánica y un secreto encriptado en este cuento.
