@@ -97,6 +97,7 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p](https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798224036820_9798224036820_10020/memorias-de-la-obscuridad-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798224036820_9798224036820_10020/memorias-de-la-obscuridad-antologia-de-cuentos-de-fantasmas)
 
 
 
@@ -138,6 +139,7 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 
 * 🏬 fnac.es: [https://www.fnac.es/SearchResult/ResultList.aspx?Search=cu%C3%A9ntamelo+con+lujuria+de+detalles&sft=1&sa=0](https://www.fnac.es/SearchResult/ResultList.aspx?Search=cu%C3%A9ntamelo+con+lujuria+de+detalles&sft=1&sa=0)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798227164315_9798227164315_10020/cuentamelo-con-lujuria-de-detalles-antolo-orgia-de-relatos-eroticos](https://vivlio.casadellibro.com/product/9798227164315_9798227164315_10020/cuentamelo-con-lujuria-de-detalles-antolo-orgia-de-relatos-eroticos)
 
 **Lectura por suscripción**
 
@@ -186,6 +188,7 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p](https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a10994892/Todas-hieren-la-ultima-mata#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10994892/Todas-hieren-la-ultima-mata#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798224620494_9798224620494_10020/todas-hieren-la-ultima-mata-antologia-de-cuentos-de-terror](https://vivlio.casadellibro.com/product/9798224620494_9798224620494_10020/todas-hieren-la-ultima-mata-antologia-de-cuentos-de-terror)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/723487724/Todas-hieren-la-ultima-mata](https://es.everand.com/book/723487724/Todas-hieren-la-ultima-mata)
@@ -236,6 +239,7 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p](https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11173436/Premoniciones-sinteticas#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11173436/Premoniciones-sinteticas#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798227650801_9798227650801_10020/premoniciones-sinteticas-antologia-de-relatos-de-ciencia-ficcion](https://vivlio.casadellibro.com/product/9798227650801_9798227650801_10020/premoniciones-sinteticas-antologia-de-relatos-de-ciencia-ficcion)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/748035905/Premoniciones-sinteticas](https://es.everand.com/book/748035905/Premoniciones-sinteticas)
@@ -277,6 +281,7 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p](https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11292328/Bordado-en-el-viento#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11292328/Bordado-en-el-viento#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798227201324_9798227201324_10020/bordado-en-el-viento](https://vivlio.casadellibro.com/product/9798227201324_9798227201324_10020/bordado-en-el-viento)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/765198023/Bordado-en-el-viento](https://es.everand.com/book/765198023/Bordado-en-el-viento)
@@ -324,6 +329,7 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p](https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11400259/Promesas-de-sangre#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11400259/Promesas-de-sangre#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798227823496_9798227823496_10020/promesas-de-sangre](https://vivlio.casadellibro.com/product/9798227823496_9798227823496_10020/promesas-de-sangre)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/783638750/Promesas-de-sangre](https://es.everand.com/book/783638750/Promesas-de-sangre)
@@ -371,6 +377,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p](https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11486864/Navidades-siniestras#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11486864/Navidades-siniestras#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798230909712_9798230909712_10020/navidades-siniestras](https://vivlio.casadellibro.com/product/9798230909712_9798230909712_10020/navidades-siniestras)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/799076400/Navidades-siniestras](https://es.everand.com/book/799076400/Navidades-siniestras)
@@ -415,6 +422,7 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: 
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11695399/El-amor-dura-lo-que-dura-dura#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11695399/El-amor-dura-lo-que-dura-dura#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798230811732_9798230811732_10020/el-amor-dura-lo-que-dura-dura-antolo-orgia-de-cuentos-eroticos](https://vivlio.casadellibro.com/product/9798230811732_9798230811732_10020/el-amor-dura-lo-que-dura-dura-antolo-orgia-de-cuentos-eroticos)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos](https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos)
@@ -464,8 +472,10 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 * 💶 Amazon España: [https://www.amazon.es/dp/B0DZ3SRZ24](https://www.amazon.es/dp/B0DZ3SRZ24)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
+
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p](https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798230179306_9798230179306_10020/la-sombra-de-la-luna-antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://vivlio.casadellibro.com/product/9798230179306_9798230179306_10020/la-sombra-de-la-luna-antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
@@ -507,19 +517,20 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 **DESCARGA GRATIS**
 
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1770036](https://www.smashwords.com/books/view/1770036)
-* 📘 Kobo: 
+* 📘 Kobo: [https://www.kobo.com/ebook/espejismos-ciberneticos](https://www.kobo.com/ebook/espejismos-ciberneticos)
 * 📙 AppleBooks: 
-* 📒 Barnes&Noble: 
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1147431188](https://www.barnesandnoble.com/w/1147431188)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/bozYdV](https://books2read.com/u/bozYdV)
 
 **Descarga con precio módico**
-* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
-* 💵 Amazon US: [https://www.amazon.com/dp/B0F8TNCDX5](https://www.amazon.com/dp/B0F8TNCDX5)
-* 💶 Amazon España: [https://www.amazon.es/dp/B0F8TNCDX5](https://www.amazon.es/dp/B0F8TNCDX5)
+* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
+* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0F8TNCDX5](https://www.amazon.com/dp/B0F8TNCDX5)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0F8TNCDX5](https://www.amazon.es/dp/B0F8TNCDX5)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: 
-* 🏬 fnac.es: 
+* 🏬 fnac.es:
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798231701629_9798231701629_10020/espejismos-ciberneticos-antologia-de-relatos-de-ciencia-ficcion](https://vivlio.casadellibro.com/product/9798231701629_9798231701629_10020/espejismos-ciberneticos-antologia-de-relatos-de-ciencia-ficcion)
 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/861843166/Espejismos-ciberneticos-Antologia-de-relatos-de-ciencia-ficcion](https://es.everand.com/book/861843166/Espejismos-ciberneticos-Antologia-de-relatos-de-ciencia-ficcion)
@@ -570,6 +581,7 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 * 💶 Amazon España (2,26 Euros): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
 * Librerías Gandhi en línea ($50.00 MXN): [https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p](https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p)
 * fnac.es (2,54 Euros): [https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota](https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
