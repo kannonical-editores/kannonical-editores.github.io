@@ -528,8 +528,8 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0F8TNCDX5](https://www.amazon.es/dp/B0F8TNCDX5)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
-* 🏢 Librerías Gandhi: 
-* 🏬 fnac.es:
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/espejismos-ciberneticos-1230009027060/p](https://www.gandhi.com.mx/espejismos-ciberneticos-1230009027060/p)
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11997001/Espejismos-ciberneticos#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11997001/Espejismos-ciberneticos#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798231701629_9798231701629_10020/espejismos-ciberneticos-antologia-de-relatos-de-ciencia-ficcion](https://vivlio.casadellibro.com/product/9798231701629_9798231701629_10020/espejismos-ciberneticos-antologia-de-relatos-de-ciencia-ficcion)
 
 **Lectura por suscripción**
