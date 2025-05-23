@@ -518,7 +518,7 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1770036](https://www.smashwords.com/books/view/1770036)
 * 📘 Kobo: [https://www.kobo.com/ebook/espejismos-ciberneticos](https://www.kobo.com/ebook/espejismos-ciberneticos)
-* 📙 AppleBooks: 
+* 📙 AppleBooks: [https://books.apple.com/book/id6745910152](https://books.apple.com/book/id6745910152)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1147431188](https://www.barnesandnoble.com/w/1147431188)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/bozYdV](https://books2read.com/u/bozYdV)
 
