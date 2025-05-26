@@ -15,12 +15,15 @@ Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
   
 
 
-![1000x1000 Convocat 2025 Fantasia 01](https://github.com/user-attachments/assets/c7489ac7-5c63-4d2e-8069-a9d6b17acae0)  
+![1000x1000 Convocat 2025 Fantasia 01 cerrada](https://github.com/user-attachments/assets/63ff855a-b48d-4522-9e83-a40b8db399cd)
+
 
 
 ## Sobre la convocatoria del bimestre de **abril-mayo** de relato corto de **FANTASÍA**:
 
-Este bimestre (abril-mayo) la convocatoria es para relatos cortos de **FANTASÍA**, en cualquiera de sus acepciones y mezclas con otros géneros y subgéneros.
+**CONVOCATORIA CERRADA** ¡Muchas gracias por su participación! A finales de mayo anunciaremos a los autores seleccionados. 
+
+El bimestre (abril-mayo) la convocatoria fue para relatos cortos de **FANTASÍA**, en cualquiera de sus acepciones y mezclas con otros géneros y subgéneros.
 
 ### BASES
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
