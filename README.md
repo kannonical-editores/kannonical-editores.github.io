@@ -57,9 +57,11 @@ Si tienes cualquier duda o necesitas una aclaración con respecto a la convocato
 Tenemos **diez** antologías publicadas en formato digital en las principales librerías en línea:  
 
 ### ***Memorias de la obscuridad***
-![450x600 cover kobo Memorias 05](https://github.com/user-attachments/assets/21ead3fc-f1d3-4521-928a-ebd5280a782a)  
 
-Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y es de ***cuentos de fantasmas***. Contiene ocho relatos de cuatro excelentes autores:
+![450x600 Port Fantasmas 6b](https://github.com/user-attachments/assets/08186961-940c-47c3-9722-5056156f44ec)
+
+
+Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y es de ***cuentos de fantasmas***. Contiene ocho relatos de cinco excelentes autores:
 * **Materia oscura** de Malena Papagna Lioi.
     * En la monotonía tediosa de un viaje intergaláctico más, las cosas cambian de pronto para la comandante. Este documento clasificado nos lo revela.
 * **Por una cabeza** de Angelique H. Saviñón.
@@ -72,8 +74,8 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
     * El horror de una pérdida irreparable y un teléfono que no deja de llamar.
 * **No pierdas las llaves** de B.D. Aguayo.
     * Una casa de campo en medio de un bosque, la lluvia que no cesa y ella se encuentra sola… ¿Está realmente sola?
-* **Ciudad Fantasma** de Malena Papagna Lioi.
-    * La noche más extraña que un par de amigas viven cuando acampan en un pueblo pequeño.
+* **Trece** de Sofía Serra.
+    * Mariana hace tratos con ella misma, pero la seguridad de la luz en una noche obscura puede no serlo tanto como se pensaba.
 * **Donde hubo fuego…** de B.D. Aguayo.
     * ¿Qué es peor: el horror de lo inesperado o su ausencia?
 
