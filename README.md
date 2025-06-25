@@ -105,8 +105,10 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 
 ### ***Cuéntamelo con lujuria de detalles***
-![450x600 Cuentamelo rojo kobo](https://github.com/user-attachments/assets/d08fcdc9-c267-4711-bc6f-28ac8ce61052)  
-Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles** y contiene siete relatos eróticos escritos por cinco talentosos escritores:
+  ![450x600 Cuentamelo besos](https://github.com/user-attachments/assets/71752a6c-ec31-4695-8f8b-c65df041b76e)
+
+¡Ahora con un nuevo relato: **Amigos hasta la muerte**!  
+Nuestra segunda antología contiene cuentos eróticos (para la que por razones obvias no hubo concurso), se llama **Cuéntamelo con lujuria de detalles** y contiene siete relatos eróticos escritos por siete talentosos escritores:
 * **Sarcasmo y temblores** de Dita V. Delapluma.
     * Un camping lleno de jóvenes a la orilla de un bosque, una bruja y un sátiro en un duelo mágico para conseguir un preciado ingrediente. ¿Quién ganará?
 * **Hadaly** de Angelique H. Saviñón.
@@ -119,8 +121,8 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
     * En la obscuridad la mente vuela. El deseo, el placer y los goces más obscuros se unen detrás de una venda sobre los ojos.
 * **Terciopelo negro** de B.D. Aguayo.
     * Dentro del placer hay lugar para más de un pecado capital.
-* **Complicidad** de Casandra X.
-    * En un acuerdo secreto hay muchas formas de placer, incluso el violento y transgresor.
+* **Amigos hasta la muerte** de Jesús Durán y Libertad García-Villada.
+    * Dicen que en la guerra y en el placer todo se vale, pero una traición puede esconder mucho más de lo esperado.
 
 #### Enlaces de descarga:
 
