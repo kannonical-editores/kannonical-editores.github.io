@@ -14,21 +14,28 @@ Somos un colectivo literario/editorial que publica convocatorias de cuento para 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
   
 
-![1000x1000 Convocat Fantasmas 2025 FB 01](https://github.com/user-attachments/assets/c4ebd61a-c428-4bf0-af36-5f7a3cc11edc)  
+
+![1000x1000 Convocat Fantasmas 2025 FB 01 cerrada](https://github.com/user-attachments/assets/e66b62ae-7758-40a9-9f2a-ea5b2e57a0b4)  
 
 ## Sobre la convocatoria del bimestre de **junio-julio** de cuento corto de **FANTASMAS**:
 
-Este bimestre (junio-julio) la convocatoria es para cuentos cortos de **FANTASMAS**, en cualquiera de sus acepciones y cualquiera de sus géneros.
+**CONVOCATORIA CERRADA**  
+El bimestre de junio-julio 2025, la convocatoria fue para cuentos cortos de **FANTASMAS**, en cualquiera de sus acepciones y géneros.  
+Muy pronto publicaremos una nueva convocatoria.
 
-### BASES
+### BASES  
+**(CONVOCATORIA CERRADA)**
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
 2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
 3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre cualquier tipo de “**FANTASMA**”. 
-4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”. Ejemplo: **El fantasma de Canterville, por Oscar Wilde**
+4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”. 
+    - Ejemplo: **El fantasma de Canterville, por Oscar Wilde**
 5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
-6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato] - [Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. Ejemplo: **El fantasma de Canterville - Oscar Wilde.docx**
+6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato] - [Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
+    - Ejemplo: **El fantasma de Canterville - Oscar Wilde.docx**
 7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
-8. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Fantasmas - [Título del relato], [Nombre del autor]*”. Ejemplo: **Fantasmas - El fantasma de Canterville, Oscar Wilde**
+8. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Fantasmas - [Título del relato], [Nombre del autor]*”. 
+    - Ejemplo: **Fantasmas - El fantasma de Canterville, Oscar Wilde**
 9.  Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica (un documento aparte) con los siguientes datos:
     - ¿Cómo te enteraste de la convocatoria?
     - Nombre completo del autor
