@@ -1,5 +1,5 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-junio-julio-de-cuento-corto-de-fantasmas) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-de-terror-c%C3%B3smico-invernal) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
 
@@ -15,27 +15,25 @@ Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
   
 
 
-![1000x1000 Convocat Fantasmas 2025 FB 01 cerrada](https://github.com/user-attachments/assets/e66b62ae-7758-40a9-9f2a-ea5b2e57a0b4)  
+ ![1000x1000 Conv 2025 Horror Cosm inver 01](https://github.com/user-attachments/assets/35bc86a9-dcde-4894-a9d3-1471cdd8fc40)
+ 
 
-## Sobre la convocatoria del bimestre de **junio-julio** de cuento corto de **FANTASMAS**:
+## Sobre la convocatoria del bimestre de **agosto-septiembre** de relato de **TERROR CÓSMICO INVERNAL**:
 
-**CONVOCATORIA CERRADA**  
-El bimestre de junio-julio 2025, la convocatoria fue para cuentos cortos de **FANTASMAS**, en cualquiera de sus acepciones y géneros.  
-Muy pronto publicaremos una nueva convocatoria.
+Este bimestre (agosto-septiembre) la convocatoria es para cuentos cortos de **TERROR CÓSMICO INVERNAL**, es decir, relatos de terror lovecraftiano que ocurren durante el invierno, las fiestas decembrinas, a final/inicio de año o en un lugar extremadamente frío, helado o nevado.
 
 ### BASES  
-**(CONVOCATORIA CERRADA)**
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
 2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
-3. El relato deberá ser un cuento **original**, **inédito** y tratar sobre cualquier tipo de “**FANTASMA**”. 
+3. El relato deberá ser un cuento **original**, **inédito** y ser de “**TERROR CÓSMICO INVERNAL**”, es decir, puede ocurrir en invierno, a finales o principios de año, durante las fiestas decembrinas, o en un lugar extremadamente frío, helado o nevado. 
 4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”. 
-    - Ejemplo: **El fantasma de Canterville, por Oscar Wilde**
-5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas.
+    - Ejemplo: **La llamada de Cthulhu, por H.P. Lovecraft**
+5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas y ten cuidado con tu puntuación.
 6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato] - [Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
-    - Ejemplo: **El fantasma de Canterville - Oscar Wilde.docx**
+    - Ejemplo: **La llamada de Cthulhu - H.P. Lovecraft.docx**
 7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
-8. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Fantasmas - [Título del relato], [Nombre del autor]*”. 
-    - Ejemplo: **Fantasmas - El fantasma de Canterville, Oscar Wilde**
+8. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Terror cósmico invernal - [Título del relato], [Nombre del autor]*”. 
+    - Ejemplo: **Terror cósmico invernal - La llamada de Cthulhu, H.P. Lovecraft**
 9.  Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica (un documento aparte) con los siguientes datos:
     - ¿Cómo te enteraste de la convocatoria?
     - Nombre completo del autor
@@ -50,10 +48,10 @@ Muy pronto publicaremos una nueva convocatoria.
 11. **No se aceptarán cuentos infantiles**.
 12. **Nos se aceptarán obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
 13. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
-14. Puedes enviar tu relato a partir del **5 de junio del 2025** y hasta las **23:59** del **25 de julio del 2025** (hora de la Ciudad de México, UTC-6).
-15. Los relatos elegidos se incluirán en “**Memorias de la oscuridad**”, nuestra antología de cuentos de fantasmas ya publicada, en **octubre del 2025** (relanzamiento del libro digital de formato *ePub* de descarga gratuita).
+14. Puedes enviar tu relato a partir del **5 de AGOSTO del 2025** y hasta las **23:59** hrs. del **25 de SEPTIEMBRE del 2025** (hora de la Ciudad de México, UTC-6).
+15. Los relatos elegidos se incluirán en nuestra *antología de terror cósmico invernal*, a publicarse en **diciembre del 2025** (libro digital de formato ePub de descarga gratuita). Kannonical Editores no cobra ni pide dinero para publicar los relatos escogidos. 
 16. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación**, es decir, deberán estar dispuestos a hacer las correcciones en el texto que los organizadores les indiquen.
-17. **Enviar un relato a la convocatoria implica que nos otorgas tu permiso para publicarlo**, pues sigues conservando todos los derechos sobre tu cuento.
+17. **Enviar un relato a la convocatoria implica que estás de acuerdo con las bases y que nos otorgas tu permiso para publicar tu escrito**, pues sigues conservando todos los derechos sobre tu cuento.
 
 Si tienes cualquier duda o necesitas una aclaración con respecto a la convocatoria, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
 
