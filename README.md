@@ -15,8 +15,7 @@ Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
   
 
 
- ![1000x1000 Conv 2025 Horror Cosm inver 01](https://github.com/user-attachments/assets/35bc86a9-dcde-4894-a9d3-1471cdd8fc40)
- 
+![1000x1000 Conv 2025 Horror Cosm inver 02](https://github.com/user-attachments/assets/3f87ed12-a4c2-442b-a7fc-fc9f79b2e93d)  
 
 ## Sobre la convocatoria del bimestre de **agosto-septiembre** de relato de **TERROR CÓSMICO INVERNAL**:
 
