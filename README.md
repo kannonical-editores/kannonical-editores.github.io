@@ -62,16 +62,15 @@ Tenemos **diez** antologías publicadas en formato digital en las principales li
 
 ### ***Memorias de la obscuridad***
 
-![450x600 Port Fantasmas 6b](https://github.com/user-attachments/assets/08186961-940c-47c3-9722-5056156f44ec)
+![450x600 Port Fantasmas 7](https://github.com/user-attachments/assets/b0ab38dc-3c9c-4cc1-870a-56094e8acc80)
 
-
-Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso de cuento del mes de septiembre 2023*. Se llama **Memorias de la obscuridad** y es de ***cuentos de fantasmas***. Contiene ocho relatos de cinco excelentes autores:
-* **Materia oscura** de Malena Papagna Lioi.
-    * En la monotonía tediosa de un viaje intergaláctico más, las cosas cambian de pronto para la comandante. Este documento clasificado nos lo revela.
+Relanzamiento de nuestra primera antología, que ahora contiene ¡**13 cuentos de fantasmas** escritos por nueve espeluznantes autores!:
 * **Por una cabeza** de Angelique H. Saviñón.
     * Metzi tiene un encuentro sobrenatural en la Ciudad de México. Como una Intuitiva, ese es su trabajo después de todo. Un tropiezo fortuito la llevará a hacer algo que se prometió no hacer nunca: trabajar gratis.
 * **El susurro del tiempo** de Andrés de Zamacona.
     * Quizás cuando ya no estemos y hayamos muerto, algo de nosotros aún persista.
+* **Incertidumbre** de Berenice Vicario.
+    * Un científico investiga la desaparición de su amigo, lo que encontrará desafía todas las leyes de la física.
 * **Nocturno** de Angelique H. Saviñón.
     * De noche en un bar todo puede suceder. A veces internarse en la noche no es como lo imaginamos.
 * **Las cinco llamadas** de Andrés de Zamacona.
@@ -82,6 +81,14 @@ Nuestra primera antología contiene los cuentos ganadores de nuestro *Concurso d
     * Mariana hace tratos con ella misma, pero la seguridad de la luz en una noche obscura puede no serlo tanto como se pensaba.
 * **Donde hubo fuego…** de B.D. Aguayo.
     * ¿Qué es peor: el horror de lo inesperado o su ausencia?
+* **Desde el umbral** de Juana Carolina Santos Milachay.
+    * Una relación sentimental, casi extinta, donde la infidelidad puede generar nuevas opciones que permitan que este amor pueda sobrevivir.
+* **Manual para deletrear ausencias** de Sofía Magdalena.
+    * Antiguas tardes de radio, un divertimento inocente pero macabro, una ausencia inesperada y un mensaje del más allá, revelarán la veracidad de las antiguas prácticas de dos mujeres.
+* **Quinta Leonor** de Dafne Romero Rosas.
+    * Para visitar la capital lo mejor es alojarse en un “hogar lejos del hogar”. Las rentas cortas aseguran un lugar cómodo y económico para la estancia familiar, pero quien te hospeda podría tener un secreto oscuro. ¿Quieres descubrirlo?
+* **La guardiana** de María Balbina López Caballero.
+    * El retorno a la casa familiar está siempre lleno de recuerdos y sentimientos difíciles de olvidar. No obstante, la necesidad de retornar tras un lamentable fallecimiento puede alterarlo todo, incluso las memorias.
 
 #### Enlaces de descarga:
 
