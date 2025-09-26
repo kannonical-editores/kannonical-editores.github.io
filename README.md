@@ -15,11 +15,13 @@ Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
   
 
 
-![1000x1000 Conv 2025 Horror Cosm inver 02](https://github.com/user-attachments/assets/3f87ed12-a4c2-442b-a7fc-fc9f79b2e93d)  
+![1000x1000 Conv 2025 Horror Cosm inver 02 CERRADA](https://github.com/user-attachments/assets/cf13a88f-0228-428e-a6dd-d98829656fcc)  
 
 ## Sobre la convocatoria del bimestre de **agosto-septiembre** de relato de **TERROR CÓSMICO INVERNAL**:
 
-Este bimestre (agosto-septiembre) la convocatoria es para cuentos cortos de **TERROR CÓSMICO INVERNAL**, es decir, relatos de terror lovecraftiano que ocurren durante el invierno, las fiestas decembrinas, a final/inicio de año o en un lugar extremadamente frío, helado o nevado.
+**CONVOCATORIA CERRADA**  
+Este bimestre (agosto-septiembre) la convocatoria fue para cuentos cortos de **TERROR CÓSMICO INVERNAL**, es decir, relatos de terror lovecraftiano que ocurren durante el invierno, las fiestas decembrinas, a final/inicio de año o en un lugar extremadamente frío, helado o nevado.  
+**La convocatoria terminó**, pero las bases permanecerán como referencia.
 
 ### BASES  
 1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
@@ -58,7 +60,7 @@ Si tienes cualquier duda o necesitas una aclaración con respecto a la convocato
 
 
 ## Sobre nuestras antologías publicadas
-Tenemos **diez** antologías publicadas en formato digital en las principales librerías en línea:  
+Tenemos **once** antologías publicadas en formato digital en las principales librerías en línea:  
 
 ### ***Memorias de la obscuridad***
 
