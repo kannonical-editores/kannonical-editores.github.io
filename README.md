@@ -1,5 +1,5 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-de-terror-c%C3%B3smico-invernal) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-de-terror-c%C3%B3smico-invernal) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Existencia de sombras*](https://kannonical-editores.github.io/#existencia-de-sombras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-11) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 
 
@@ -555,10 +555,63 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 
 
 
+### ***Existencia de sombras***
+![450x600 Port Fantasmas 2025 2aut](https://github.com/user-attachments/assets/7430daa5-23a5-45ff-9cca-4ec32c62dd23)
+
+
+Nuestra undécima antología es de **cuentos de fantasmas** y es una colección de relatos escritos por algunos de nuestros mejores autores. Se titula **Existencia de sombras** y es nuestra segunda antología que no es gratuita. Contiene **diez cuentos**:
+- **Jaakuna**, por Iván Aragón Muñiz.
+    * Un samurái obligado a llevar a cabo el último acto de obediencia, toma un camino oscuro para salvarse.
+- **Noche Colonial**, por Angelique H. Saviñón.
+    * Metzi, una intuitiva, es contratada para ayudar a terminar las obras de un antiguo colegio en el centro de la Ciudad de México. Entre canciones de antaño y grupos de estudiantes, descubrirá secretos y resolverá un extraño enigma.
+- **El alma de un asesino**, por Andrés de Zamacona.
+    * En un futuro próximo, nuestras almas podrán ser evaluadas según sus atributos en vidas pasadas. Un astuto detective se encarga de hacerlas confesar, muy a su manera.
+- **Con un nudo en la garganta**, por Carla Rosales.
+    * La pérdida de la inocencia puede ser un rito de paso doloroso y mortal. Cuando se ha cometido un error, confrontar el pasado puede ser liberador.
+- **He visto la sonrisa de mi madre**, por B.D. Aguayo.
+    * Una estrella entronizada en su carrera deja este mundo, pero su imagen no lo hace del todo.
+- **La dama sin sombra**, por Sofía Serra.
+    * En una época pasada, una muchacha se ve obligada a dejar atrás todo lo que ama, solo para verse acosada por una peculiar dama.
+- **Nave al garete**, por Angelique H. Saviñón.
+    * En la inmensidad del espacio, una nave de pepenadores espaciales tiene un encuentro con lo desconocido.
+- **Acuerdo de confidencialidad**, por Andrés de Zamacona.
+    * La profesión médica está obligada a guardar sus registros de manera confidencial. ¿Qué sucede cuando es imperante romper este secreto para encontrar la verdad?
+- **Despierta, Vicky**, por Iván Aragón Muñiz.
+    * Una muchacha joven y rica, se enfrenta a sí misma en un trance hipnótico, que le descubrirá con violencia, secretos imposibles de olvidar.
+- **La heredera**, por Sofía Serra.
+    * Un pasatiempo macabro puede abrir puertas inimaginables y develar secretos mortales.
+ 
+#### Enlaces de descarga:
+
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+
+**DESCARGA CON COSTO MÍNIMO**
+
+* 📗 Smashwords (ePub, $3.00 USD): [https://www.smashwords.com/books/view/1879417](https://www.smashwords.com/books/view/1879417)
+* 📘 Kobo: 
+* 📙 AppleBooks ($3.99 USD): [https://books.apple.com/book/id6754006229](https://books.apple.com/book/id6754006229)
+* 📒 Barnes&Noble ($3.00 USD): [https://www.barnesandnoble.com/w/1148535700](https://www.barnesandnoble.com/w/1148535700)
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4EXKnY](https://books2read.com/u/4EXKnY)
+
+**Descarga en Amazon**
+* 💸 Amazon México ($60.00 MXN): [https://www.amazon.com.mx/dp/B0FW93K4V6](https://www.amazon.com.mx/dp/B0FW93K4V6)
+* 💵 Amazon US ($3.00 USD): [https://www.amazon.com/dp/B0FW93K4V6](https://www.amazon.com/dp/B0FW93K4V6)
+* 💶 Amazon España (2,79 €): [https://www.amazon.es/dp/B0FW93K4V6](https://www.amazon.es/dp/B0FW93K4V6)
+
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: 
+* 🏬 fnac.es: 
+* 🏙 Casa del Libro (2,99 €): [https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas)
+
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
+
 ### ***Hasta la última gota***
 ![450x600 HlUG rojo 01](https://github.com/user-attachments/assets/a31e433f-6b65-446b-a5d8-f8ac3e00accb)  
 
-Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemos mucho cariño por ser nuestra "*Antología Cero*". Esta es nuestra única antología que no es gratuita. Es de **cuentos de vampiros** escritos por dos excelentes autoras:
+Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemos mucho cariño por ser nuestra "*Antología Cero*". Esta es nuestra primera antología que no es gratuita. Es de **cuentos de vampiros** escritos por dos excelentes autoras:
 * **El conde endemoniado** por B.D. Aguayo.
     * Una leyenda de tiempos remotos devela a una criatura vil, a un verdadero monstruo.
 * **La moneda en el aire** por Angelique H. Saviñón.
@@ -596,7 +649,7 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 * 💶 Amazon España (2,26 Euros): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
 * Librerías Gandhi en línea ($50.00 MXN): [https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p](https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p)
 * fnac.es (2,54 Euros): [https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub)
-* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota](https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota)
+* 🏙 Casa del Libro (2,49 Euros): [https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota](https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
