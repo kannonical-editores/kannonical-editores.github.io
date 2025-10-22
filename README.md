@@ -585,23 +585,26 @@ Nuestra undécima antología es de **cuentos de fantasmas** y es una colección 
 
 ¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
+**La antología tiene 50% de descuento hasta el** ***3 de noviembre 2025***
+
 **DESCARGA CON COSTO MÍNIMO**
 
-* 📗 Smashwords (ePub, $3.00 USD): [https://www.smashwords.com/books/view/1879417](https://www.smashwords.com/books/view/1879417)
-* 📘 Kobo: 
-* 📙 AppleBooks ($3.99 USD): [https://books.apple.com/book/id6754006229](https://books.apple.com/book/id6754006229)
-* 📒 Barnes&Noble ($3.00 USD): [https://www.barnesandnoble.com/w/1148535700](https://www.barnesandnoble.com/w/1148535700)
+* 📗 Smashwords (ePub, ~~$3.00 USD~~ $1.50 USD): [https://www.smashwords.com/books/view/1879417](https://www.smashwords.com/books/view/1879417)
+* 📘 Kobo (~~$60.00 MXN~~ $30.00 MXN, ~~$3.00 USD~~ $1.50 USD, ~~2,68 €~~ 1,34 €): [https://www.kobo.com/ebook/existencia-de-sombras](https://www.kobo.com/ebook/existencia-de-sombras)
+* 📙 AppleBooks (~~$3.99 USD~~ $1.99 USD): [https://books.apple.com/book/id6754006229](https://books.apple.com/book/id6754006229)
+* 📒 Barnes&Noble (~~$3.00 USD~~ $1.50 USD): [https://www.barnesandnoble.com/w/1148535700](https://www.barnesandnoble.com/w/1148535700)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4EXKnY](https://books2read.com/u/4EXKnY)
 
 **Descarga en Amazon**
-* 💸 Amazon México ($60.00 MXN): [https://www.amazon.com.mx/dp/B0FW93K4V6](https://www.amazon.com.mx/dp/B0FW93K4V6)
-* 💵 Amazon US ($3.00 USD): [https://www.amazon.com/dp/B0FW93K4V6](https://www.amazon.com/dp/B0FW93K4V6)
-* 💶 Amazon España (2,79 €): [https://www.amazon.es/dp/B0FW93K4V6](https://www.amazon.es/dp/B0FW93K4V6)
+
+- 💸 Amazon México (~~$60.00 MXN~~ $30.00 MXN): [https://www.amazon.com.mx/dp/B0FW93K4V6](https://www.amazon.com.mx/dp/B0FW93K4V6)
+- 💵 Amazon US (~~$3.00 USD~~ $1.50 USD): [https://www.amazon.com/dp/B0FW93K4V6](https://www.amazon.com/dp/B0FW93K4V6)
+- 💶 Amazon España (~~2,79 €~~ 1,39 €): [https://www.amazon.es/dp/B0FW93K4V6](https://www.amazon.es/dp/B0FW93K4V6)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
-* 🏢 Librerías Gandhi: 
-* 🏬 fnac.es: 
-* 🏙 Casa del Libro (2,99 €): [https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas)
+* 🏢 Librerías Gandhi (~~$60.00 MXN~~ $30.00 MXN): [https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p](https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p)
+* 🏬 fnac.es (~~2,68 €~~ 1,34 €): [https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub](https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub)
+* 🏙 Casa del Libro (~~2,99 €~~ 0,99 €): [https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
