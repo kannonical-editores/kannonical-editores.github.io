@@ -537,9 +537,9 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1147431188](https://www.barnesandnoble.com/w/1147431188)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/bozYdV](https://books2read.com/u/bozYdV)
 
-**Descarga con precio módico**
-* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
-* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0F8TNCDX5](https://www.amazon.com/dp/B0F8TNCDX5)
+**Descarga en Amazon**
+* 💸 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
+* 💵 Amazon US (GRATIS): [https://www.amazon.com/dp/B0F8TNCDX5](https://www.amazon.com/dp/B0F8TNCDX5)
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0F8TNCDX5](https://www.amazon.es/dp/B0F8TNCDX5)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
@@ -589,22 +589,22 @@ Nuestra undécima antología es de **cuentos de fantasmas** y es una colección 
 
 **DESCARGA CON COSTO MÍNIMO**
 
-* 📗 Smashwords (ePub, ~~$3.00 USD~~ $1.50 USD): [https://www.smashwords.com/books/view/1879417](https://www.smashwords.com/books/view/1879417)
-* 📘 Kobo (~~$60.00 MXN~~ $30.00 MXN, ~~$3.00 USD~~ $1.50 USD, ~~2,68 €~~ 1,34 €): [https://www.kobo.com/ebook/existencia-de-sombras](https://www.kobo.com/ebook/existencia-de-sombras)
-* 📙 AppleBooks (~~$3.99 USD~~ $1.99 USD): [https://books.apple.com/book/id6754006229](https://books.apple.com/book/id6754006229)
-* 📒 Barnes&Noble (~~$3.00 USD~~ $1.50 USD): [https://www.barnesandnoble.com/w/1148535700](https://www.barnesandnoble.com/w/1148535700)
+* 📗 Smashwords (ePub, $2.99 USD): [https://www.smashwords.com/books/view/1879417](https://www.smashwords.com/books/view/1879417)
+* 📘 Kobo ($60.00 MXN, $2.99 USD, 2,82 €): [https://www.kobo.com/ebook/existencia-de-sombras](https://www.kobo.com/ebook/existencia-de-sombras)
+* 📙 AppleBooks ($3.99 USD): [https://books.apple.com/book/id6754006229](https://books.apple.com/book/id6754006229)
+* 📒 Barnes&Noble ($2.99 USD): [https://www.barnesandnoble.com/w/1148535700](https://www.barnesandnoble.com/w/1148535700)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4EXKnY](https://books2read.com/u/4EXKnY)
 
 **Descarga en Amazon**
 
-- 💸 Amazon México (~~$60.00 MXN~~ $30.00 MXN): [https://www.amazon.com.mx/dp/B0FW93K4V6](https://www.amazon.com.mx/dp/B0FW93K4V6)
-- 💵 Amazon US (~~$3.00 USD~~ $1.50 USD): [https://www.amazon.com/dp/B0FW93K4V6](https://www.amazon.com/dp/B0FW93K4V6)
-- 💶 Amazon España (~~2,79 €~~ 1,39 €): [https://www.amazon.es/dp/B0FW93K4V6](https://www.amazon.es/dp/B0FW93K4V6)
+- 🪙 Amazon México ($60.00 MXN): [https://www.amazon.com.mx/dp/B0FW93K4V6](https://www.amazon.com.mx/dp/B0FW93K4V6)
+- 💵 Amazon US ($2.99 USD): [https://www.amazon.com/dp/B0FW93K4V6](https://www.amazon.com/dp/B0FW93K4V6)
+- 💶 Amazon España (2,82 €): [https://www.amazon.es/dp/B0FW93K4V6](https://www.amazon.es/dp/B0FW93K4V6)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
-* 🏢 Librerías Gandhi (~~$60.00 MXN~~ $30.00 MXN): [https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p](https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p)
-* 🏬 fnac.es (~~2,68 €~~ 1,34 €): [https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub](https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub)
-* 🏙 Casa del Libro (~~2,99 €~~ 0,99 €): [https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas)
+* 🏢 Librerías Gandhi ($60.00 MXN): [https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p](https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p)
+* 🏬 fnac.es (2,82 €): [https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub](https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub)
+* 🏙 Casa del Libro (2,82 €): [https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
@@ -642,17 +642,17 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 
 **DESCARGA CON COSTO MÍNIMO**
 
-* 📗 Smashwords ($2.55 USD): [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
-* 📘 Kobo ($50.00 MXN, $2.56 USD, 2,54 Euros): [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
+* 📗 Smashwords ($2.99 USD): [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
+* 📘 Kobo ($60.00 MXN, $3.99 USD, 2,82 €): [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
 * 📙 AppleBooks ($2.99 USD): [https://books.apple.com/book/id6484316887](https://books.apple.com/book/id6484316887)
-* 📒 Barnes&Noble ($2.55 USD): [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
+* 📒 Barnes&Noble ($2.99 USD): [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/b/38OBKa](https://books2read.com/b/38OBKa)
-* 💸 Amazon México ($50.00 MXN): [https://www.amazon.com.mx/dp/B0CLZN58FY](https://www.amazon.com.mx/dp/B0CLZN58FY)
-* 💵 Amazon US ($2.55 USD): [https://www.amazon.com/dp/B0CLZN58FY](https://www.amazon.com/dp/B0CLZN58FY)
-* 💶 Amazon España (2,26 Euros): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
-* Librerías Gandhi en línea ($50.00 MXN): [https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p](https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p)
-* fnac.es (2,54 Euros): [https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub)
-* 🏙 Casa del Libro (2,49 Euros): [https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota](https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota)
+* 🪙 Amazon México ($60.00 MXN): [https://www.amazon.com.mx/dp/B0CLZN58FY](https://www.amazon.com.mx/dp/B0CLZN58FY)
+* 💵 Amazon US ($2.99 USD): [https://www.amazon.com/dp/B0CLZN58FY](https://www.amazon.com/dp/B0CLZN58FY)
+* 💶 Amazon España (2,82 €): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
+* 🏢 Librerías Gandhi en línea ($60.00 MXN): [https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p](https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p)
+* 🏬 fnac.es (2,82 €): [https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub)
+* 🏙 Casa del Libro (2,82 €): [https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota](https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
