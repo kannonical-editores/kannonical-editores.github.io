@@ -5,15 +5,26 @@
 
 ![Banner Facebook V Kannonical 1064x395](https://github.com/user-attachments/assets/dce8a916-bacf-40c2-878c-e0f616778b19)
 
+## Sobre Kannonical: 
 
-Nuestra página está en construcción, pero aquí está lo básico sobre nosotros.
-## Sobre Kannonical:  
 **Kannonical Editores, historias Interesantes para lectores Inteligentes.**  
-Somos un colectivo literario/editorial que publica convocatorias de cuento para hacer antologías digitales y dar a conocer a escritores noveles🤩 Lo que significa que somos un grupo de personas que dona su tiempo para hacer las antologías (lo que implica hacer las convocatorias, revisar los cuentos, seleccionar los relatos, editar las historias, hacer corrección de estilo a los relatos, maquetar el libro electrónico, planear la portada y las ilustraciones internas, hacer ilustraciones y/o sacar fotografías para la portada, hacer el diseño gráfico de libro, hacer el archivo ePub, y finalmente subir el archivo a librerías en línea) y mantener las redes sociales vivas (responder mensajes, colocar historias, subir los avisos sobre publicaciones y convocatorias, moderar nuestro grupo).
+
+Somos un colectivo literario/editorial dedicado a publicar *antologías digitales gratuitas* para dar a conocer a escritores noveles seleccionados a través de convocatorias literarias en los géneros de *terror*, *ciencia ficción* y *fantasía* 🤩 Esto significa que somos un grupo de personas donando su tiempo para:
+* hacer las convocatorias
+* leer y revisar los cuentos recibidos
+* seleccionar los relatos
+* editar las historias seleccionadas
+* hacer corrección de estilo a los relatos
+* maquetar el libro electrónico de la antología
+* planear la portada y las ilustraciones internas
+* hacer ilustraciones y/o sacar fotografías para la portada
+* hacer el diseño gráfico de libro
+* hacer el archivo ePub
+* y finalmente, publicar el archivo en las principales librerías en línea
+* además de mantener nuestras redes sociales vivas
 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
   
-
 
 ![1000x1000 Conv 2025 Horror Cosm inver 02 CERRADA](https://github.com/user-attachments/assets/cf13a88f-0228-428e-a6dd-d98829656fcc)  
 
@@ -94,7 +105,7 @@ Relanzamiento de nuestra primera antología, que ahora contiene ¡**13 cuentos d
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATUITA**  
 
@@ -139,7 +150,7 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATUITA**
 
@@ -188,7 +199,7 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 
@@ -238,7 +249,7 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 
@@ -282,7 +293,7 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 
@@ -330,7 +341,7 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 
@@ -378,7 +389,7 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
  
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 
@@ -422,7 +433,7 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
  
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 
@@ -473,7 +484,7 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
  
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 
@@ -527,7 +538,7 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
  
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA GRATIS**
 
@@ -583,7 +594,7 @@ Nuestra undécima antología es de **cuentos de fantasmas** y es una colección 
  
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **La antología tiene 50% de descuento hasta el** ***3 de noviembre 2025***
 
@@ -638,7 +649,7 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 
 #### Enlaces de descarga:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 **DESCARGA CON COSTO MÍNIMO**
 
@@ -660,7 +671,7 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 
 ## Sobre nuestras redes sociales:
 
-¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 Visita nuestro perfil de Facebook, nuestro Instagram y nuestro canal de YouTube:
 * [**Facebook /Kannonical**](https://facebook.com/Kannonical)
@@ -670,22 +681,23 @@ Visita nuestro perfil de Facebook, nuestro Instagram y nuestro canal de YouTube:
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
 
-## Si quieres saber más sobre por qué hacemos esto:
-Como ya explicamos arriba somos un *colectivo literario/editorial*, lo que implica que quienes trabajamos en ***Kannonical Editores*** donamos nuestro tiempo para hacer posibles las antologías, sin afán de lucro y de manera altruísta. No cobramos por la edición de nuestras antologías digitales, no cobramos para que los cuentos entren en las antologías, y en la medida de lo posible, no cobramos por los libros resultantes (por favor, bajen nuestras antologías de Amazon sólo cuando estén gratis, les avisaremos en qué momento ocurre esto aquí y en nuestras redes sociales).
+## Si quieres saber más sobre por qué hacemos esto:  
+Por ser un *colectivo literario/editorial* sin afán de lucro, en ***Kannonical Editores*** donamos nuestro tiempo de manera altruísta para hacer posibles nuestras antologías.
+No cobramos por la edición de nuestras antologías digitales, no cobramos para que los cuentos entren en las antologías, y en la medida de lo posible, no cobramos por los libros resultantes (por favor, baja nuestras antologías de Amazon sólo de la tienda que las tenga gratis, generalmente es la de Amazon México).
 
 Nos basamos en la máxima «*Issoku Issai, Issai sokuichi*» o «*Todo es uno, uno somos todos*».
 
 Todos estamos interrelacionados, y entre todos nos apoyamos. Cuando comenzamos en cualquier actividad que nos interesa, como la escritura, llega un momento en que nos damos cuenta que estando solos no podemos avanzar más. Pero lo que para un solo autor puede parecer abrumador, en grupo puede ser mucho más sencillo. De esta idea nació nuestro colectivo literario/editorial, ***Kannonical Editores***. 
 
-A un autor novel puede parecerle imposible el publicar un libro pues no tiene los conocimientos necesarios para su maquetación, corrección de estilo, edición, diseño gráfico y publicación en línea; pero cuando estas tareas se reparten entre personas experimentadas en cada área, el hacer un libro es muchísimo más fácil. ***Kannonical Editores*** pretende que la publicación en línea esté al alcance de todos intercambiando talentos y habilidades entre nosotros. 
+A un autor novel puede parecerle imposible el publicar un libro pues no tiene los conocimientos necesarios para su maquetación, corrección de estilo, edición, diseño gráfico y publicación en línea; pero cuando estas tareas se reparten entre personas experimentadas en cada área, el hacer un libro es muchísimo más fácil. ***Kannonical Editores*** pretende que la publicación en línea esté al alcance de todos, intercambiando talentos y habilidades entre nosotros. 
 
-La forma más sencilla de ayudarnos es compartiendo nuestras publicaciones y comentarios en tus redes sociales, y si quieres ayudarnos con alguna tarea particular (corrección de estilo; ilustración para portada o para imágenes interiores; ilustración de la imagen para volver al índice de contenidos, plecas, ex-libris y divisores de página; limpieza de texto para subirlo al ePub, etc.) tu ayuda es más que bienvenida. Sólo recuerda que no tenemos los recursos para pagarte y que estarías donando tu tiempo y trabajo para hacer posible una antología. Eso sí, en todos nuestros libros damos crédito a quienes nos ayudaron y apoyaron, así que tu nombre (o pseudónimo) pasaría a la historia en una de nuestras publicaciones digitales. Además ofrecemos recomendar tus servicios a nuestros seguidores y amigos.
+La forma más sencilla de ayudarnos con este cometido es compartiendo nuestras publicaciones y comentarios en tus redes sociales, y si quieres ayudarnos con alguna tarea particular (corrección de estilo; ilustración para portada o para imágenes interiores; ilustración de la imagen para volver al índice de contenidos, plecas, ex-libris y divisores de página; limpieza de texto para subirlo al ePub, etc.) tu ayuda es más que bienvenida. Sólo recuerda que no tenemos los recursos para pagarte y que estarías donando tu tiempo y trabajo para hacer posible una antología. Eso sí, en todos nuestros libros damos crédito a quienes nos ayudaron y apoyaron, así que tu nombre (o pseudónimo) pasaría a la historia en una de nuestras publicaciones digitales. Además ofrecemos recomendar tus servicios a nuestros seguidores y amigos.
 
 Recuerda, **<kannonical_contacto@proton.me>** es nuestro correo electrónico de contacto y estas son nuestras redes sociales:
 * [**Facebook /Kannonical**](https://facebook.com/Kannonical)
 * [**Instagram/editorial_kannonical**](https://instagram.com/editorial_kannonical)
 * [**Youtube @Kannonical**](https://www.youtube.com/@Kannonical)
-* Suscríbete a nuestro [**boletín de noticias en kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Me%20gustan%20sus%20antologías%20y%20quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+* Suscríbete a nuestro [**boletín de noticias en kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
