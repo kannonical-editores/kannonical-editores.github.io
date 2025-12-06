@@ -1,9 +1,10 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-agosto-septiembre-de-relato-de-terror-c%C3%B3smico-invernal) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Existencia de sombras*](https://kannonical-editores.github.io/#existencia-de-sombras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-11) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-nuestras-convocatorias-de-cuento-corto-para-las-antolog%C3%ADas-gratuitas) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Existencia de sombras*](https://kannonical-editores.github.io/#existencia-de-sombras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) - [*El frío del abismo*](https://kannonical-editores.github.io/#el-fr%C3%ADo-del-abismo) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-11) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-12) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+
+![Banner Facebook V Kannonical 1064x395 Navidad](https://github.com/user-attachments/assets/44bc46ee-c81c-4bf3-bf3b-a6f1a639b079)
 
 
 
-![Banner Facebook V Kannonical 1064x395](https://github.com/user-attachments/assets/dce8a916-bacf-40c2-878c-e0f616778b19)
 
 ## Sobre Kannonical: 
 
@@ -26,52 +27,21 @@ Somos un colectivo literario/editorial dedicado a publicar *antologías digitale
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
   
 
-![1000x1000 Conv 2025 Horror Cosm inver 02 CERRADA](https://github.com/user-attachments/assets/cf13a88f-0228-428e-a6dd-d98829656fcc)  
+## Sobre nuestras convocatorias de cuento corto para las antologías gratuitas:
 
-## Sobre la convocatoria del bimestre de **agosto-septiembre** de relato de **TERROR CÓSMICO INVERNAL**:
-
-**CONVOCATORIA CERRADA**  
-Este bimestre (agosto-septiembre) la convocatoria fue para cuentos cortos de **TERROR CÓSMICO INVERNAL**, es decir, relatos de terror lovecraftiano que ocurren durante el invierno, las fiestas decembrinas, a final/inicio de año o en un lugar extremadamente frío, helado o nevado.  
-**La convocatoria terminó**, pero las bases permanecerán como referencia.
+Aproximadamente cada cuatro meses lanzamos convocatorias con temáticas afines a los géneros que manejamos: terror, fantasía y ciencia ficción. Los relatos seleccionados se incluyen en una antología digital gratuita que se publica en las principales librerías en línea.
+El próximo año abriremos nuestra siguiente convocatoria.
 
 ### BASES  
-1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
-2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
-3. El relato deberá ser un cuento **original**, **inédito** y ser de “**TERROR CÓSMICO INVERNAL**”, es decir, puede ocurrir en invierno, a finales o principios de año, durante las fiestas decembrinas, o en un lugar extremadamente frío, helado o nevado. 
-4. La primera línea del relato debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”. 
-    - Ejemplo: **La llamada de Cthulhu, por H.P. Lovecraft**
-5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas y ten cuidado con tu puntuación.
-6. **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato] - [Nombre del autor]”*** y ser un archivo tipo “*.docx*” o “*.odt*”. 
-    - Ejemplo: **La llamada de Cthulhu - H.P. Lovecraft.docx**
-7. Envía el archivo de tu relato a **<kannonical_contacto@proton.me>**
-8. El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Terror cósmico invernal - [Título del relato], [Nombre del autor]*”. 
-    - Ejemplo: **Terror cósmico invernal - La llamada de Cthulhu, H.P. Lovecraft**
-9.  Junto con tu relato, en el correo electrónico que nos envíes, debes incluir una plica (un documento aparte) con los siguientes datos:
-    - ¿Cómo te enteraste de la convocatoria?
-    - Nombre completo del autor
-    - Título del relato
-    - Pseudónimo para publicación (si usas uno)
-    - Nacionalidad
-    - Redes sociales
-    - Dirección de correo electrónico (e-mail)
-    - Número de teléfono ó celular (opcional).
-    - Breve semblanza del autor (no más de 100 palabras).
-10. **No se aceptarán relatos escritos con ayuda de una Inteligencia Artificial** como ChatGPT o cualquier otro servicio similar. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
-11. **No se aceptarán cuentos infantiles**.
-12. **Nos se aceptarán obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
-13. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
-14. Puedes enviar tu relato a partir del **5 de AGOSTO del 2025** y hasta las **23:59** hrs. del **25 de SEPTIEMBRE del 2025** (hora de la Ciudad de México, UTC-6).
-15. Los relatos elegidos se incluirán en nuestra *antología de terror cósmico invernal*, a publicarse en **diciembre del 2025** (libro digital de formato ePub de descarga gratuita). Kannonical Editores no cobra ni pide dinero para publicar los relatos escogidos. 
-16. Los autores de los relatos seleccionados **deberán estar dispuestos a trabajar en la edición de su relato junto con los organizadores para prepararlo para su publicación**, es decir, deberán estar dispuestos a hacer las correcciones en el texto que los organizadores les indiquen.
-17. **Enviar un relato a la convocatoria implica que estás de acuerdo con las bases y que nos otorgas tu permiso para publicar tu escrito**, pues sigues conservando todos los derechos sobre tu cuento.
+Las bases se actualizan con cada convocatoria y aquí se colocan durante la duración de la misma.
 
-Si tienes cualquier duda o necesitas una aclaración con respecto a la convocatoria, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
+Si te intera conocer más detalles con respecto a nuestras convocatorias, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
 
 ## Sobre nuestras antologías publicadas
-Tenemos **once** antologías publicadas en formato digital en las principales librerías en línea:  
+Tenemos **doce** antologías publicadas en formato digital en las principales librerías en línea:  
 
 ### ***Memorias de la obscuridad***
 
@@ -617,6 +587,44 @@ Nuestra undécima antología es de **cuentos de fantasmas** y es una colección 
 * 🏬 fnac.es (2,82 €): [https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub](https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub)
 * 🏙 Casa del Libro (2,82 €): [https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas)
 
+
+[Volver al menú](https://kannonical-editores.github.io/#menú)
+
+### ***El frío del abismo***  
+![450x600 Port TerrorCosmInv 2025](https://github.com/user-attachments/assets/f819ea61-9465-4aa9-89ea-991095b5a382)
+
+Nuestra duodécima antología es de relatos de **terror cósmico**, también conocido como **terror lovecraftiano**. Contiene los cuentos elegidos en nuestra *Convocatoria antología de terror cósmico invernal* del bimestre agosto-septiembre 2025. Se llama **El frío del abismo**, y la ilustración de la portada está hecha con una fotografía de la Vía Lactea y una ilustración científica del siglo XIX de **Ernst Haeckel** representando una *Periphyla mirabilis*, una medusa de las profundidades marinas. La antología contiene cuatro cuentos escritos por cuatro excelentes autores, quienes nos llevan desde las arenas de Egipto, en busca de un templo perdido en el desierto, hasta la Ciudad de México, tras la pista de una influencer perdida; pasando por un pueblo recóndito en España, donde no todo es lo que parece y terminando en Cozumel y una extraña casa. Estos son los relatos:  
+- **Carroñeros**, por Angelique H. Saviñón.
+    * Un *podcaster* investiga una misteriosa desaparición que podría ser la primicia que tanto ha esperado para volverse viral. Se adentrará en una frenética carrera por ser el primero en desentrañar la verdad.
+- **Niévago**, por Manuel Corroza.
+    * Un literato en decadencia accede a llevar a cabo una lectura en una modesta localidad en medio de la nada, en la fría y helada campiña de Castilla, donde un enigmático misterio le espera para ser revelado.
+- **Xuxulim-Ha**, por B.D. Aguayo.
+    * Para resistir el calor del Caribe mexicano, Ronny opta por mantener el aire acondicionado en funcionamiento de día y noche, lo cual podría desencadenar una pesadilla.
+- **Nuestra madre que todo lo ve**, por Sofía Serra.
+    * En el primer cuarto del siglo veinte, una egiptóloga hará hasta lo imposible por hacer un descubrimiento que la lleve a la fama y a encontrarse con tesoros grandiosos y dioses olvidados.
+
+ 
+#### Enlaces de descarga:
+
+¡No te pierdas ninguna de nuestras nuevas publicaciones! Incríbete a nuestro boletín de noticias en [**kannonical_boletin@proton.me**](mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&body=Quiero%20recibir%20más%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias)
+
+**DESCARGA GRATIS**
+
+* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1917491](https://www.smashwords.com/books/view/1917491)
+* 📘 Kobo: 
+* 📙 AppleBooks: [https://books.apple.com/book/id6756180826](https://books.apple.com/book/id6756180826)
+* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1148886211](https://www.barnesandnoble.com/w/1148886211)
+* 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3yGLxB](https://books2read.com/u/3yGLxB)
+
+**Descarga en Amazon**
+* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0G58V113Z](https://www.amazon.com.mx/dp/B0G58V113Z)
+* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0G58V113Z](https://www.amazon.com/dp/B0G58V113Z)
+* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0G58V113Z](https://www.amazon.es/dp/B0G58V113Z)
+
+**DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
+* 🏢 Librerías Gandhi: 
+* 🏬 fnac.es: 
+* 🏙 Casa del Libro: 
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
