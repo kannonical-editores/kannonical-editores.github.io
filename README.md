@@ -611,20 +611,20 @@ Nuestra duodécima antología es de relatos de **terror cósmico**, también con
 **DESCARGA GRATIS**
 
 * 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1917491](https://www.smashwords.com/books/view/1917491)
-* 📘 Kobo: 
+* 📘 Kobo: [https://www.kobo.com/ebook/el-frio-del-abismo](https://www.kobo.com/ebook/el-frio-del-abismo)
 * 📙 AppleBooks: [https://books.apple.com/book/id6756180826](https://books.apple.com/book/id6756180826)
 * 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1148886211](https://www.barnesandnoble.com/w/1148886211)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3yGLxB](https://books2read.com/u/3yGLxB)
 
 **Descarga en Amazon**
-* 💸 Amazon México ($12.00 MXN): [https://www.amazon.com.mx/dp/B0G58V113Z](https://www.amazon.com.mx/dp/B0G58V113Z)
+* 💸 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0G58V113Z](https://www.amazon.com.mx/dp/B0G58V113Z)
 * 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0G58V113Z](https://www.amazon.com/dp/B0G58V113Z)
 * 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0G58V113Z](https://www.amazon.es/dp/B0G58V113Z)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
-* 🏢 Librerías Gandhi: 
-* 🏬 fnac.es: 
-* 🏙 Casa del Libro: 
+* 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/el-frio-del-abismo-1230009554993/p](https://www.gandhi.com.mx/el-frio-del-abismo-1230009554993/p)
+* 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a12671982/El-frio-del-abismo#FORMAT=ePub](https://www.fnac.es/livre-numerique/a12671982/El-frio-del-abismo#FORMAT=ePub)
+* 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798232212797_9798232212797_10020/el-frio-del-abismo-antologia-de-cuentos-de-terror-cosmico](https://vivlio.casadellibro.com/product/9798232212797_9798232212797_10020/el-frio-del-abismo-antologia-de-cuentos-de-terror-cosmico)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
