@@ -79,23 +79,24 @@ Relanzamiento de nuestra primera antología, que ahora contiene ¡**13 cuentos d
 
 **DESCARGA GRATUITA**  
 
-* 📗 Smashwords: [https://www.smashwords.com/books/view/1557692](https://www.smashwords.com/books/view/1557692)
-* 📘 Kobo: [https://www.kobo.com/ebook/memorias-de-la-obscuridad](https://www.kobo.com/ebook/memorias-de-la-obscuridad)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1557692](https://www.smashwords.com/books/view/1557692)
+* 📕 Kobo: [https://www.kobo.com/ebook/memorias-de-la-obscuridad](https://www.kobo.com/ebook/memorias-de-la-obscuridad)
 * 📙 AppleBooks: [https://books.apple.com/book/id6499493975](https://books.apple.com/book/id6499493975)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145544015](https://www.barnesandnoble.com/w/1145544015)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1145544015](https://www.barnesandnoble.com/w/1145544015)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
-* Amazon México: [https://www.amazon.com.mx/dp/B0CLZVBZ9K/](https://www.amazon.com.mx/dp/B0CLZVBZ9K/)
-* Amazon US: [https://www.amazon.com/dp/B0CLZVBZ9K/](https://www.amazon.com/dp/B0CLZVBZ9K/)
-* Amazon España: [https://www.amazon.es/dp/B0CLZVBZ9K/](https://www.amazon.es/dp/B0CLZVBZ9K/)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p](https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798224036820_9798224036820_10020/memorias-de-la-obscuridad-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798224036820_9798224036820_10020/memorias-de-la-obscuridad-antologia-de-cuentos-de-fantasmas)
 
-
+**Descarga en Amazon (Kindle)**
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0CLZVBZ9K/](https://www.amazon.com.mx/dp/B0CLZVBZ9K/)
+* 🇺🇸 Amazon US (GRATIS): [https://www.amazon.com/dp/B0CLZVBZ9K/](https://www.amazon.com/dp/B0CLZVBZ9K/)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0CLZVBZ9K/](https://www.amazon.es/dp/B0CLZVBZ9K/)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 
 ### ***Cuéntamelo con lujuria de detalles***
@@ -124,13 +125,11 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 **DESCARGA GRATUITA**
 
-* 📗 Smashwords: [https://www.smashwords.com/books/1590843](https://www.smashwords.com/books/1590843)
-* 📘 Kobo: [https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles](https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/1590843](https://www.smashwords.com/books/1590843)
+* 📕 Kobo: [https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles](https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles)
 * 📙 AppleBooks: [https://books.apple.com/book/id6547840648](https://books.apple.com/book/id6547840648)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146011678](https://www.barnesandnoble.com/w/1146011678)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1146011678](https://www.barnesandnoble.com/w/1146011678)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/mvz1dl](https://books2read.com/u/mvz1dl)
-* Amazon México: [https://www.amazon.com.mx/dp/B0CVF2XBSV](https://www.amazon.com.mx/dp/B0CVF2XBSV)
-* Amazon US: [https://www.amazon.com/dp/B0CVF2XBSV](https://www.amazon.com/dp/B0CVF2XBSV)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 
@@ -141,10 +140,14 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 
 * 💲 Everand / Scribd: [https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles](https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles)
 
-**Por pago mínimo**
-* Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0CVF2XBSV](https://www.amazon.es/dp/B0CVF2XBSV)
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0CVF2XBSV](https://www.amazon.com.mx/dp/B0CVF2XBSV)
+* 🇺🇸 Amazon US (GRATIS): [https://www.amazon.com/dp/B0CVF2XBSV](https://www.amazon.com/dp/B0CVF2XBSV)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0CVF2XBSV](https://www.amazon.es/dp/B0CVF2XBSV)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
 
 ### ***Todas hieren, la última mata***
   ![480x640 ThlUM rojo](https://github.com/user-attachments/assets/a8ac2ef6-67a8-4f7a-aa23-c7718e62d18d)  
@@ -173,13 +176,11 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords: [https://www.smashwords.com/books/view/1552200](https://www.smashwords.com/books/view/1552200)
-* 📘 Kobo: [https://www.kobo.com/ebook/todas-hieren-la-ultima-mata](https://www.kobo.com/ebook/todas-hieren-la-ultima-mata)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1552200](https://www.smashwords.com/books/view/1552200)
+* 📕 Kobo: [https://www.kobo.com/ebook/todas-hieren-la-ultima-mata](https://www.kobo.com/ebook/todas-hieren-la-ultima-mata)
 * 📙 AppleBooks: [https://books.apple.com/mx/book/todas-hieren-la-%C3%BAltima-mata/id6497715475](https://books.apple.com/mx/book/todas-hieren-la-%C3%BAltima-mata/id6497715475)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145419051](https://www.barnesandnoble.com/w/1145419051)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1145419051](https://www.barnesandnoble.com/w/1145419051)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3kOLAN](https://books2read.com/u/3kOLAN)
-* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0D1V1HZH6](https://www.amazon.com.mx/dp/B0D1V1HZH6)
-* 💵 Amazon US: [https://www.amazon.com/dp/B0D1V1HZH6](https://www.amazon.com/dp/B0D1V1HZH6)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p](https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p)
@@ -189,11 +190,14 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/723487724/Todas-hieren-la-ultima-mata](https://es.everand.com/book/723487724/Todas-hieren-la-ultima-mata)
 
-**Descarga con costo mínimo (Kindle)**
-
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0D1V1HZH6](https://www.amazon.es/dp/B0D1V1HZH6)
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0D1V1HZH6](https://www.amazon.com.mx/dp/B0D1V1HZH6)
+* 🇺🇸 Amazon US (GRATIS): [https://www.amazon.com/dp/B0D1V1HZH6](https://www.amazon.com/dp/B0D1V1HZH6)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0D1V1HZH6](https://www.amazon.es/dp/B0D1V1HZH6)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
 
 ### ***Premoniciones sintéticas***  
 ![Premoniciones sintéticas](https://github.com/kannonical-editores/kannonical-editores.github.io/assets/166889025/2b6ee982-82da-4849-b4d8-0eceb43dcc8b)  
@@ -223,14 +227,11 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords: [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
-* 📘 Kobo: [https://www.kobo.com/ebook/premoniciones-sinteticas](https://www.kobo.com/ebook/premoniciones-sinteticas)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/1586115](https://www.smashwords.com/books/1586115)
+* 📕 Kobo: [https://www.kobo.com/ebook/premoniciones-sinteticas](https://www.kobo.com/ebook/premoniciones-sinteticas)
 * 📙 AppleBooks: [https://books.apple.com/book/id6514281697](https://books.apple.com/book/id6514281697)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1145959295](https://www.barnesandnoble.com/w/1145959295)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1145959295](https://www.barnesandnoble.com/w/1145959295)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4jpDJk](https://books2read.com/u/4jpDJk)
-* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0D8VGGBY7](https://www.amazon.com.mx/dp/B0D8VGGBY7)
-* 💵 Amazon US: [https://www.amazon.com/dp/B0D8VGGBY7](https://www.amazon.com/dp/B0D8VGGBY7)
-* 💶 Amazon España: [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p](https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p)
@@ -240,8 +241,14 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/748035905/Premoniciones-sinteticas](https://es.everand.com/book/748035905/Premoniciones-sinteticas)
 
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0D8VGGBY7](https://www.amazon.com.mx/dp/B0D8VGGBY7)
+* 🇺🇸 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0D8VGGBY7](https://www.amazon.com/dp/B0D8VGGBY7)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0D8VGGBY7](https://www.amazon.es/dp/B0D8VGGBY7)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
 
 ### ***Bordado en el viento***
 ![480x640 BeeV Kobo](https://github.com/user-attachments/assets/2463c79d-305a-4fe4-82dd-5b136ff49f06)  
@@ -267,12 +274,11 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords: [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
-* 📘 Kobo: [https://www.kobo.com/mx/es/ebook/bordado-en-el-viento](https://www.kobo.com/mx/es/ebook/bordado-en-el-viento)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1612103](https://www.smashwords.com/books/view/1612103)
+* 📕 Kobo: [https://www.kobo.com/mx/es/ebook/bordado-en-el-viento](https://www.kobo.com/mx/es/ebook/bordado-en-el-viento)
 * 📙 AppleBooks: [https://books.apple.com/book/id6670410196](https://books.apple.com/book/id6670410196)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146243379](https://www.barnesandnoble.com/w/1146243379)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1146243379](https://www.barnesandnoble.com/w/1146243379)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4Eg55A](https://books2read.com/u/4Eg55A)
-* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0DFXFV4MR](https://www.amazon.com.mx/dp/B0DFXFV4MR)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p](https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p)
@@ -282,12 +288,14 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/765198023/Bordado-en-el-viento](https://es.everand.com/book/765198023/Bordado-en-el-viento)
 
-**Descarga con costo mínimo (Kindle)**  
-
-* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DFXFV4MR](https://www.amazon.com/dp/B0DFXFV4MR)
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DFXFV4MR](https://www.amazon.es/dp/B0DFXFV4MR)
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DFXFV4MR](https://www.amazon.com.mx/dp/B0DFXFV4MR)
+* 🇺🇸 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DFXFV4MR](https://www.amazon.com/dp/B0DFXFV4MR)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0DFXFV4MR](https://www.amazon.es/dp/B0DFXFV4MR)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
 
 ### ***Promesas de sangre***
 ![450x600 PortKobo PromesasdeSangre](https://github.com/user-attachments/assets/2dbf0e0f-009e-43cf-8708-b36f345d59db)  
@@ -315,12 +323,11 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1638508](https://www.smashwords.com/books/view/1638508)
-* 📘 Kobo: [https://www.kobo.com/ebook/promesas-de-sangre](https://www.kobo.com/ebook/promesas-de-sangre)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1638508](https://www.smashwords.com/books/view/1638508)
+* 📕 Kobo: [https://www.kobo.com/ebook/promesas-de-sangre](https://www.kobo.com/ebook/promesas-de-sangre)
 * 📙 AppleBooks: [https://books.apple.com/book/id6737296082](https://books.apple.com/book/id6737296082)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146460819](https://www.barnesandnoble.com/w/1146460819)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1146460819](https://www.barnesandnoble.com/w/1146460819)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/me1N1V](https://books2read.com/u/me1N1V)
-* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0DKRF9Q9T](https://www.amazon.com.mx/dp/B0DKRF9Q9T)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p](https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p)
@@ -330,11 +337,14 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/783638750/Promesas-de-sangre](https://es.everand.com/book/783638750/Promesas-de-sangre)
 
-**Descarga con costo mínimo (Kindle)**  
-* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DKRF9Q9T](https://www.amazon.com/dp/B0DKRF9Q9T)
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DKRF9Q9T](https://www.amazon.es/dp/B0DKRF9Q9T)
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DKRF9Q9T](https://www.amazon.com.mx/dp/B0DKRF9Q9T)
+* 🇺🇸 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DKRF9Q9T](https://www.amazon.com/dp/B0DKRF9Q9T)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0DKRF9Q9T](https://www.amazon.es/dp/B0DKRF9Q9T)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
 
 ### ***Navidades siniestras***  
 ![450x600 TerrorNav Kobo 04 sin Manzo](https://github.com/user-attachments/assets/12201693-1e11-4a14-bb66-f28503ec4e62)  
@@ -363,12 +373,11 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1656935](https://www.smashwords.com/books/view/1656935)
-* 📘 Kobo: [https://www.kobo.com/ebook/navidades-siniestras](https://www.kobo.com/ebook/navidades-siniestras)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1656935](https://www.smashwords.com/books/view/1656935)
+* 📕 Kobo: [https://www.kobo.com/ebook/navidades-siniestras](https://www.kobo.com/ebook/navidades-siniestras)
 * 📙 AppleBooks: [https://books.apple.com/book/id6738879464](https://books.apple.com/book/id6738879464)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w//1146618800](https://www.barnesandnoble.com/w//1146618800)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w//1146618800](https://www.barnesandnoble.com/w//1146618800)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/38q00w](https://books2read.com/u/38q00w)
-* 💸 Amazon México ($0.00 MXN): [https://www.amazon.com.mx/dp/B0DPD9MB8V](https://www.amazon.com.mx/dp/B0DPD9MB8V)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p](https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p)
@@ -378,11 +387,13 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/799076400/Navidades-siniestras](https://es.everand.com/book/799076400/Navidades-siniestras)
 
-**Descarga con costo mínimo (Kindle)**
-* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DPD9MB8V](https://www.amazon.com/dp/B0DPD9MB8V)
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DPD9MB8V](https://www.amazon.es/dp/B0DPD9MB8V)
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DPD9MB8V](https://www.amazon.com.mx/dp/B0DPD9MB8V)
+* 🇺🇸 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DPD9MB8V](https://www.amazon.com/dp/B0DPD9MB8V)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0DPD9MB8V](https://www.amazon.es/dp/B0DPD9MB8V)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 
 ### ***El amor dura lo que dura dura***  
@@ -407,13 +418,11 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1705983](https://www.smashwords.com/books/view/1705983)
-* 📘 Kobo: [https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura](https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1705983](https://www.smashwords.com/books/view/1705983)
+* 📕 Kobo: [https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura](https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura)
 * 📙 AppleBooks: [https://books.apple.com/book/id6741764036](https://books.apple.com/book/id6741764036)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1146968929](https://www.barnesandnoble.com/w/1146968929)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1146968929](https://www.barnesandnoble.com/w/1146968929)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3RkPOG](https://books2read.com/u/3RkPOG)
-* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0DWKQQY3T](https://www.amazon.com.mx/dp/B0DWKQQY3T)
-* 💵 Amazon US: [https://www.amazon.com/dp/B0DWKQQY3T](https://www.amazon.com/dp/B0DWKQQY3T)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: 
@@ -423,10 +432,13 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos](https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos)
 
-**Descarga con costo mínimo (Kindle)**
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0DWKQQY3T](https://www.amazon.es/dp/B0DWKQQY3T)
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DWKQQY3T](https://www.amazon.com.mx/dp/B0DWKQQY3T)
+* 🇺🇸 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DWKQQY3T](https://www.amazon.com/dp/B0DWKQQY3T)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0DWKQQY3T](https://www.amazon.es/dp/B0DWKQQY3T)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 
 ### ***La sombra de la Luna***  
@@ -458,17 +470,13 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1720639](https://www.smashwords.com/books/view/1720639)
-* 📘 Kobo: [https://www.kobo.com/mx/es/ebook/la-sombra-de-la-luna-2](https://www.kobo.com/mx/es/ebook/la-sombra-de-la-luna-2)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1720639](https://www.smashwords.com/books/view/1720639)
+* 📕 Kobo: [https://www.kobo.com/mx/es/ebook/la-sombra-de-la-luna-2](https://www.kobo.com/mx/es/ebook/la-sombra-de-la-luna-2)
 * 📙 AppleBooks: [https://books.apple.com/book/id6742753995](https://books.apple.com/book/id6742753995)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1147080098](https://www.barnesandnoble.com/w/1147080098)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1147080098](https://www.barnesandnoble.com/w/1147080098)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/310pB7](https://books2read.com/u/310pB7)
-* 💸 Amazon México: [https://www.amazon.com.mx/dp/B0DZ3SRZ24](https://www.amazon.com.mx/dp/B0DZ3SRZ24)
-* 💵 Amazon US: [https://www.amazon.com/dp/B0DZ3SRZ24](https://www.amazon.com/dp/B0DZ3SRZ24)
-* 💶 Amazon España: [https://www.amazon.es/dp/B0DZ3SRZ24](https://www.amazon.es/dp/B0DZ3SRZ24)
 
-**DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
-
+**DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**  
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p](https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798230179306_9798230179306_10020/la-sombra-de-la-luna-antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://vivlio.casadellibro.com/product/9798230179306_9798230179306_10020/la-sombra-de-la-luna-antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
@@ -476,15 +484,17 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
 
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DZ3SRZ24](https://www.amazon.com.mx/dp/B0DZ3SRZ24)
+* 🇺🇸 Amazon US (GRATIS): [https://www.amazon.com/dp/B0DZ3SRZ24](https://www.amazon.com/dp/B0DZ3SRZ24)
+* 🇪🇸 Amazon España (0,89 €): [https://www.amazon.es/dp/B0DZ3SRZ24](https://www.amazon.es/dp/B0DZ3SRZ24)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
 
 
-
 ### ***Espejismos cibernéricos***  
 ![450x600 SciFi 2025 01Bloq](https://github.com/user-attachments/assets/55937854-0c82-4a5d-91b4-94f4f31017c1)
-
 
 Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los cuentos elegidos en nuestra *Convocatoria antología de ciencia ficción* del bimestre febrero-marzo 2025. Se llama **Espejismos cibernéticos**, y la ilustración de la portada está basada en un cuadro de *Edouard Manet* llamado ["**Olympia**"](https://www.musee-orsay.fr/en/artworks/olympia-712). La antología contiene nueve cuentos escritos por ocho excelentes autores:
 - **El Mariscal**, por Jesús Durán y Libertad García-Villada.
@@ -512,16 +522,11 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1770036](https://www.smashwords.com/books/view/1770036)
-* 📘 Kobo: [https://www.kobo.com/ebook/espejismos-ciberneticos](https://www.kobo.com/ebook/espejismos-ciberneticos)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1770036](https://www.smashwords.com/books/view/1770036)
+* 📕 Kobo: [https://www.kobo.com/ebook/espejismos-ciberneticos](https://www.kobo.com/ebook/espejismos-ciberneticos)
 * 📙 AppleBooks: [https://books.apple.com/book/id6745910152](https://books.apple.com/book/id6745910152)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1147431188](https://www.barnesandnoble.com/w/1147431188)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1147431188](https://www.barnesandnoble.com/w/1147431188)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/bozYdV](https://books2read.com/u/bozYdV)
-
-**Descarga en Amazon**
-* 💸 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
-* 💵 Amazon US (GRATIS): [https://www.amazon.com/dp/B0F8TNCDX5](https://www.amazon.com/dp/B0F8TNCDX5)
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0F8TNCDX5](https://www.amazon.es/dp/B0F8TNCDX5)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/espejismos-ciberneticos-1230009027060/p](https://www.gandhi.com.mx/espejismos-ciberneticos-1230009027060/p)
@@ -531,6 +536,10 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 **Lectura por suscripción**
 * 💲 Everand / Scribd: [https://es.everand.com/book/861843166/Espejismos-ciberneticos-Antologia-de-relatos-de-ciencia-ficcion](https://es.everand.com/book/861843166/Espejismos-ciberneticos-Antologia-de-relatos-de-ciencia-ficcion)
 
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
+* 🇺🇸 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0F8TNCDX5](https://www.amazon.com/dp/B0F8TNCDX5)
+* 🇪🇸 Amazon España (GRATIS): [https://www.amazon.es/dp/B0F8TNCDX5](https://www.amazon.es/dp/B0F8TNCDX5)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
@@ -538,7 +547,6 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 
 ### ***Existencia de sombras***
 ![450x600 Port Fantasmas 2025 2aut](https://github.com/user-attachments/assets/7430daa5-23a5-45ff-9cca-4ec32c62dd23)
-
 
 Nuestra undécima antología es de **cuentos de fantasmas** y es una colección de relatos escritos por algunos de nuestros mejores autores. Se titula **Existencia de sombras** y es nuestra segunda antología que no es gratuita. Contiene **diez cuentos**:
 - **Jaakuna**, por Iván Aragón Muñiz.
@@ -570,25 +578,25 @@ Nuestra undécima antología es de **cuentos de fantasmas** y es una colección 
 
 **DESCARGA CON COSTO MÍNIMO**
 
-* 📗 Smashwords (ePub, $2.99 USD): [https://www.smashwords.com/books/view/1879417](https://www.smashwords.com/books/view/1879417)
-* 📘 Kobo ($60.00 MXN, $2.99 USD, 2,82 €): [https://www.kobo.com/ebook/existencia-de-sombras](https://www.kobo.com/ebook/existencia-de-sombras)
-* 📙 AppleBooks ($3.99 USD): [https://books.apple.com/book/id6754006229](https://books.apple.com/book/id6754006229)
-* 📒 Barnes&Noble ($2.99 USD): [https://www.barnesandnoble.com/w/1148535700](https://www.barnesandnoble.com/w/1148535700)
+* 📘 Smashwords (ePub) ($2.99 USD): [https://www.smashwords.com/books/view/1879417](https://www.smashwords.com/books/view/1879417)
+* 📕 Kobo ($60.00 MXN, $2.99 USD, 2,82 €): [https://www.kobo.com/ebook/existencia-de-sombras](https://www.kobo.com/ebook/existencia-de-sombras)
+* 📙 AppleBooks ($2.99 USD): [https://books.apple.com/book/id6754006229](https://books.apple.com/book/id6754006229)
+* 📗 Barnes&Noble ($2.99 USD): [https://www.barnesandnoble.com/w/1148535700](https://www.barnesandnoble.com/w/1148535700)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/4EXKnY](https://books2read.com/u/4EXKnY)
-
-**Descarga en Amazon**
-
-- 🪙 Amazon México ($60.00 MXN): [https://www.amazon.com.mx/dp/B0FW93K4V6](https://www.amazon.com.mx/dp/B0FW93K4V6)
-- 💵 Amazon US ($2.99 USD): [https://www.amazon.com/dp/B0FW93K4V6](https://www.amazon.com/dp/B0FW93K4V6)
-- 💶 Amazon España (2,82 €): [https://www.amazon.es/dp/B0FW93K4V6](https://www.amazon.es/dp/B0FW93K4V6)
 
 **DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi ($60.00 MXN): [https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p](https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p)
 * 🏬 fnac.es (2,82 €): [https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub](https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub)
 * 🏙 Casa del Libro (2,82 €): [https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas](https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas)
 
+**Descarga en Amazon (Kindle)**  
+- 🇲🇽 Amazon México ($60.00 MXN): [https://www.amazon.com.mx/dp/B0FW93K4V6](https://www.amazon.com.mx/dp/B0FW93K4V6)
+- 🇺🇸 Amazon US ($2.99 USD): [https://www.amazon.com/dp/B0FW93K4V6](https://www.amazon.com/dp/B0FW93K4V6)
+- 🇪🇸 Amazon España (2,82 €): [https://www.amazon.es/dp/B0FW93K4V6](https://www.amazon.es/dp/B0FW93K4V6)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
+
 
 ### ***El frío del abismo***  
 ![450x600 Port TerrorCosmInv 2025](https://github.com/user-attachments/assets/f819ea61-9465-4aa9-89ea-991095b5a382)
@@ -602,7 +610,6 @@ Nuestra duodécima antología es de relatos de **terror cósmico**, también con
     * Para resistir el calor del Caribe mexicano, Ronny opta por mantener el aire acondicionado en funcionamiento de día y noche, lo cual podría desencadenar una pesadilla.
 - **Nuestra madre que todo lo ve**, por Sofía Serra.
     * En el primer cuarto del siglo veinte, una egiptóloga hará hasta lo imposible por hacer un descubrimiento que la lleve a la fama y a encontrarse con tesoros grandiosos y dioses olvidados.
-
  
 #### Enlaces de descarga:
 
@@ -610,21 +617,21 @@ Nuestra duodécima antología es de relatos de **terror cósmico**, también con
 
 **DESCARGA GRATIS**
 
-* 📗 Smashwords (ePub): [https://www.smashwords.com/books/view/1917491](https://www.smashwords.com/books/view/1917491)
-* 📘 Kobo: [https://www.kobo.com/ebook/el-frio-del-abismo](https://www.kobo.com/ebook/el-frio-del-abismo)
+* 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1917491](https://www.smashwords.com/books/view/1917491)
+* 📕 Kobo: [https://www.kobo.com/ebook/el-frio-del-abismo](https://www.kobo.com/ebook/el-frio-del-abismo)
 * 📙 AppleBooks: [https://books.apple.com/book/id6756180826](https://books.apple.com/book/id6756180826)
-* 📒 Barnes&Noble: [https://www.barnesandnoble.com/w/1148886211](https://www.barnesandnoble.com/w/1148886211)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1148886211](https://www.barnesandnoble.com/w/1148886211)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3yGLxB](https://books2read.com/u/3yGLxB)
-
-**Descarga en Amazon**
-* 💸 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0G58V113Z](https://www.amazon.com.mx/dp/B0G58V113Z)
-* 💵 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0G58V113Z](https://www.amazon.com/dp/B0G58V113Z)
-* 💶 Amazon España (0,89 Euros): [https://www.amazon.es/dp/B0G58V113Z](https://www.amazon.es/dp/B0G58V113Z)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/el-frio-del-abismo-1230009554993/p](https://www.gandhi.com.mx/el-frio-del-abismo-1230009554993/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a12671982/El-frio-del-abismo#FORMAT=ePub](https://www.fnac.es/livre-numerique/a12671982/El-frio-del-abismo#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798232212797_9798232212797_10020/el-frio-del-abismo-antologia-de-cuentos-de-terror-cosmico](https://vivlio.casadellibro.com/product/9798232212797_9798232212797_10020/el-frio-del-abismo-antologia-de-cuentos-de-terror-cosmico)
+
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0G58V113Z](https://www.amazon.com.mx/dp/B0G58V113Z)
+* 🇺🇸 Amazon US (GRATIS): [https://www.amazon.com/dp/B0G58V113Z](https://www.amazon.com/dp/B0G58V113Z)
+* 🇪🇸 Amazon España (GRATIS): [https://www.amazon.es/dp/B0G58V113Z](https://www.amazon.es/dp/B0G58V113Z)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
@@ -661,20 +668,24 @@ Esta fue nuestra primera antología antes de comenzar los concursos, y le tenemo
 
 **DESCARGA CON COSTO MÍNIMO**
 
-* 📗 Smashwords ($2.99 USD): [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
-* 📘 Kobo ($60.00 MXN, $3.99 USD, 2,82 €): [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
+* 📘 Smashwords (ePub) ($2.99 USD): [https://www.smashwords.com/books/1549563](https://www.smashwords.com/books/1549563)
+* 📕 Kobo ($60.00 MXN, $3.99 USD, 2,82 €): [https://www.kobo.com/ebook/hasta-la-ultima-gota](https://www.kobo.com/ebook/hasta-la-ultima-gota)
 * 📙 AppleBooks ($2.99 USD): [https://books.apple.com/book/id6484316887](https://books.apple.com/book/id6484316887)
-* 📒 Barnes&Noble ($2.99 USD): [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
+* 📗 Barnes&Noble ($2.99 USD): [https://www.barnesandnoble.com/w/1145370210](https://www.barnesandnoble.com/w/1145370210)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/b/38OBKa](https://books2read.com/b/38OBKa)
-* 🪙 Amazon México ($60.00 MXN): [https://www.amazon.com.mx/dp/B0CLZN58FY](https://www.amazon.com.mx/dp/B0CLZN58FY)
-* 💵 Amazon US ($2.99 USD): [https://www.amazon.com/dp/B0CLZN58FY](https://www.amazon.com/dp/B0CLZN58FY)
-* 💶 Amazon España (2,82 €): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
+
+**DESCARGA DE LIBRERÍAS FÍSICAS EN LÍNEA**  
 * 🏢 Librerías Gandhi en línea ($60.00 MXN): [https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p](https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p)
 * 🏬 fnac.es (2,82 €): [https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub)
 * 🏙 Casa del Libro (2,82 €): [https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota](https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota)
 
+**Descarga en Amazon (Kindle)**  
+* 🇲🇽 Amazon México ($60.00 MXN): [https://www.amazon.com.mx/dp/B0CLZN58FY](https://www.amazon.com.mx/dp/B0CLZN58FY)
+* 🇺🇸 Amazon US ($2.99 USD): [https://www.amazon.com/dp/B0CLZN58FY](https://www.amazon.com/dp/B0CLZN58FY)
+* 🇪🇸 Amazon España (2,82 €): [https://www.amazon.es/dp/B0CLZN58FY](https://www.amazon.es/dp/B0CLZN58FY)
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
+
 
 
 ## Sobre nuestras redes sociales:
