@@ -296,7 +296,8 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 
 
 ### ***Promesas de sangre***
-![450x600 PortKobo PromesasdeSangre](https://github.com/user-attachments/assets/2dbf0e0f-009e-43cf-8708-b36f345d59db)  
+![450x600 P Promesas de sangre 2026 colmillos](https://github.com/user-attachments/assets/8252147e-e5b6-4dc4-b8b5-145c58f30945)
+
 Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria Antología de relato de vampiros* de bimestre junio-julio 2024. Se llama **Promesas de sangre** y contiene ocho cuentos escritos por ocho aterradores autores:
 * **En el Bosque de la Media Noche**, por Carla Rosales.
     * Un hombre se despoja de todo lo que le pertenece para adentrarse en el bosque y cambiar de rumbo. Pero lo que parece ser una huida simple se complica al internarse en los dominios de la obscuridad.
@@ -331,9 +332,6 @@ Nuestra sexta antología contiene los cuentos elegidos en nuestra *Convocatoria 
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p](https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11400259/Promesas-de-sangre#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11400259/Promesas-de-sangre#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798227823496_9798227823496_10020/promesas-de-sangre](https://vivlio.casadellibro.com/product/9798227823496_9798227823496_10020/promesas-de-sangre)
-
-**Lectura por suscripción**
-* 💲 Everand / Scribd: [https://es.everand.com/book/783638750/Promesas-de-sangre](https://es.everand.com/book/783638750/Promesas-de-sangre)
 
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DKRF9Q9T](https://www.amazon.com.mx/dp/B0DKRF9Q9T)
