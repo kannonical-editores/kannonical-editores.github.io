@@ -80,7 +80,7 @@ Relanzamiento de nuestra primera antología, que ahora contiene ¡**13 cuentos d
 * 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1557692](https://www.smashwords.com/books/view/1557692)
 * 📕 Kobo: [https://www.kobo.com/ebook/memorias-de-la-obscuridad](https://www.kobo.com/ebook/memorias-de-la-obscuridad)
 * 📙 AppleBooks: [https://books.apple.com/book/id6499493975](https://books.apple.com/book/id6499493975)
-* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1145544015](https://www.barnesandnoble.com/w/1145544015)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1147102861](https://www.barnesandnoble.com/w/1147102861)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/m0J1El](https://books2read.com/u/m0J1El)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
