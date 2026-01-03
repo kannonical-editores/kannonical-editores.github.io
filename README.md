@@ -126,17 +126,12 @@ Nuestra segunda antología contiene cuentos eróticos (para la que por razones o
 * 📘 Smashwords (ePub): [https://www.smashwords.com/books/1590843](https://www.smashwords.com/books/1590843)
 * 📕 Kobo: [https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles](https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles)
 * 📙 AppleBooks: [https://books.apple.com/book/id6547840648](https://books.apple.com/book/id6547840648)
-* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1146011678](https://www.barnesandnoble.com/w/1146011678)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/mvz1dl](https://books2read.com/u/mvz1dl)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 
 * 🏬 fnac.es: [https://www.fnac.es/SearchResult/ResultList.aspx?Search=cu%C3%A9ntamelo+con+lujuria+de+detalles&sft=1&sa=0](https://www.fnac.es/SearchResult/ResultList.aspx?Search=cu%C3%A9ntamelo+con+lujuria+de+detalles&sft=1&sa=0)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798227164315_9798227164315_10020/cuentamelo-con-lujuria-de-detalles-antolo-orgia-de-relatos-eroticos](https://vivlio.casadellibro.com/product/9798227164315_9798227164315_10020/cuentamelo-con-lujuria-de-detalles-antolo-orgia-de-relatos-eroticos)
-
-**Lectura por suscripción**
-
-* 💲 Everand / Scribd: [https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles](https://es.everand.com/book/750834221/Cuentamelo-con-lujuria-de-detalles)
 
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0CVF2XBSV](https://www.amazon.com.mx/dp/B0CVF2XBSV)
@@ -177,16 +172,13 @@ Nuestra tercera antología contiene los cuentos ganadores de nuestro *Concurso d
 * 📘 Smashwords (ePub): [https://www.smashwords.com/books/view/1552200](https://www.smashwords.com/books/view/1552200)
 * 📕 Kobo: [https://www.kobo.com/ebook/todas-hieren-la-ultima-mata](https://www.kobo.com/ebook/todas-hieren-la-ultima-mata)
 * 📙 AppleBooks: [https://books.apple.com/mx/book/todas-hieren-la-%C3%BAltima-mata/id6497715475](https://books.apple.com/mx/book/todas-hieren-la-%C3%BAltima-mata/id6497715475)
-* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1145419051](https://www.barnesandnoble.com/w/1145419051)
+* 📗 Barnes&Noble: [https://www.barnesandnoble.com/w/1147142443](https://www.barnesandnoble.com/w/1147142443)
 * 📚 Enlace agregador de Books2Read: [https://books2read.com/u/3kOLAN](https://books2read.com/u/3kOLAN)
 
 **DESCARGA GRATIS DE LIBRERÍAS FÍSICAS EN LÍNEA**
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p](https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a10994892/Todas-hieren-la-ultima-mata#FORMAT=ePub](https://www.fnac.es/livre-numerique/a10994892/Todas-hieren-la-ultima-mata#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798224620494_9798224620494_10020/todas-hieren-la-ultima-mata-antologia-de-cuentos-de-terror](https://vivlio.casadellibro.com/product/9798224620494_9798224620494_10020/todas-hieren-la-ultima-mata-antologia-de-cuentos-de-terror)
-
-**Lectura por suscripción**
-* 💲 Everand / Scribd: [https://es.everand.com/book/723487724/Todas-hieren-la-ultima-mata](https://es.everand.com/book/723487724/Todas-hieren-la-ultima-mata)
 
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0D1V1HZH6](https://www.amazon.com.mx/dp/B0D1V1HZH6)
@@ -236,9 +228,6 @@ Nuestra cuarta antología contiene los cuentos seleccionados en nuestra *Convoca
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11173436/Premoniciones-sinteticas#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11173436/Premoniciones-sinteticas#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798227650801_9798227650801_10020/premoniciones-sinteticas-antologia-de-relatos-de-ciencia-ficcion](https://vivlio.casadellibro.com/product/9798227650801_9798227650801_10020/premoniciones-sinteticas-antologia-de-relatos-de-ciencia-ficcion)
 
-**Lectura por suscripción**
-* 💲 Everand / Scribd: [https://es.everand.com/book/748035905/Premoniciones-sinteticas](https://es.everand.com/book/748035905/Premoniciones-sinteticas)
-
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0D8VGGBY7](https://www.amazon.com.mx/dp/B0D8VGGBY7)
 * 🇺🇸 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0D8VGGBY7](https://www.amazon.com/dp/B0D8VGGBY7)
@@ -282,9 +271,6 @@ Nuestra quinta antología contiene los cuentos elegidos en nuestra *Convocatoria
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p](https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11292328/Bordado-en-el-viento#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11292328/Bordado-en-el-viento#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798227201324_9798227201324_10020/bordado-en-el-viento](https://vivlio.casadellibro.com/product/9798227201324_9798227201324_10020/bordado-en-el-viento)
-
-**Lectura por suscripción**
-* 💲 Everand / Scribd: [https://es.everand.com/book/765198023/Bordado-en-el-viento](https://es.everand.com/book/765198023/Bordado-en-el-viento)
 
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DFXFV4MR](https://www.amazon.com.mx/dp/B0DFXFV4MR)
@@ -380,9 +366,6 @@ Nuestra séptima antología contiene los cuentos elegidos en nuestra *Convocator
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11486864/Navidades-siniestras#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11486864/Navidades-siniestras#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798230909712_9798230909712_10020/navidades-siniestras](https://vivlio.casadellibro.com/product/9798230909712_9798230909712_10020/navidades-siniestras)
 
-**Lectura por suscripción**
-* 💲 Everand / Scribd: [https://es.everand.com/book/799076400/Navidades-siniestras](https://es.everand.com/book/799076400/Navidades-siniestras)
-
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DPD9MB8V](https://www.amazon.com.mx/dp/B0DPD9MB8V)
 * 🇺🇸 Amazon US ($0.99 USD): [https://www.amazon.com/dp/B0DPD9MB8V](https://www.amazon.com/dp/B0DPD9MB8V)
@@ -424,9 +407,6 @@ Nuestra octava antología es de relatos eróticos, y sólo se participa por invi
 * 🏢 Librerías Gandhi: 
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11695399/El-amor-dura-lo-que-dura-dura#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11695399/El-amor-dura-lo-que-dura-dura#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798230811732_9798230811732_10020/el-amor-dura-lo-que-dura-dura-antolo-orgia-de-cuentos-eroticos](https://vivlio.casadellibro.com/product/9798230811732_9798230811732_10020/el-amor-dura-lo-que-dura-dura-antolo-orgia-de-cuentos-eroticos)
-
-**Lectura por suscripción**
-* 💲 Everand / Scribd: [https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos](https://es.everand.com/book/826261944/El-amor-dura-lo-que-dura-dura-Antolo-orgia-de-cuentos-eroticos)
 
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DWKQQY3T](https://www.amazon.com.mx/dp/B0DWKQQY3T)
@@ -477,9 +457,6 @@ Nuestra novena antología es de cuentos de terror, ciencia ficción y fantasía 
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798230179306_9798230179306_10020/la-sombra-de-la-luna-antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://vivlio.casadellibro.com/product/9798230179306_9798230179306_10020/la-sombra-de-la-luna-antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
 
-**Lectura por suscripción**
-* 💲 Everand / Scribd: [https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina](https://es.everand.com/book/834971501/La-sombra-de-la-Luna-Antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina)
-
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0DZ3SRZ24](https://www.amazon.com.mx/dp/B0DZ3SRZ24)
 * 🇺🇸 Amazon US (GRATIS): [https://www.amazon.com/dp/B0DZ3SRZ24](https://www.amazon.com/dp/B0DZ3SRZ24)
@@ -528,9 +505,6 @@ Nuestra décima antología es de relatos de **ciencia ficción**. Contiene los c
 * 🏢 Librerías Gandhi: [https://www.gandhi.com.mx/espejismos-ciberneticos-1230009027060/p](https://www.gandhi.com.mx/espejismos-ciberneticos-1230009027060/p)
 * 🏬 fnac.es: [https://www.fnac.es/livre-numerique/a11997001/Espejismos-ciberneticos#FORMAT=ePub](https://www.fnac.es/livre-numerique/a11997001/Espejismos-ciberneticos#FORMAT=ePub)
 * 🏙 Casa del Libro: [https://vivlio.casadellibro.com/product/9798231701629_9798231701629_10020/espejismos-ciberneticos-antologia-de-relatos-de-ciencia-ficcion](https://vivlio.casadellibro.com/product/9798231701629_9798231701629_10020/espejismos-ciberneticos-antologia-de-relatos-de-ciencia-ficcion)
-
-**Lectura por suscripción**
-* 💲 Everand / Scribd: [https://es.everand.com/book/861843166/Espejismos-ciberneticos-Antologia-de-relatos-de-ciencia-ficcion](https://es.everand.com/book/861843166/Espejismos-ciberneticos-Antologia-de-relatos-de-ciencia-ficcion)
 
 **Descarga en Amazon (Kindle)**  
 * 🇲🇽 Amazon México (GRATIS): [https://www.amazon.com.mx/dp/B0F8TNCDX5](https://www.amazon.com.mx/dp/B0F8TNCDX5)
