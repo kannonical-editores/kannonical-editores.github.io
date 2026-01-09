@@ -1,5 +1,5 @@
 ###### Menú:
-| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-nuestras-convocatorias-de-cuento-corto-para-las-antolog%C3%ADas-gratuitas) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Existencia de sombras*](https://kannonical-editores.github.io/#existencia-de-sombras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) - [*El frío del abismo*](https://kannonical-editores.github.io/#el-fr%C3%ADo-del-abismo) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-11) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-12) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
+| [**Kannonical**](https://kannonical-editores.github.io/#sobre-kannonical) | [**Convocatoria de cuento**](https://kannonical-editores.github.io/#sobre-la-convocatoria-del-bimestre-de-enero-febrero-de-relato-de-fantas%C3%ADa-obscura) - [*BASES*](https://kannonical-editores.github.io/#bases) | [**Antologías:**](https://kannonical-editores.github.io/#sobre-nuestras-antolog%C3%ADas-publicadas) - [*Memorias de la obscuridad*](https://kannonical-editores.github.io/#memorias-de-la-obscuridad) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga) - [*Cuéntamelo con lujuria de detalles*](https://kannonical-editores.github.io/#cu%C3%A9ntamelo-con-lujuria-de-detalles) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-1) - [*Todas hieren, la última mata*](https://kannonical-editores.github.io/#todas-hieren-la-%C3%BAltima-mata) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-2) - [*Premoniciones sintéticas*](https://kannonical-editores.github.io/#premoniciones-sint%C3%A9ticas) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-3) - [*Bordado en el viento*](https://kannonical-editores.github.io/#bordado-en-el-viento) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-4) - [*Promesas de sangre*](https://kannonical-editores.github.io/#promesas-de-sangre) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-5) - [*Navidades siniestras*](https://kannonical-editores.github.io/#navidades-siniestras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-6) - [*El amor dura lo que dura dura*](https://kannonical-editores.github.io/#el-amor-dura-lo-que-dura-dura) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-7) - [*La sombra de la Luna*](https://kannonical-editores.github.io/#la-sombra-de-la-luna) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-8) - [*Espejismos cibernéticos*](https://kannonical-editores.github.io/#espejismos-cibern%C3%A9ricos) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-9) - [*Existencia de sombras*](https://kannonical-editores.github.io/#existencia-de-sombras) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-10) - [*El frío del abismo*](https://kannonical-editores.github.io/#el-fr%C3%ADo-del-abismo) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-11) - [*Hasta la última gota*](https://kannonical-editores.github.io/#hasta-la-%C3%BAltima-gota) [(Enlaces para descargar)](https://kannonical-editores.github.io/#enlaces-de-descarga-12) | [**Redes sociales**](https://kannonical-editores.github.io/#sobre-nuestras-redes-sociales) | [**Nosotros**](https://kannonical-editores.github.io/#si-quieres-saber-m%C3%A1s-sobre-por-qu%C3%A9-hacemos-esto) |
 
 ![Banner Facebook V Kannonical AnioNuevo 2026 1064x395](https://github.com/user-attachments/assets/b60c0237-8fbd-421c-b9bc-54e4d7a8fc34)
 
@@ -23,17 +23,52 @@ Somos un colectivo literario/editorial dedicado a publicar *antologías digitale
 * además de mantener nuestras redes sociales vivas
 
 Nuestro correo electrónico es: **<kannonical_contacto@proton.me>**
-  
 
-## Sobre nuestras convocatorias de cuento corto para las antologías gratuitas:
 
-Aproximadamente cada cuatro meses lanzamos convocatorias con temáticas afines a los géneros que manejamos: terror, fantasía y ciencia ficción. Los relatos seleccionados se incluyen en una antología digital gratuita que se publica en las principales librerías en línea.
-El próximo año abriremos nuestra siguiente convocatoria.
+![1000x1000 Convocat 2026 Fantasia Obsc ene-feb](https://github.com/user-attachments/assets/fdacb3a3-57b5-470d-ad20-556824758b36)
+
+## Sobre la convocatoria del bimestre de **enero-febrero** de relato de **FANTASÍA OBSCURA**:
+ 
+Este bimestre (enero-febrero) la convocatoria es para cuentos cortos de **FANTASÍA OBSCURA** en cualquiera de sus dos vertientes: relatos de fantasía con temas cercanos al terror, y/o escritos de fantasía donde los protagonistas tienen una moralidad ambigua, es decir, no son paladines de la virtud pero tampoco son el villano del relato.  
+
+***Kannonical Editores*** **no cobra ni pide dinero para publicar los relatos elegidos.** 
 
 ### BASES  
-Las bases se actualizan con cada convocatoria y aquí se colocan durante la duración de la misma.
+1. El relato debe tener una extensión mínima de 1000 palabras y una máxima de 8000 palabras.
+2. El relato debe ser **prosa narrativa** con la estructura de “**inicio - nudo - desenlace**”.
+3. El relato deberá ser un cuento **original**, **inédito** y ser de “**FANTASÍA OBSCURA**” (con temas cercanos al terror o con protagonistas de moralidad ambigua). 
+4. Formato del texto y el correo electrónico:
+    - La primera línea del texto debe comenzar con: “**[Título del cuento], por [Nombre o pseudónimo del autor]**”. 
+        - Ejemplo: **Spiderlight, por Adrian Tchaikovsky**
+    - **El nombre del archivo de texto del relato debe tener el siguiente formato:** ***“[Título del relato] - [Nombre del autor]”*** y ser un archivo tipo “**.docx**” o “**.odt**”. 
+        - Ejemplo: **Spiderlight - Adrian Tchaikovsky.docx**
+    - El **asunto** del correo electrónico en el que envíes tu relato debe tener el siguiente formato: “*Fantasía obscura - [Título del relato], [Nombre del autor]*”. 
+        - Ejemplo: **Fantasía obscura - Spiderlight, Adrian Tchaikovsky**	
+5. El relato debe cumplir con los mínimos indispensables de ortografía y redacción, es decir, pásale el corrector ortográfico del procesador de texto donde lo escribas y ten cuidado dónde pones los puntos y las comas.
+6. Envía el archivo de tu relato a **kannonical_contacto@proton.me**   
+7. Junto con tu relato, en el correo electrónico que nos envíes debes incluir una plica, en **un documento aparte**, con los siguientes datos:
+    - ¿Cómo te enteraste de la convocatoria?
+    - Nombre completo del autor
+    - Título del relato
+    - Pseudónimo para publicación (si usas uno)
+    - Nacionalidad
+    - Redes sociales
+    - Dirección de correo electrónico (e-mail)
+    - Número de teléfono ó celular (opcional).
+    - Breve semblanza del autor (no más de 100 palabras).
+8. **No se aceptarán:**  
+    - **Relatos escritos con ayuda de una Inteligencia Artificial**. Esto incluye desde usar una IA para revisar ortografía y gramática, hasta obtener texto e historia de alguno de estos servicios; incluyendo meterle la historia como parte del prompt y que la IA le haga cambios.
+    - **Cuentos infantiles**.
+    - **Obras en otros idiomas distintos del español**. La convocatoria está abierta a cualquier nacionalidad mientras el relato esté escrito en un correcto español.
+9. **Para poder participar debes ser mayor de edad** (18 años cumplidos).
+10. Puedes enviar tu relato a partir del **8 de ENERO del 2026** y hasta las **23:59** hrs. del **15 de FEBRERO del 2026** (hora de la Ciudad de México, UTC-6).
+11. Los relatos elegidos se incluirán en nuestra antología de *fantasía obscura*, a publicarse en **marzo del 2026** (libro digital de formato *ePub* de descarga gratuita). 
+12. Los autores de los relatos seleccionados **deberán estar dispuestos a hacer las correcciones en el texto que los organizadores les indiquen**.
+13. **Enviar un relato a la convocatoria implica que estás de acuerdo con las bases y que nos otorgas tu permiso para publicar tu escrito**, pues sigues conservando todos los derechos sobre tu cuento.
 
-Si te intera conocer más detalles con respecto a nuestras convocatorias, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
+***Kannonical Editores*** **no cobra ni pide dinero para publicar los relatos elegidos.** 
+
+Si tienes cualquier duda o necesitas una aclaración con respecto a la convocatoria, por favor escríbenos a **<kannonical_contacto@proton.me>**, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.
 
 [Volver al menú](https://kannonical-editores.github.io/#menú)
 
