@@ -202,7 +202,7 @@ h3 {
 
 /* Color de las flechitas para mover a la izq o a la der */
 .carousel-control.right, .carousel-control.left {
-   color: #cc0018 !important;
+   color: #E8E8E8 !important/*#cc0018 !important;*/
   }
   
 /* Color de la orilla de la bolita del "indicator" */
