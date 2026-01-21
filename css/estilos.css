@@ -202,12 +202,12 @@ h3 {
 
 /* Color de las flechitas para mover a la izq o a la der */
 .carousel-control.right, .carousel-control.left {
-   color: #E8E8E8 !important/*#cc0018 !important;*/
+   color: #cc0018 !important;
   }
   
 /* Color de la orilla de la bolita del "indicator" */
 .carousel-indicators li {
-    border-color: #cc0018 !important;
+    border-color: #E8E8E8 !important;/*border-color: #cc0018 !important; bordes rojos*/
   }
   
 /* Color de la bolita del "indicator" */
@@ -508,7 +508,7 @@ footer a:hover, footer a:focus {
 .contcorreo {
     margin-top: -0.4em;
     margin-bottom: 1em;
-    font-size: 1.25em;
+    font-size: 1.1em;
 }
 
 .contcorreo a {
