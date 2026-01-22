@@ -1,0 +1,1982 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <title>Kannonical Editores</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="author" content="Kannonical Editores">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+  	<link href="css/estilos.css" rel="stylesheet" type="text/css" />
+	
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Carattere&family=Charm:wght@400;700&family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Fredericka+the+Great&family=TikTok+Sans:opsz,wght@12..36,300..900&display=swap" rel="stylesheet">
+  
+</head>
+
+<body class="bg-gris" id="inicio" data-spy="scroll" data-target=".navbar" data-offset="50">
+
+  <!-- BARRA DE NAVEGACIÓN -->
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <!-- Contenedor de la barra -->
+    <div class="container-fluid">
+      <!-- "Header" de la barra. Esta es la sección donde se coloca el logo de la "empresa" -->
+      <div class="navbar-header">
+        <!-- Contenido del header: botones con spans y la imagen del logo-->
+        
+        <!-- contenido Logo y botón de menú en pantallas chicas El botón sólo aparece en pantalla chica, y contiene 3 barras horizontales -->
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button> 
+        
+        <!--<a class="navbar-brand" href="#">Logo</a>-->
+        
+        <a class="navbar-brand" href="#inicio"><img src="img/icon/37x40KanJadeFi.png"></a>
+        <!-- termina botón menú logo -->
+        
+        <!-- Termina contenido del header-->
+      </div>
+      <!--Termina div header de la barra -->
+      
+      <!-- Contenedor para ligas del navegador -->
+      <div class="collapse navbar-collapse" id="myNavbar">
+        <!-- Lista literal de ligas del navegador -->
+        <ul class="nav navbar-nav navbar-right">
+          <!-- Comienzan los renglones de la lista -->
+          
+          <li><a href="#inicio">INICIO</a></li>
+          <li><a href="#nosotros">NOSOTROS</a></li>
+          <li><a href="#convocatorias">CONVOCATORIAS</a></li>
+          <li><a href="#libros">LIBROS</a></li>
+          <li><a href="#autores">AUTORES</a></li>
+          <li><a href="#contacto">CONTACTO</a></li>
+          
+          <!-- La parte desplegable de las ligas -->
+          <!-- Lo que está en el dropdown-toggle no funciona como liga, ni se le puede poner un id -->
+          <!--
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">LIBROS
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#gcifi">Ciencia ficción</a></li>
+              <li><a href="#gfanta">Fantasía</a></li>
+              <li><a href="#gterror">Terror</a></li> 
+            </ul>
+          </li>
+          -->
+          <!-- Termina parte desplegable de las ligas -->
+          
+          <!-- Liga al buscador... que no tenemos, así que se quita -->
+          <!--<li><a href="#"><span class="glyphicon glyphicon-search"></span></a></li>-->
+          
+          <!-- Terminan los renglones de ligas -->
+        </ul>
+        <!-- Termina lista de ligas del navegador -->
+        
+      </div>
+      <!-- Termina conteedor para ligas del navegador -->
+    </div> <!-- Termina contenedor de la barra -->
+  </nav>
+  <!-- Termina la BARRA DE NAVEGACIÓN -->
+<!-- ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ ▴▲▴ ▾▼▾ -->
+
+<!-- .db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db.db. -->
+
+  <!-- Sección del Carrusel - es un plug-in en javascript-->
+  <!-- La clase "slide" es lo que hace que las imágenes se deslicen -->
+  <div id="carrusel" class="carousel slide" data-ride="carousel">
+  
+    <!-- Los puntitos que representan las imágenes: Indicadores. Por lo visto, se hacen con una lista, por lo tanto, debe haber un <li></li> por imagen -->
+    <ol class="carousel-indicators">
+      <li data-target="#carrusel" data-slide-to="0" class="active"></li>
+      <li data-target="#carrusel" data-slide-to="1"></li>
+      <li data-target="#carrusel" data-slide-to="2"></li>
+      <li data-target="#carrusel" data-slide-to="3"></li>
+      <li data-target="#carrusel" data-slide-to="4"></li>
+    </ol> <!-- Terminan los indicadores -->
+    
+<!--• ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • -->     
+    <!-- Envoltorio de las imágenes - se pone un DIV externo, y un div por imagen -->
+    <div class="carousel-inner" role="listbox">
+    
+<!-- .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ -->    
+      <!-- DIV de la 1a imagen - Este div puede contener imágenes o texto -->
+      <div class="item active">
+      
+          <a href="#nosotros"><img src="img/ban/Banner Facebook V Kannonical 1064x395.png" alt="Kannonical Editores"></a>
+        
+      </div> <!-- Termina el DIV de la 1a imagen -->
+<!-- .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ -->       
+      <!-- DIV de la segunda imagen -->
+      <div class="item">
+      
+        <a href="#convocatorias"><img src="img/ban/1064x395 Banner conv FantObsc 2026.jpg" alt="Convocatoria para la antología de relatos de fantasía obscura 2026"></a>
+        
+      </div> <!-- Termina el DIV de la 2a imagen -->
+<!-- .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ -->     
+      <!-- DIV de la 3a imagen -->
+      <div class="item">
+      
+        <a href="apoyar.html"><img src="img/ban/1064x395 Banner Compralibros 2026.jpg" alt="Ayúdanos a seguir publicando antologías gratuitas comprando uno de nuestros libros en venta"></a>
+
+      </div> <!-- Termina el DIV de la 3a imagen -->
+ <!-- .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ -->      
+      <!-- DIV de la 4a imagen -->
+      <div class="item">
+      
+        <a href="libro13.html"><img src="img/ban/1064x395 Elfrio 2026.jpg" alt="Descarga nuestra más reciente antología: El frío del abismo, con cuentos de terror cósmico."></a>
+
+      </div> <!-- Termina el DIV de la 4a imagen -->
+<!-- .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ --> 
+      <!-- DIV de la 5a imagen -->
+      <div class="item">
+      
+        <a href="mailto:kannonical_libros%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20de%20noticias&amp;body=Quiero%20recibir%20noticias%20sobre%20sus%20próximas%20publicaciones%20y%20también%20el%20código%20para%20descargar%20gratis%20uno%20de%20sus%20libros:%20[escoger%20entre%20'Hasta%20la%20última%20gota'%20y%20'Existencia%20de%20sombras'].
+%20Gracias."><img src="img/ban/1064x395 Banner Boletin 2026.jpg" alt="Inscríbete a nuestro boletín de noticias y recibe un cupón para descargar gratis uno de nuestros libros en venta."></a>
+        
+      </div> <!-- Termina el DIV de la 5a imagen -->
+ <!-- .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ .·•⦁⚫ -->  
+
+    </div><!-- Termina el envoltorio de las imágenes -->
+<!--• ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • ⚫ • -->   
+
+    <!-- Las flechitas para cambiar de imagen: controles -->
+    <a class="left carousel-control" href="#carrusel" role="button" data-slide="prev">
+      <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+      <span class="sr-only">Anterior</span>
+    </a>
+    <a class="right carousel-control" href="#carrusel" role="button" data-slide="next">
+      <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+      <span class="sr-only">Siguiente</span>
+    </a>
+    <!-- Termina la sección de controles -->  
+  </div> <!-- Termina la sección del Carrusel -->
+  
+<!-- .o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o.o0o -->
+
+<!-- ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ -->
+  <!-- Sección de Título de la página -->
+  <div class="container text-center titulo">
+    <h2 class="fredericka-the-great-regular">Kannonical Editores</h2>
+    <!--<h2 class="carattere-regular">Kannonical Editores</h2>
+    -->
+    <!--<h2 class="charm-regular">Kannonical Editores</h2>-->
+    <p><em>Historias Interesantes para lectores Inteligentes.</em></p>
+  </div> <!-- Termina título de la página -->
+  
+<!-- ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ ₍^•⁎•^₎⟆ -->
+  
+  <!-- Inicia sección "NOSOTROS", contenedor de tamaño variable con la pantalla -->
+  <div id="nosotros" class="container-fluid rellenos bg-nosotrososc">
+    <!-- Comienza sección "Nosotros" ("row") -->
+    <div class="row">
+      <!-- Inicia sección "Nosotros", columna de 8, texto -->
+      <div class="col-sm-8">
+        <!-- Comienza DIV para meter padding de 80px a ambos lados -->
+
+          <h3 class="text-center">NOSOTROS</h3>
+          <h4><em>Issoku issai, issai sokuichi</em></h4>
+          <p>Somos un colectivo literario/editorial dedicado a publicar antologías digitales gratuitas para dar a   conocer a escritores noveles, seleccionados a través de convocatorias literarias en los géneros de <strong>terror</strong>, <strong>ciencia ficción</strong> y <strong>fantasía</strong> 🤩</p>
+          <p>Esto significa que somos un grupo de personas donando su tiempo para:</p>
+          <ul>
+            <li>Hacer las convocatorias.</li>
+            <li>Leer los cuentos recibidos.</li>
+            <li>Seleccionar los relatos.</li>
+            <li>Editar las historias seleccionadas...</li>
+          </ul>
+          <button class="nosboton" data-toggle="collapse" data-target="#restonosotros">Leer más</button>
+          <div id="restonosotros" class="collapse">
+            <ul>
+              <li>Hacer corrección de estilo a los relatos.</li>
+              <li>Maquetar el libro electrónico de la antología.</li>
+              <li>Planear la portada y las ilustraciones internas.</li>
+              <li>Hacer ilustraciones y/o sacar fotografías para la portada.</li>
+              <li>Hacer el diseño gráfico de la portada.</li>
+              <li>Hacer el diseño gráfico de libro.</li>
+              <li>Hacer el archivo ePub.</li>
+            </ul>
+            <p>Y finalmente, publicar la antología en las principales librerías en línea, además de mantener nuestras redes sociales vivas.</p>
+            <p class="lineacorreo"><em><a href="somos.html">Para saber más sobre nosotros...</em></a></p>
+          </div>
+          <p class="lineacorreo">Nuestro correo electrónico es: <a href="mailto:kannonical_contacto@proton.me">kannonical_contacto@proton.me</a></p>
+   
+      </div> <!-- Termina la columna de 8, texto -->
+      
+      <!-- Inicia Espacio para imagen, columna de 4 -->
+      <div class="col-sm-4 text-center">
+        <img src="img/300x400IssokuKann.jpg" class="img-rounded" alt="Issoku issai, issai sokuichi">
+      </div> <!-- Termina espacio para imagen, columna de 4 -->
+      
+    </div> <!-- Termina la sección "Nosotros" ("row") -->
+  </div>
+  <!-- Termina sección NOSOTROS -->
+
+<!-- ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ ᓚᘏᗢ -->
+
+  <!-- Sección CONVOCATORIAS - contenedor de tamaño variable con la pantalla -->
+  <!-- Inicia el contenedor, con fondo de color -->
+  <div id="convocatorias" class="container-fluid rellenos bg-convoclight">
+    <!-- Comienza el "renglón", Convocatorias -->
+    <div class="row">
+    
+      <!-- Imagen - 4 columnas -->
+      <div class="col-sm-4 text-center">
+        <!-- Meter la imagen de la convocatoria aquí -->
+        <img src="img/conv/1000x1000 Convocat 2026 Fantasia Obsc ene-feb.jpg" class="img-rounded img-responsive rellenoimgabajo" alt="Convocatoria FANTASÍA OBSCURA">
+        <!-- Termina código para imagen de la convocatoria -->
+      </div> <!-- Termina bloque de imagen - 4 columnas -->
+      
+      <!-- Bloque de texto - 8 columnas -->
+      <div class="col-sm-8">
+
+          <h3 class="text-center">CONVOCATORIAS</h3>
+          <p>Aproximadamente cada cuatro meses lanzamos convocatorias con temáticas afines a los géneros que manejamos: <strong>terror</strong>, <strong>fantasía</strong> y <strong>ciencia ficción</strong>.</p>
+          <p>Los relatos seleccionados se incluyen en una antología digital gratuita que se publica en las principales librerías en línea.</p>
+          
+          <p class="nocobramos text-center">◂◀ Kannonical Editores no cobra ni pide dinero para publicar los relatos elegidos ▶▸</p>
+          
+          <p>Este bimestre (<b>enero-febrero</b>) la convocatoria es para cuentos cortos de <b>FANTASÍA OBSCURA</b> en cualquiera de sus dos vertientes:</p>
+          <ul>
+            <li>relatos de fantasía con temas cercanos al terror,</li>
+            <li>escritos de fantasía donde los protagonistas tienen una moralidad ambigua, es decir, no son paladines de la virtud pero tampoco son el villano del relato.</li>
+          </ul>
+          <!-- Botón a la página con las bases -->
+          <p class="rellenobtncv text-center"><a href="convoc.html" class="btn btn-lg btn-danger" role="button">VER NUESTRAS BASES<br/>COMPLETAS</a></p>
+          <!-- Termina botón bases -->
+          
+          <p>Si te interesa conocer más detalles con respecto a nuestras convocatorias, por favor escríbenos a <span class="cnvlineacorreo"><a href="mailto:kannonical_contacto@proton.me">kannonical_contacto@proton.me</a></span>, o déjanos un comentario en nuestro perfil de redes sociales, y te responderemos a la brevedad posible.</p>
+
+      </div> <!-- Termina Bloque de Texto - 8 columnas -->
+      
+    </div> <!-- Termina el "renglón" de "Convocatorias" -->
+  </div> <!-- Termina sección "Convocatorias"- contenedor -->
+  <!-- Termina sección CONVOCATORIAS -->
+  
+  <!-- ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ ʕ ◔ᴥ◔ ʔ -->
+  
+  <!-- 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ 🖤‧₊˚ -->
+  
+  <!-- Sección de LIBROS -->
+  <!-- Base para el color de fondo (y eventualmente los colores de texto) -->
+  <div id="libros" class="bg-libros">
+  
+    <!-- Contenedor para los libros -->
+    <!-- .genero pone el fondo oscuro y las letras blancas en el h4 de los títulos de los géneros -->
+    <div class="container genero"> 
+    
+      <!-- Título y explicación -->
+   
+      <!-- Título - directo en el container -->
+      <h3 class="text-center">LIBROS</h3>
+      <!-- Termina Título -->
+      
+      <!-- Row para explicación -->
+      <div class="row">
+        <!-- columna de relleno -->
+        <div class="col-sm-2">
+        </div>
+        <!-- Termina columna de relleno -->
+        
+        <!-- columna izq para texto -->
+        <div class="col-sm-4">
+        
+          <p class="introlibrostop">La mayor parte de nuestras antologías son gratuitas, salvo <b>Hasta la última gota</b> y <b>Existencia de sombras</b>.</p>
+          
+        </div> <!-- termina col izq texto -->
+        
+        <!-- columna der para texto -->
+        <div class="col-sm-4">
+        
+          <p class="introlibros">Si alguna de las otras no está gratis es porque a veces Amazon cambia los precios sin previo aviso, pero puedes bajarla <b>gratuitamente</b> de las otras librerías en línea.</p>
+      
+        </div>
+        <!-- termina columna der -->
+       
+        <!-- columna de relleno -->
+        <div class="col-sm-2">
+        </div> <!-- termina columna de relleno -->
+        
+      </div> <!-- termina row explicación -->
+      
+      <!-- Termina título y explicación -->
+      
+        <!-- Primer "row" de libros -->
+        <div class="row text-center bg-gris1">
+          <!-- La clase genero en el contenedor le da el fondo oscuro y el color de letra claro al h4 -->
+          <!-- el <a href="#demo" data-toggle="collapse"> es para plegar el div de abajo -->
+          <a href="#plegacifi" data-toggle="collapse"><h5 id="gcifi">CIENCIA FICCIÓN</h5></a>
+          
+          <!-- DIV plegable -->
+          <div id="plegacifi" class="collapse">
+          <!-- ************************************************************************* -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+            <!-- Columna premoniciones -->
+            <div class="col-sm-3 col-xs-6">
+              <!-- Premoniciones "thumbnail" -->
+              <div class="thumbnail">
+                <a href="libro05.html"><img src="img/port/450x600 Kobo Port SciFi Lujan 2.jpg" alt="Premoniciones sintéticas"></a>
+                <p class="titlibro">Premoniciones sintéticas</p>
+                <p class="subtitlibro">Antología de relatos de ciencia ficción</p>
+                <button class="btn" data-toggle="modal" data-target="#modalPremo">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+               </div> <!-- Termina thumbnail -->
+            </div> <!-- Termina columna premoniciones -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+             <!-- Columna Espejismos -->
+             <div class="col-sm-3 col-xs-6">
+              <!-- Espejismos thumbnail -->
+               <div class="thumbnail">
+                 <a href="libro11.html"><img src="img/port/450x600 SciFi 2025 01Bloq.jpg" alt="Espejismos cibernéticos"></a>
+                 <p class="titlibro">Espejismos cibernéticos</p>
+                 <p class="subtitlibro">Antología de relatos de ciencia ficción</p>
+                 <button class="btn" data-toggle="modal" data-target="#modalEspe">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+               </div> <!-- Termina Espejismos thumbnail -->
+             </div> <!-- Termina Espejismos libro -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+            <!-- Columna La Sombra -->
+            <div class="col-sm-3 col-xs-6">
+              <!-- La Sombra thumbnail -->
+               <div class="thumbnail">
+                 <a href="libro10.html"><img src="img/port/450x600 PersFem 01.jpg" alt="La sombra de la Luna"></a>
+                 <p class="titlibro">La sombra de la Luna</p>
+                 <p class="subtitlibro">Antología de cuentos de terror, ciencia ficción y fantasía con perspectiva femenina</p>
+                 <button class="btn" data-toggle="modal" data-target="#modalSombra">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+               </div> <!-- Termina La Sombra thumbnail -->
+             </div> 
+             <!-- Termina La Sombra -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+             <!-- Columna Existencia -->
+             <div class="col-sm-3 col-xs-6">
+              <!-- Existencia thumbnail -->
+              <div class="thumbnail">
+                <a href="libro12.html"><img src="img/port/450x600 Port Fantasmas 2025 2aut.jpg" alt="Existencia de sombras"></a>
+                <p class="titlibro">Existencia de sombras</p>
+                 <p class="subtitlibro">Antología de cuentos de fantasmas</p>
+                <button class="btn" data-toggle="modal" data-target="#modalExis">Comprar el libro</button>
+              </div> <!-- Termina Existencia thumbnail -->
+             </div> 
+             <!-- Termina Existencia -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+<!-- ************************************************************************* -->
+        </div> <!-- termina el DIV colapsable -->
+        
+      </div> 
+        <!-- Termina el primer "row" de libros -->
+<!-- ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ -->        
+    
+      <!-- Segundo "row" de libros -->
+      <div class="row text-center bg-gris2">
+
+        <a href="#plegafanta" data-toggle="collapse"><h5 id="gfanta">FANTASIA</h5></a>
+<!--˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 -->
+        <!-- DIV plegable -->
+        <div id="plegafanta" class="collapse">
+        
+          <!-- 1er Row anidado para poder plegarlo -->
+          <div class="row">
+          <!-- ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+            <!-- Columna BORDADO -->
+            <div class="col-sm-3 col-xs-6">
+            <!-- BORDADO thumbnail -->
+              <div class="thumbnail">
+                <a href="libro06.html"><img src="img/port/480x640 BeeV Kobo.jpg" alt="Bordado en el viento"></a>
+                <p class="titlibro">Bordado en el viento</p>
+                <p class="subtitlibro">Antología de relatos de fantasía</p>
+                <button class="btn" data-toggle="modal" data-target="#modalBordado">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+              </div> <!-- Termina BORDADO thumbnail -->
+            </div> <!-- Termina Columna BORDADO -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+            <!-- Columna LA SOMBRA -->
+            <div class="col-sm-3 col-xs-6">
+              <!-- LA SOMBRA thumbnail -->
+               <div class="thumbnail">
+                 <a href="libro10.html"><img src="img/port/450x600 PersFem 01.jpg" alt="La sombra de la Luna"></a>
+                 <p class="titlibro">La sombra de la Luna</p>
+                 <p class="subtitlibro">Antología de cuentos de terror, ciencia ficción y fantasía con perspectiva femenina</p>
+                 <button class="btn" data-toggle="modal" data-target="#modalSombra">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+               </div> <!-- Termina LA SOMBRA thumbnail -->
+             </div> 
+             <!-- Termina Columna LA SOMBRA -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+            <!-- Columna MEMORIAS -->
+             <div class="col-sm-3 col-xs-6">
+              <!-- MEMORIAS thumbnail -->
+              <div class="thumbnail">
+                <a href="libro02.html"><img src="img/port/450x600 Port Fantasmas 7.jpg" alt="Memorias de la obscuridad"></a>
+                <p class="titlibro">Memorias de la obscuridad</p>
+                <p class="subtitlibro">Antología de cuentos de fantasmas</p>
+                <button class="btn" data-toggle="modal" data-target="#modalMemorias">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+              </div> <!-- Termina MEMORIAS thumbnail -->
+             </div> <!-- Termina MEMORIAS -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+            <!-- Columna VACÍA -->
+            <div class="col-sm-3 col-xs-6">
+            </div> <!-- Termina columna VACÍA -->             
+          <!-- ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ -->
+          </div> <!-- Termina el 1er row anidado -->
+          
+          <!-- 2o Row anidado para poder plegarlo -->
+          <div class="row">
+          <!-- ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+           <!-- Columna EXISTENCIA -->
+           <div class="col-sm-3 col-xs-6">
+            <!-- EXISTENCIA thumbnail -->
+            <div class="thumbnail">
+              <a href="libro12.html"><img src="img/port/450x600 Port Fantasmas 2025 2aut.jpg" alt="Existencia de sombras"></a>
+              <p class="titlibro">Existencia de sombras</p>
+               <p class="subtitlibro">Antología de cuentos de fantasmas</p>
+              <button class="btn" data-toggle="modal" data-target="#modalExis">Comprar el libro</button>
+            </div> <!-- Termina EXISTENCIA thumbnail -->
+           </div> 
+           <!-- Termina Columna EXISTENCIA -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+          <!-- Columna HASTA -->
+          <div class="col-sm-3 col-xs-6">
+            <!-- Primer "thumbnail" HASTA -->
+            <div class="thumbnail">
+              <a href="libro01.html"><img src="img/port/450x600 HlUG rojo 01.jpg" alt="Hasta la última gota"></a>
+              <p class="titlibro">Hasta la última gota</p>
+              <p class="subtitlibro">Antología de relatos de vampiros</p>
+              <button class="btn" data-toggle="modal" data-target="#modalHasta">Comprar el libro</button>
+             </div> <!-- Termina HASTA thumbnail -->
+          </div> <!-- Termina columna HASTA -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->
+          <!-- Columna VACÍA -->
+          <div class="col-sm-6 col-xs-6">
+          </div> <!-- Termina columna VACÍA -->  
+          <!-- ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ -->
+          </div> <!-- Termina el 2o row anidado -->
+        
+        </div> <!-- termina el DIV colapsable -->
+<!--˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 -->        
+      </div> 
+      <!-- Termina el segundo "row" de libros -->
+      
+<!-- ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ -->       
+        
+      <!-- Tercer "row" de libros -->
+      <div class="row text-center bg-gris1">
+      
+        <a href="#plegaterror" data-toggle="collapse"><h5 id="gterror">TERROR</h5></a>
+        
+<!--˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 -->         
+        <!-- DIV plegable -->
+        <div id="plegaterror" class="collapse">
+        
+          <!-- 1er Row anidado para poder plegarlo -->
+          <div class="row">
+          <!-- ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+            <!-- Columna TODAS HIEREN -->
+             <div class="col-sm-3 col-xs-6">
+              <!-- TODAS HIEREN thumbnail -->
+               <div class="thumbnail">
+                 <a href="libro04.html"><img src="img/port/480x640 ThlUM rojo.jpg" alt="Todas hieren, la última mata"></a>
+                 <p class="titlibro">Todas hieren, la última mata</p>
+                 <p class="subtitlibro">Antología de cuentos de terror</p>
+                 <button class="btn" data-toggle="modal" data-target="#modalTodas">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+               </div> <!-- Termina TODAS HIEREN thumbnail -->
+             </div> <!-- Termina Columna TODAS HIEREN -->
+
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+            <!-- Columna MEMORIAS -->
+             <div class="col-sm-3 col-xs-6">
+              <!-- MEMORIAS thumbnail -->
+              <div class="thumbnail">
+                <a href="libro02.html"><img src="img/port/450x600 Port Fantasmas 7.jpg" alt="Memorias de la obscuridad"></a>
+                <p class="titlibro">Memorias de la obscuridad</p>
+                <p class="subtitlibro">Antología de cuentos de fantasmas</p>
+                <button class="btn" data-toggle="modal" data-target="#modalMemorias">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+              </div> <!-- Termina MEMORIAS thumbnail -->
+             </div> <!-- Termina MEMORIAS -->
+
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+            <!-- Columna EL FRÍO -->
+            <div class="col-sm-3 col-xs-6">
+              <!-- EL FRÍO "thumbnail" -->
+              <div class="thumbnail">
+                <a href="libro13.html"><img src="img/port/450x600 Port TerrorCosmInv 2025.jpg" alt="El frío del abismo"></a>
+                <p class="titlibro"><strong>El frío del abismo</strong></p>
+                <p class="subtitlibro">Antología de cuentos de terror cósmico</p>
+                <button class="btn" data-toggle="modal" data-target="#modalFrio">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+               </div> <!-- Termina EL FRÍO thumbnail -->
+            </div> <!-- Termina Columna EL FRÍO --> 
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+            <!-- Columna PROMESAS -->
+            <div class="col-sm-3 col-xs-6">
+            <!-- PROMESAS thumbnail -->
+               <div class="thumbnail">
+                 <a href="libro07.html"><img src="img/port/450x600 P Promesas de sangre 2026 colmillos.jpg" alt="Promesas de sangre"></a>
+                 <p class="titlibro">Promesas de sangre</p>
+                 <p class="subtitlibro">Antología de relatos de vampiros</p>
+                 <button class="btn" data-toggle="modal" data-target="#modalPromesas">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+               </div> <!-- Termina PROMESAS thumbnail -->
+             </div> <!-- Termina Columna PROMESAS -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+          <!-- ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ -->
+          </div> <!-- Termina primer row anidado -->
+          
+          <!-- 2o Row anidado para poder plegarlo -->
+          <div class="row">
+          <!-- ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ -->
+            <!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+           <!-- Columna NAVIDADES -->
+           <div class="col-sm-3 col-xs-6">
+            <!-- NAVIDADES thumbnail -->
+             <div class="thumbnail">
+               <a href="libro08.html"><img src="img/port/450x600 TerrorNav Kobo 04 sin Manzo.jpg" alt="Navidades siniestras"></a>
+               <p class="titlibro">Navidades siniestras</p>
+               <p class="subtitlibro">Antología de cuentos de terror navideño</p>
+               <button class="btn" data-toggle="modal" data-target="#modalNavi">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+             </div> <!-- Termina NAVIDADES thumbnail -->
+           </div> <!-- Termina Columna NAVIDADES -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->   
+          <!-- Columna LA SOMBRA -->
+          <div class="col-sm-3 col-xs-6">
+            <!-- LA SOMBRA thumbnail -->
+             <div class="thumbnail">
+               <a href="libro10.html"><img src="img/port/450x600 PersFem 01.jpg" alt="La sombra de la Luna"></a>
+               <p class="titlibro">La sombra de la Luna</p>
+               <p class="subtitlibro">Antología de cuentos de terror, ciencia ficción y fantasía con perspectiva femenina</p>
+               <button class="btn" data-toggle="modal" data-target="#modalSombra">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+             </div> <!-- Termina LA SOMBRA thumbnail -->
+           </div> 
+           <!-- Termina Columna LA SOMBRA -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+           <!-- Columna EXISTENCIA -->
+           <div class="col-sm-3 col-xs-6">
+            <!-- EXISTENCIA thumbnail -->
+            <div class="thumbnail">
+              <a href="libro12.html"><img src="img/port/450x600 Port Fantasmas 2025 2aut.jpg" alt="Existencia de sombras"></a>
+              <p class="titlibro">Existencia de sombras</p>
+               <p class="subtitlibro">Antología de cuentos de fantasmas</p>
+              <button class="btn" data-toggle="modal" data-target="#modalExis">Comprar el libro</button>
+            </div> <!-- Termina EXISTENCIA thumbnail -->
+           </div> 
+           <!-- Termina Columna EXISTENCIA -->   
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+          <!-- Columna HASTA -->
+          <div class="col-sm-3 col-xs-6">
+            <!-- Primer "thumbnail" HASTA -->
+            <div class="thumbnail">
+              <a href="libro01.html"><img src="img/port/450x600 HlUG rojo 01.jpg" alt="Hasta la última gota"></a>
+              <p class="titlibro">Hasta la última gota</p>
+              <p class="subtitlibro">Antología de relatos de vampiros</p>
+              <button class="btn" data-toggle="modal" data-target="#modalHasta">Comprar el libro</button>
+             </div> <!-- Termina HASTA thumbnail -->
+          </div> <!-- Termina columna HASTA -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->
+          <!-- ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ ❤ -->
+          </div> <!-- Termina el 2o row anidado -->
+        
+        </div> <!-- termina el DIV colapsable -->
+<!--˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 ˚ 🖤 -->         
+      </div>
+      <!-- Termina el tercer row de libros -->
+        
+ <!-- ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ -->      
+          
+      <!-- Cuarto "row" de libros -->
+      <div class="row text-center bg-gris2">
+      
+        <a href="#plegaerotica" data-toggle="collapse"><h5 id="gero">ERÓTICA</h5></a>
+        
+          <!-- DIV plegable -->
+          <div id="plegaerotica" class="collapse">
+          <!-- ************************************************************************* -->
+          <!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ --> 
+         <!-- Columna CUÉNTAMELO -->
+         <div class="col-sm-3 col-xs-6">
+          <!-- CUÉNTAMELO thumbnail -->
+           <div class="thumbnail">
+             <a href="libro03.html"><img src="img/port/450x600 Cuentamelo besos.jpg" alt="Cuéntamelo con lujuria de detalles"></a>
+             <p class="titlibro">Cuéntamelo con lujuria de detalles</p>
+             <p class="subtitlibro">Antolo-orgía de relatos eróticos</p>
+             <button class="btn" data-toggle="modal" data-target="#modalCuenta">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+           </div> <!-- Termina CUÉNTAMELO thumbnail -->
+         </div> <!-- Termina Columna CUÉNTAMELO -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+        <!-- Columna EL AMOR -->
+        <div class="col-sm-3 col-xs-6">
+          <!-- EL AMOR "thumbnail" -->
+          <div class="thumbnail">
+            <a href="libro09.html"><img src="img/port/450x600 Erotica 2025.jpg" alt="El amor dura lo que dura dura"></a>
+            <p class="titlibro">El amor dura lo que dura dura</p>
+            <p class="subtitlibro">Antolo-orgía de relatos eróticos</p>
+            <button class="btn" data-toggle="modal" data-target="#modalAmor">Descargar <span class="label label-danger">¡GRATIS!</span></button>
+           </div> <!-- Termina EL AMOR thumbnail -->
+        </div> <!-- Termina columna EL AMOR -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->  
+        <!-- Columna HASTA -->
+        <div class="col-sm-3 col-xs-6">
+          <!-- Primer "thumbnail" HASTA -->
+          <div class="thumbnail">
+            <a href="libro01.html"><img src="img/port/450x600 HlUG rojo 01.jpg" alt="Hasta la última gota"></a>
+            <p class="titlibro">Hasta la última gota</p>
+            <p class="subtitlibro">Antología de relatos de vampiros</p>
+            <button class="btn" data-toggle="modal" data-target="#modalHasta">Comprar el libro</button>
+           </div> <!-- Termina 1-1 thumbnail -->
+        </div> <!-- Termina columna 1-1 -->
+<!-- ❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･❤･.･.･ -->
+          <!-- ************************************************************************* -->
+          </div> <!-- termina el DIV colapsable -->
+      
+      </div> 
+      <!-- Termina el Cuarto "row" de libros -->
+<!-- ❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤ -->       
+      
+    </div> <!-- Termina contenedor para libros -->
+  </div>
+  <!-- Termina DIV color fondo -->
+  <!-- Termina sección de LIBROS -->
+  <!-- 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ 🖤‧₊'˚ -->
+  
+  <!-- ★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･★･.･.･ -->
+  
+  <!-- Sección MODALES - un "modal" es un pedazo de página que aparece sobre la página actual con un borde transparentoso
+  Se hace un Modal por cada botón -->
+  
+  <!-- MODAL - Hasta la última gota -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalHasta" role="dialog">
+    <!-- Edte DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Hasta la última gota</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Compra la antología en tu plataforma preferida:</p>
+          <a href="https://www.smashwords.com/books/1549563" 
+          target="_blank""><button type="button" class="btn btn-primary btn-block">Smashwords ($2.99 USD)</button></a>
+          <a href="https://www.kobo.com/ebook/hasta-la-ultima-gota" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo ($60.00 MXN, $3.99 USD, 2,82 €)</button></a>
+          <a href="https://books.apple.com/book/id6484316887" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks ($2.99 USD)</button></a>
+          <a href="https://www.barnesandnoble.com/w/1145370210" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble ($2.99 USD)</button></a>
+          <a href="https://books2read.com/b/38OBKa" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <a href="https://www.gandhi.com.mx/hasta-la-ultima-gota-1230007373428/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block"> Librerías Gandhi en línea ($60.00 MXN)</button></a>
+          <a href="https://www.fnac.es/livre-numerique/a10948145/Hasta-la-ultima-gota#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es (2,82 €)</button></a>
+          <a href="https://vivlio.casadellibro.com/product/9798224055364_9798224055364_10020/hasta-la-ultima-gota" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro (2,82 €)</button></a>
+          <a href="https://www.amazon.com.mx/dp/B0CLZN58FY" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México ($60.00 MXN)</button></a>
+          <a href="https://www.amazon.com/dp/B0CLZN58FY" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($2.99 USD)</button></a>
+          <a href="https://www.amazon.es/dp/B0CLZN58FY" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (2,82 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro01.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - Hasta la última gota -->
+  
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+    
+  <!-- MODAL - Memorias de la obscuridad -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalMemorias" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Memorias de la obscuridad</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <a href="https://www.smashwords.com/books/view/1557692" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <a href="https://www.kobo.com/ebook/memorias-de-la-obscuridad" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <a href="https://books.apple.com/book/id6499493975" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <a href="https://www.barnesandnoble.com/w/1147102861" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <a href="https://books2read.com/u/m0J1El" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <a href="https://www.gandhi.com.mx/memorias-de-la-obscuridad-1230007697241/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <a href="https://www.fnac.es/livre-numerique/a11024077/Memorias-de-la-obscuridad#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <a href="https://vivlio.casadellibro.com/product/9798224036820_9798224036820_10020/memorias-de-la-obscuridad-antologia-de-cuentos-de-fantasmas" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <a href="https://www.amazon.com.mx/dp/B0CLZVBZ9K/" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <a href="https://www.amazon.com/dp/B0CLZVBZ9K/" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US</button></a>
+          <a href="https://www.amazon.es/dp/B0CLZVBZ9K/" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro02.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - Memorias -->
+  
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - Cuéntamelo -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalCuenta" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Cuéntamelo con lujuria de detalles</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antolo-orgía de tu plataforma preferida:</p>
+          <a href="https://www.smashwords.com/books/1590843" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <a href="https://www.kobo.com/ebook/cuentamelo-con-lujuria-de-detalles" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <a href="https://books.apple.com/book/id6547840648" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <a href="https://books2read.com/u/mvz1dl" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <a href="https://www.fnac.es/SearchResult/ResultList.aspx?Search=cu%C3%A9ntamelo+con+lujuria+de+detalles&sft=1&sa=0" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <a href="https://vivlio.casadellibro.com/product/9798227164315_9798227164315_10020/cuentamelo-con-lujuria-de-detalles-antolo-orgia-de-relatos-eroticos" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <a href="https://www.amazon.com.mx/dp/B0CVF2XBSV" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <a href="https://www.amazon.com/dp/B0CVF2XBSV" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US</button></a>
+          <a href="https://www.amazon.es/dp/B0CVF2XBSV" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro03.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - Cuéntamelo -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - TODAS HIEREN -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalTodas" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Todas hieren, la última mata</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <a href="https://www.smashwords.com/books/view/1552200" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <a href="https://www.kobo.com/ebook/todas-hieren-la-ultima-mata" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <a href="https://books.apple.com/book/id6497715475" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <a href="https://www.barnesandnoble.com/w/1147142443" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <a href="https://books2read.com/u/3kOLAN" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <a href="https://www.gandhi.com.mx/todas-hieren--la-ultima-mata-1230007645549/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <a href="https://www.fnac.es/livre-numerique/a10994892/Todas-hieren-la-ultima-mata#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <a href="https://vivlio.casadellibro.com/product/9798224620494_9798224620494_10020/todas-hieren-la-ultima-mata-antologia-de-cuentos-de-terror" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <a href="https://www.amazon.com.mx/dp/B0D1V1HZH6" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <a href="https://www.amazon.com/dp/B0D1V1HZH6" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($0.99 USD)</button></a>
+          <a href="https://www.amazon.es/dp/B0D1V1HZH6" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro04.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - TODAS HIEREN -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - PREMONICIONES -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalPremo" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Premoniciones sintéticas</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <!-- URL de premoniciones en Smashwords -->
+          <a href="https://www.smashwords.com/books/1586115" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <!-- URL de premoniciones en Kobo -->
+          <a href="https://www.kobo.com/ebook/premoniciones-sinteticas" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <!-- URL de premoniciones en AppleBooks -->
+          <a href="https://books.apple.com/book/id6514281697" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <!-- URL de premoniciones en Barnes&Noble -->
+          <a href="https://www.barnesandnoble.com/w/1147142420" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <!-- URL de premoniciones en agregador de Books2Read -->
+          <a href="https://books2read.com/u/4jpDJk" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <!-- URL de premoniciones en Gandhi -->
+          <a href="https://www.gandhi.com.mx/premoniciones-sinteticas-1230008093851/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <!-- URL de premoniciones en fnac -->
+          <a href="https://www.fnac.es/livre-numerique/a11173436/Premoniciones-sinteticas#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <!-- URL de premoniciones en Casa del Libro -->
+          <a href="https://vivlio.casadellibro.com/product/9798227650801_9798227650801_10020/premoniciones-sinteticas-antologia-de-relatos-de-ciencia-ficcion" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <!-- URL de premoniciones en Amazon MX -->
+          <a href="https://www.amazon.com.mx/dp/B0D8VGGBY7" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <!-- URL de premoniciones en Amazon US -->
+          <a href="https://www.amazon.com/dp/B0D8VGGBY7" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($0.99 USD)</button></a>
+          <!-- URL de premoniciones en Amazon ES -->
+          <a href="https://www.amazon.es/dp/B0D8VGGBY7" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro05.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - PREMONICIONES -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+
+  
+  <!-- MODAL - BORDADO -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalBordado" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Bordado en el viento</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <!-- URL de Bordado en Smashwords -->
+          <a href="https://www.smashwords.com/books/view/1612103" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <!-- URL de Bordado en Kobo -->
+          <a href="https://www.kobo.com/mx/es/ebook/bordado-en-el-viento" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <!-- URL de Bordado en AppleBooks -->
+          <a href="https://books.apple.com/book/id6670410196" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <!-- URL de Bordado en Barnes&Noble -->
+          <a href="https://www.barnesandnoble.com/w/1146243379" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <!-- URL de Bordado en agregador de Books2Read -->
+          <a href="https://books2read.com/u/4Eg55A" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <!-- URL de Bordado en Gandhi -->
+          <a href="https://www.gandhi.com.mx/bordado-en-el-viento-1230008317957/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <!-- URL de Bordado en fnac -->
+          <a href="https://www.fnac.es/livre-numerique/a11292328/Bordado-en-el-viento#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <!-- URL de Bordado en Casa del Libro -->
+          <a href="https://vivlio.casadellibro.com/product/9798227201324_9798227201324_10020/bordado-en-el-viento" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <!-- URL de Bordado en Amazon MX -->
+          <a href="https://www.amazon.com.mx/dp/B0DFXFV4MR" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <!-- URL de Bordado en Amazon US -->
+          <a href="https://www.amazon.com/dp/B0DFXFV4MR" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($0.99 USD)</button></a>
+          <!-- URL de Bordado en Amazon ES -->
+          <a href="https://www.amazon.es/dp/B0DFXFV4MR" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro06.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - BORDADO -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - PROMESAS -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalPromesas" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Promesas de sangre</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <!-- URL de PROMESAS en Smashwords -->
+          <a href="https://www.smashwords.com/books/view/1638508" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <!-- URL de PROMESAS en Kobo -->
+          <a href="https://www.kobo.com/ebook/promesas-de-sangre" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <!-- URL de PROMESAS en AppleBooks -->
+          <a href="https://books.apple.com/book/id6737296082" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <!-- URL de PROMESAS en Barnes&Noble -->
+          <a href="https://www.barnesandnoble.com/w/1149080577" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <!-- URL de PROMESAS en agregador de Books2Read -->
+          <a href="https://books2read.com/u/me1N1V" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <!-- URL de PROMESAS en Gandhi -->
+          <a href="https://www.gandhi.com.mx/promesas-de-sangre-1230008474865/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <!-- URL de PROMESAS en fnac -->
+          <a href="https://www.fnac.es/livre-numerique/a11400259/Promesas-de-sangre#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <!-- URL de PROMESAS en Casa del Libro -->
+          <a href="https://vivlio.casadellibro.com/product/9798227823496_9798227823496_10020/promesas-de-sangre" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <!-- URL de PROMESAS en Amazon MX -->
+          <a href="https://www.amazon.com.mx/dp/B0DKRF9Q9T" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <!-- URL de PROMESAS en Amazon US -->
+          <a href="https://www.amazon.com/dp/B0DKRF9Q9T" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($0.99 USD)</button></a>
+          <!-- URL de PROMESAS en Amazon ES -->
+          <a href="https://www.amazon.es/dp/B0DKRF9Q9T" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro07.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - PROMESAS -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - NAVIDADES -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalNavi" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Navidades siniestras</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <!-- URL de NAVIDADES en Smashwords -->
+          <a href="https://www.smashwords.com/books/view/1656935" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <!-- URL de NAVIDADES en Kobo -->
+          <a href="https://www.kobo.com/ebook/navidades-siniestras" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <!-- URL de NAVIDADES en AppleBooks -->
+          <a href="https://books.apple.com/book/id6738879464" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <!-- URL de NAVIDADES en Barnes&Noble -->
+          <a href="https://www.barnesandnoble.com/w//1146618800" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <!-- URL de NAVIDADES en agregador de Books2Read -->
+          <a href="https://books2read.com/u/38q00w" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <!-- URL de NAVIDADES en Gandhi -->
+          <a href="https://www.gandhi.com.mx/navidades-siniestras-1230008586728/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <!-- URL de NAVIDADES en fnac -->
+          <a href="https://www.fnac.es/livre-numerique/a11486864/Navidades-siniestras#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <!-- URL de NAVIDADES en Casa del Libro -->
+          <a href="https://vivlio.casadellibro.com/product/9798230909712_9798230909712_10020/navidades-siniestras" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <!-- URL de NAVIDADES en Amazon MX -->
+          <a href="https://www.amazon.com.mx/dp/B0DPD9MB8V" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <!-- URL de NAVIDADES en Amazon US -->
+          <a href="https://www.amazon.com/dp/B0DPD9MB8V" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($0.99 USD)</button></a>
+          <!-- URL de NAVIDADES en Amazon ES -->
+          <a href="https://www.amazon.es/dp/B0DPD9MB8V" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro08.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - NAVIDADES -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - EL AMOR -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalAmor" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> El amor dura lo que dura dura</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antolo-orgía de tu plataforma preferida:</p>
+          <a href="https://www.smashwords.com/books/view/1705983" target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <a href="https://www.kobo.com/ebook/el-amor-dura-lo-que-dura-dura" target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <a href="https://books.apple.com/book/id6741764036" target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <a href="https://www.barnesandnoble.com/w/1146968929" target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <a href="https://books2read.com/u/3RkPOG" target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <a href="https://www.fnac.es/livre-numerique/a11695399/El-amor-dura-lo-que-dura-dura#FORMAT=ePub" target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <a href="https://vivlio.casadellibro.com/product/9798230811732_9798230811732_10020/el-amor-dura-lo-que-dura-dura-antolo-orgia-de-cuentos-eroticos" target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <a href="https://www.amazon.com.mx/dp/B0DWKQQY3T" target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <a href="https://www.amazon.com/dp/B0DWKQQY3T" target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($0.99 USD)</button></a>
+          <a href="https://www.amazon.es/dp/B0DWKQQY3T" target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro09.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - EL AMOR -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - LA SOMBRA -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalSombra" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> La sombra de la Luna</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <!-- URL de premoniciones en Smashwords -->
+          <a href="https://www.smashwords.com/books/view/1720639" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <!-- URL de LA SOMBRA en Kobo -->
+          <a href="https://www.kobo.com/mx/es/ebook/la-sombra-de-la-luna-2" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <!-- URL de LA SOMBRA en AppleBooks -->
+          <a href="https://books.apple.com/book/id6742753995" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <!-- URL de LA SOMBRA en Barnes&Noble -->
+          <a href="https://www.barnesandnoble.com/w/1147080098" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <!-- URL de LA SOMBRA en agregador de Books2Read -->
+          <a href="https://books2read.com/u/310pB7" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <!-- URL de LA SOMBRA en Gandhi -->
+          <a href="https://www.gandhi.com.mx/la-sombra-de-la-luna-1230008831651/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <!-- URL de LA SOMBRA en fnac -->
+          <a href="https://www.fnac.es/livre-numerique/a11774877/La-sombra-de-la-Luna#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <!-- URL de LA SOMBRA en Casa del Libro -->
+          <a href="https://vivlio.casadellibro.com/product/9798230179306_9798230179306_10020/la-sombra-de-la-luna-antologia-de-cuentos-de-terror-ciencia-ficcion-y-fantasia-con-perspectiva-femenina" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <!-- URL de LA SOMBRA en Amazon MX -->
+          <a href="https://www.amazon.com.mx/dp/B0DZ3SRZ24" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <!-- URL de LA SOMBRA en Amazon US -->
+          <a href="https://www.amazon.com/dp/B0DZ3SRZ24" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US</button></a>
+          <!-- URL de LA SOMBRA en Amazon ES -->
+          <a href="https://www.amazon.es/dp/B0DZ3SRZ24" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro10.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - LA SOMBRA -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - ESPEJISMOS -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalEspe" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Espejismos cibernéticos</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <!-- URL de ESPEJISMOS en Smashwords -->
+          <a href="https://www.smashwords.com/books/view/1770036" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <!-- URL de ESPEJISMOS en Kobo -->
+          <a href="https://www.kobo.com/ebook/espejismos-ciberneticos" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <!-- URL de ESPEJISMOS en AppleBooks -->
+          <a href="https://books.apple.com/book/id6745910152" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <!-- URL de ESPEJISMOS en Barnes&Noble -->
+          <a href="https://www.barnesandnoble.com/w/1147431188" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <!-- URL de ESPEJISMOS en agregador de Books2Read -->
+          <a href="https://books2read.com/u/bozYdV" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <!-- URL de ESPEJISMOS en Gandhi -->
+          <a href="https://www.gandhi.com.mx/espejismos-ciberneticos-1230009027060/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <!-- URL de ESPEJISMOS en fnac -->
+          <a href="https://www.fnac.es/livre-numerique/a11997001/Espejismos-ciberneticos#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <!-- URL de ESPEJISMOS en Casa del Libro -->
+          <a href="https://vivlio.casadellibro.com/product/9798231701629_9798231701629_10020/espejismos-ciberneticos-antologia-de-relatos-de-ciencia-ficcion" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <!-- URL de ESPEJISMOS en Amazon MX -->
+          <a href="https://www.amazon.com.mx/dp/B0F8TNCDX5" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <!-- URL de ESPEJISMOS en Amazon US -->
+          <a href="https://www.amazon.com/dp/B0F8TNCDX5" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($0.99 USD)</button></a>
+          <!-- URL de ESPEJISMOS en Amazon ES -->
+          <a href="https://www.amazon.es/dp/B0F8TNCDX5" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro11.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - ESPEJISMOS -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - EXISTENCIA -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalExis" role="dialog">
+    <!-- Edte DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> Existencia de sombras</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Compra la antología en tu plataforma preferida:</p>
+          <a href="https://www.smashwords.com/books/1879417" 
+          target="_blank""><button type="button" class="btn btn-primary btn-block">Smashwords ($2.99 USD)</button></a>
+          <a href="https://www.kobo.com/ebook/existencia-de-sombras" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo ($60.00 MXN, $2.99 USD, 2,82 €)</button></a>
+          <a href="https://books.apple.com/book/id6754006229" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks ($2.99 USD)</button></a>
+          <a href="https://www.barnesandnoble.com/w/1148535700" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble ($2.99 USD)</button></a>
+          <a href="https://books2read.com/b/4EXKnY" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <a href="https://www.gandhi.com.mx/existencia-de-sombras-1230009432901/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi en línea ($60.00 MXN)</button></a>
+          <a href="https://www.fnac.es/livre-numerique/a12474676/Existencia-de-sombras#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es (2,82 €)</button></a>
+          <a href="https://vivlio.casadellibro.com/product/9798232970390_9798232970390_10020/existencia-de-sombras-antologia-de-cuentos-de-fantasmas" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro (2,82 €)</button></a>
+          <a href="https://www.amazon.com.mx/dp/B0FW93K4V6" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México ($60.00 MXN)</button></a>
+          <a href="https://www.amazon.com/dp/B0FW93K4V6" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($2.99 USD)</button></a>
+          <a href="https://www.amazon.es/dp/B0FW93K4V6" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (2,82 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro12.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - EXISTENCIA -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+  
+  <!-- MODAL - EL FRÍO -->
+  <!-- El siguiente DIV sirve como parent del Modal, el id es como lo llama el botón -->
+  <div class="modal fade" id="modalFrio" role="dialog">
+    <!-- Este DIV le da el ancho y el margen al Modal -->
+    <div class="modal-dialog">
+    
+      <!-- Contenido del Modal -->
+      <div class="modal-content">
+      
+        <!-- Cabecera del Modal -->
+        <div class="modal-header">
+          <!-- La "X" de la esquinita para cerrar el Modal -->
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <!-- Termina el boton X -->
+          <!-- Para este h4 se modificaron los h4 en los estilos -->
+          <h4><span class="glyphicon glyphicon-download"></span> El frío del abismo</h4>
+          <!-- Termina el h4 -->
+        </div>
+        <!-- Termina la cabecera del Modal -->
+        
+        <!-- Cuerpo del Modal -->
+        <div class="modal-body">
+          <!-- Aquí se mete el contenido del Modal: texto, imágenes, botones, formas, listas, etc. -->
+          <p class="text-center">Descarga <strong>gratis</strong> la antología de tu plataforma preferida:</p>
+          <!-- URL de EL FRÍO en Smashwords -->
+          <a href="https://www.smashwords.com/books/view/1917491" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Smashwords</button></a>
+          <!-- URL de EL FRÍO en Kobo -->
+          <a href="https://www.kobo.com/ebook/el-frio-del-abismo" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Kobo</button></a>
+          <!-- URL de EL FRÍO en AppleBooks -->
+          <a href="https://books.apple.com/book/id6756180826" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">AppleBooks</button></a>
+          <!-- URL de EL FRÍO en Barnes&Noble -->
+          <a href="https://www.barnesandnoble.com/w/1148938579" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Barnes&Noble</button></a>
+          <!-- URL de EL FRÍO en agregador de Books2Read -->
+          <a href="https://books2read.com/u/3yGLxB" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Enlace agregador de Books2Read</button></a>
+          <!-- URL de EL FRÍO en Gandhi -->
+          <a href="https://www.gandhi.com.mx/el-frio-del-abismo-1230009554993/p" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Librerías Gandhi</button></a>
+          <!-- URL de EL FRÍO en fnac -->
+          <a href="https://www.fnac.es/livre-numerique/a12671982/El-frio-del-abismo#FORMAT=ePub" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">fnac.es</button></a>
+          <!-- URL de EL FRÍOs en Casa del Libro -->
+          <a href="https://vivlio.casadellibro.com/product/9798232212797_9798232212797_10020/el-frio-del-abismo-antologia-de-cuentos-de-terror-cosmico" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Casa del Libro</button></a>
+          <!-- URL de EL FRÍO en Amazon MX -->
+          <a href="https://www.amazon.com.mx/dp/B0G58V113Z" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon México</button></a>
+          <!-- URL de EL FRÍO en Amazon US -->
+          <a href="https://www.amazon.com/dp/B0G58V113Z" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon US ($0.99 USD)</button></a>
+          <!-- URL de EL FRÍO en Amazon ES -->
+          <a href="https://www.amazon.es/dp/B0G58V113Z" 
+          target="_blank"><button type="button" class="btn btn-primary btn-block">Amazon España (0,89 €)</button></a>
+          <!-- termina texto y anexas -->
+        </div>
+        <!-- Termina el cuerpo del Modal -->
+        
+        <!-- Pie de página del Modal -->
+        <div class="modal-footer">
+          <!-- Boton para cancelar y cerrar el Modal -->
+          <button type="submit" class="btn btn-danger btn-default pull-left" data-dismiss="modal">
+            <span class="glyphicon glyphicon-remove"></span> Cerrar
+          </button>
+          <!-- Termina botón cancelar -->
+          <p><a href="libro13.html">Ir al libro</a></p>
+        </div>
+        <!-- Termina el Pie -->
+        
+      </div>
+      <!-- Termina el contenido del Modal -->
+    
+    </div> <!-- termina el modal-dialog -->
+  </div> <!-- Termina el div parent del Modal -->
+  <!-- Termina MODAL - EL FRÍO -->
+    
+<!-- ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ ' ★ . ★ -->
+
+  <!-- Termina la sección de MODALES -->
+  
+  <!-- (^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^)(^⋆x⋆^) -->
+  
+  <!-- Sección de AUTORES -->
+  <!-- Contenedor base para fondo -->
+  <div class="bg-cuasibco">
+    <!-- Contenedor base -->
+    <div id="autores" class="container text-center">
+      <!-- Va el primer "row" de los autores -->
+      <!-- Texto directo en el container -->
+      <h3>NUESTROS AUTORES</h3>
+      <p>Durante el tiempo que llevamos publicando, varios autores se han quedado con nosotros gracias la calidad de sus relatos:</p>
+      <br/>
+      <!-- Termina texto -->
+      <div class="row">
+      
+        <!-- aut 1-1 - Col2 (col2 me da 6 columnas, porque 6x2=12) -->
+        <!-- funcionan bien con el max-width y el max-height en el CSS -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <p class="nomaut">Angelique H. Saviñón</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa01" data-toggle="collapse">
+            <img src="img/aut/200x300 Autora03.jpg" class="img-circle person" alt="Angelique H. Saviñón">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa01" class="collapse">
+            <p>Escribe cuentos cortos y novelas</p>
+            <p>Tiene una serie de fantasía urbana.</p>
+            <p><a href="autor01.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 1-1 -->
+        </div> <!-- Termina aut 1-1 col4-->
+        
+        <!-- aut 1-2 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <p class="nomaut">B.D. Aguayo</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa02" data-toggle="collapse">
+            <img src="img/aut/200x300BDAguayoAma.jpg" class="img-circle person" alt="B.D. Aguayo">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa02" class="collapse">
+            <p>Le gustan los gatos.</p>
+            <p>Medio le hace al HTML y al CSS.</p>
+            <p><a href="autor02.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 1-2 -->
+        </div> <!-- Termina aut 1-2 col2-->
+        
+        <!-- aut 1-3 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+         <p class="nomaut">Andrés de Zamacona</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa03" data-toggle="collapse">
+            <img src="img/aut/200x300 Autor04.jpg" class="img-circle person" alt="Andrés de Zamacona">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa03" class="collapse">
+            <p>Vive en Monterrey, México.</p>
+            <p>Escribe desde hace más de 10 años.</p>
+            <p><a href="autor03.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 1-3 -->
+        </div> <!-- Termina aut 1-3 col2-->
+      
+        <!-- aut 1-4 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <p class="nomaut">Carla Rosales</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa04" data-toggle="collapse">
+            <img src="img/aut/200x300 Autora01.jpg" class="img-circle person" alt="Carla Rosales">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa04" class="collapse">
+            <p>Tiene la maestría en neuropsicología.</p>
+            <p>Nació en la Ciudad de México.</p>
+            <p><a href="autor04.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 1-4 -->
+        </div> <!-- Termina aut 1-4 col2-->
+        
+        <!-- aut 1-5 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <p class="nomaut">Sofía Serra</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa05" data-toggle="collapse">
+            <img src="img/aut/200x300 Autora02.jpg" class="img-circle person" alt="Sofía Serra">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa05" class="collapse">
+            <p>Es artista visual.</p>
+            <p>Es mexicana.</p>
+            <p><a href="autor05.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 1-5 -->
+        </div> <!-- Termina aut 1-5 col2-->
+        
+        <!-- aut 1-6 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+         <p class="nomaut">Iván Aragón Muñiz</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa06" data-toggle="collapse">
+            <img src="img/aut/200x300 Autor03.jpg" class="img-circle person" alt="Iván Aragón Muñiz">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa06" class="collapse">
+            <p>Es un aficionado del género fantástico en todas sus presentaciones.</p>
+            <p>Es militar profesional.</p>
+            <p><a href="autor06.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 1-6 -->
+        </div> <!-- Termina aut 1-6 col2-->
+      </div> 
+      <!-- Termina el 1er row de autores -->
+      
+      <!-- 2do row de autores -->
+      <div class="row">
+    
+        <!-- aut 2-1 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 2-1 -->
+        </div> <!-- Termina aut 2-1 col2-->
+        
+        <!-- aut 2-2 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <p class="nomaut">Ulises Luján</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa07" data-toggle="collapse">
+            <img src="img/aut/200x300 Autor06.jpg" class="img-circle person" alt="Ulises Luján">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa07" class="collapse">
+            <p>Estudió Creación Literaria en la Ciudad de México.</p>
+            <p>Escribe reseñas y ensayos literarios.</p>
+            <p><a href="autor07.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+        </div> <!-- Termina aut 2-2 col2-->
+       
+        <!-- aut 2-3 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <p class="nomaut">Yolanda Fernández Benito</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa08" data-toggle="collapse">
+            <img src="img/aut/200x300 Autora05.jpg" class="img-circle person" alt="Yolanda Fernández Benito">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa08" class="collapse">
+            <p>Escribe terror cotidiano.</p>
+            <p>Ha vivido más de medio siglo.</p>
+            <p><a href="autor08.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+        </div> <!-- Termina aut 2-3 col2-->
+        
+        <!-- aut 2-4 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+         <p class="nomaut">Jesús Durán</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa09" data-toggle="collapse">
+            <img src="img/aut/200x300 Autor01.jpg" class="img-circle person" alt="Jesús Durán">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa09" class="collapse">
+            <p>Colabora en diversas revistas y antologías.</p>
+            <p>Escribe poesía.</p>
+            <p><a href="autor09.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 2-4 -->
+        </div> <!-- Termina aut 2-4 col2-->
+        
+        <!-- aut 2-5 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <p class="nomaut">Libertad García-Villada</p><br/>
+          <!-- Hacer clic en la imagen colapsa y descolapsa el texto colapsable -->
+          <a href="#colapsa10" data-toggle="collapse">
+            <img src="img/aut/200x300 Autora07.jpg" class="img-circle person" alt="Libertad García-Villada">
+          </a>
+          <!-- Contenido colapsable -->
+          <div id="colapsa10" class="collapse">
+            <p>Tiene tres novelas.</p>
+            <p>Tiene un blog de poemas, relatos y reseñas.</p>
+            <p><a href="autor10.html">Conocer más...</a></p>
+          </div> <!-- Termina contenido colapsable -->
+          <!-- Termina contenido 2-5 -->
+        </div> <!-- Termina aut 2-5 col2-->
+        
+        <!-- aut 2-6 - Col2 -->
+        <div class="col-sm-2 col-xs-6">
+          <!-- Va el contenido: Nombre, imagen y texto -->
+          <!-- Termina contenido -->
+        </div> <!-- Termina aut 2-6 col2-->
+        
+      </div> 
+      <!-- Termina el 2do row de autores -->
+      
+    </div>   <!-- Termina contenedor base de autores -->
+  </div> <!-- Termina contenedor para color de fondo -->
+  <!-- Termina sección AUTORES -->
+  
+  <!-- .･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･.･:*:･. -->
+  
+  <!-- Sección CONTACTO / REDES SOCIALES -->
+  <!-- Base para el color de fondo -->
+  <div class="bg-nosotros">
+    <!-- Container base - nótese el mismo color de fondo que el div de base -->
+    <div id="contacto" class="container bg-nosotros">
+      <!-- Div para efectos de fondo -->
+      <div class="bg-libros containcontacto">
+        <h3  class="text-center">CONTACTO</h3>
+        <p class="text-center">Apúntate a nuestro boletín de noticias y visita nuestras redes sociales:</p>
+        
+        <div class="row">
+          
+          <div class="col-sm-5">
+            <p class="text-right">Para cualquier pregunta sobre nuestras antologías o sobre las convocatorias, escríbenos a</p>
+            <p class="contcorreo text-right"><a href="mailto:kannonical_contacto@proton.me">kannonical_contacto@proton.me</a></p>
+            <p class="text-right">Para suscribirte a nuestro boletín de noticias, escríbenos a</p>
+            <p class="contcorreo text-right"><a href="mailto:kannonical_boletin%40proton.me?subject=Quiero%20suscribirme%20a%20su%20boletín%20(desde%20pág%20web)&body=Quiero%20recibir%20noticias%20sobre%20sus%20próximas%20publicaciones.%20Gracias.">kannonical_boletin@proton.me</a></p>
+          </div>
+          
+          <div class="col-sm-2">
+            <div class="text-center contrelleno">
+              <img src="img/icon/50x50emailineas-neg.png">
+              <img src="img/icon/50x50Fb-neg.png">
+              <img src="img/icon/50x50Instag-neg.png">
+              <img src="img/icon/50x50youtube-neg.png">
+            </div>
+          </div>
+        
+          <div class="col-sm-5">
+            <p class="text-left">Visita nuestro facebook:</p>
+            <p class="text-left contliga"><a href="https://facebook.com/Kannonical" target="_blank">facebook/Kannonical</a></p>
+            <p class="text-left">En Instagram, puedes encontrarnos en:</p>
+            <p class="text-left contliga"><a href="https://instagram.com/editorial_kannonical" target="_blank">instagram.com/editorial_kannonical</a></p>
+            <p class="text-left">Visita nuestro canal de YouTube en</p>
+            <p class="text-left contliga"><a href="https://www.youtube.com/@kannonical" target="_blank">youtube/@kannonical</a></p>
+          </div>
+          
+          <div class="col-sm-2">
+        </div> <!-- Termina el row -->
+        
+      </div> <!-- Termina el div para efectos de fondo -->
+      
+      </div> <!-- Termina el div container base -->
+      
+    </div>
+    <!-- Termina Container base -->
+  </div>
+  <!-- Termina el contenedor para el color de fondo -->
+  <!-- Termina CONTACTO / REDES SOCIALES -->
+  
+  <!-- ･*:.｡. .｡.:*･*:.｡. .｡.:*･*:.｡. .｡.:*･*:.｡. .｡.:*･*:.｡. .｡.:*･*:.｡. .｡.:*･*:.｡. .｡.:*･*:.｡. .｡.:*･*:.｡. .｡.:* -->
+  
+  <!-- Sección PIE DE PÁGINA -->
+  <!-- etiqueta footer para color de fondo y de texto -->
+  <footer id="piepagina" class="bg-piepag text-center">
+    <!-- Container base -->
+    <div class="container">
+      <!-- Flechita para arriba -->
+      <a class="up-arrow espacioabajo" href="#inicio" data-toggle="tooltip" title="Arriba">
+        <span class="glyphicon glyphicon-chevron-up"></span>
+      </a> 
+      <br/><br/>
+      <!-- Fin flechita para arriba -->
+      
+      <!-- 1er row -->
+      <div class="row">
+      
+        <!-- 1-1, col2 -->
+        <div class="col-sm-2">
+        </div>
+        <!-- Termina 1-1, col2 -->
+        
+        <!-- 1-2, col8 -->
+          <div class="col-sm-8 text-center">
+            <a class="pierelleno" href="mailto:kannonical_contacto@proton.me"><img id="correo" src="img/icon/50x50email-bco.png"></a>
+            <a class="pierelleno" href="https://facebook.com/Kannonical" target="_blank"><img id="fb" src="img/icon/50x50Fb-bco.png"></a>
+            <a class="pierelleno" href="https://instagram.com/editorial_kannonical" target="_blank"><img id="insta" src="img/icon/50x50Instag-bco.png"></a>
+            <a class="pierelleno" href="https://youtube.com/@kannonical" target="_blank"><img id="yt" src="img/icon/50x50youtube-bco.png"></a>
+          </div>
+        
+        <!-- 1-3, col2 - se deja vacía centrar el texto y las ligas -->
+        <div class="col-sm-2">
+        </div>
+        <!-- Termina 1-3, col2 -->
+        
+      </div> <!-- Termina 1er row -->
+      
+      <!-- Inicia 2do row -->
+      <div class="row">
+        <!-- 2-1, col 2 -->
+        <div class="col-sm-2">
+        </div>
+        <!-- termina 1-2, col2 -->
+        
+        <!-- 2-2, col 8 -->
+        <div class="col-sm-8 text-center piepag">
+          <p>Kannonical Editores 2023-2026</p>
+        </div>
+        <!-- termina 1-2, col8 -->
+        
+        <!-- 2-3, col 2 -->
+        <div class="col-sm-2">
+        </div>
+        <!-- termina 1-2, col2 -->
+        
+      </div> <!-- Fin 2o row -->
+      <!-- Termina 2do row -->
+    </div>
+    <!--Termina container base -->
+  </footer> <!--Termina DIV para color -->
+  
+
+  <!-- Termina PIE DE PÁGINA -->
+  
+  <!-- ✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧✩₊˚.⋆☾⋆⁺₊✧ -->
+  
+  <script>
+
+$(document).ready(function(){
+  // Initialize Tooltip
+  $('[data-toggle="tooltip"]').tooltip(); 
+  
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 900, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+})
+
+  </script>
+  
+</body>
+</html>
+
