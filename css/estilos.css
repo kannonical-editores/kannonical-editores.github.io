@@ -541,11 +541,11 @@ footer a:hover, footer a:focus {
   padding-right: 20px;  
 }
 
-#correo:hover, #fb:hover, #insta:hover, #yt:hover {
+#correo:hover, #fb:hover, #insta:hover, #yt:hover, #bsky:hover {
   opacity: 0.7;
 }
 
-#correo:focus, #fb:focus, #insta:focus, #yt:focus {
+#correo:focus, #fb:focus, #insta:focus, #yt:focus, #bsky:focus {
   opacity: 0.7;
 }
 
