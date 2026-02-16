@@ -170,7 +170,7 @@ h3 {
 }
 
 .bg-autores {
-  background-color: #E8E8E8;/*#FABADA; demasiado morado-rosaseo*/
+  background-color: #E8E8E8;/*#FFE6E8;* rosa horrible//*#FABADA; demasiado morado-rosaseo*/
 }
 
 .bg-apoyar {
@@ -178,6 +178,15 @@ h3 {
   background-image:
     linear-gradient(
       #a3f5cc, #02d4e3, #a3f5cc
+    );
+}
+
+.bg-filmineria {
+  color: #ffffff;
+  background-color: #FB1287;
+  background-image:
+    linear-gradient(
+      #FB1287, #FB1287, #800010
     );
 }
 
@@ -207,7 +216,7 @@ h3 {
   
 /* Color de la orilla de la bolita del "indicator" */
 .carousel-indicators li {
-    border-color: #E8E8E8 !important;/*border-color: #cc0018 !important; bordes rojos*/
+    border-color: #E8E8E8 !important;/*#cc0018 !important; COLOR ROJO*/
   }
   
 /* Color de la bolita del "indicator" */
@@ -686,4 +695,28 @@ footer a:hover, footer a:focus {
 .apoyrelleno {
   padding-top: 20px;
   padding-bottom: 30px;
+}
+
+/*PÁGINA FIL-MINERÍA*/
+.bg-filmineria h3 {
+  text-shadow: 2px 2px #16A843; /*16a843 es color verdecito*/
+}
+
+.filrelleno {
+  /*padding-top: 20px;*/
+  padding-bottom: 50px;
+}
+
+.xtralineacorreo { /*se pone sobre un p o un span. no funciona sobre <a>*/
+  margin-top: 1em;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+.xtralineacorreo a {
+  color: #ffff00 !important;
+}
+
+.xtralineacorreo a:hover, a:focus, a:active {
+  color: #000 !important;
 }
